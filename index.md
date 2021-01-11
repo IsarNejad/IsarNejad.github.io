@@ -5,7 +5,7 @@ Research scientist at National Research Council Canada
 Machine Laerning - Natural Language Processing - Medical Text Processing 
 
 ### Linkedin Page
-![Link](https://www.linkedin.com/in/isarnejad/)
+[Link](https://www.linkedin.com/in/isarnejad/)
 
 ### Google Scholar 
 

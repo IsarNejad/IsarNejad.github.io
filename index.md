@@ -2,7 +2,7 @@
 Research scientist at National Research Council Canada
 
 ## Research Interests
-Machine Laerning - Natural Language Processing - Medical Text Processing 
+Machine Learning - Natural Language Processing - Medical Text Processing 
 
 ### Web pages
 [Linkedin](https://www.linkedin.com/in/isarnejad/)

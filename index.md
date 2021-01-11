@@ -8,4 +8,3 @@ Machine Laerning - Natural Language Processing - Medical Text Processing
 [Linkedin](https://www.linkedin.com/in/isarnejad/)
 [Google Scholar](https://scholar.google.ca/citations?user=In99zA8AAAAJ&hl=en)
 
-![image]()

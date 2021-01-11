@@ -1,7 +1,12 @@
 ## Isar Nejadgholi
+Research scientist at National Research Council Canada
 
+## Research Interests
+Machine Laerning - Natural Language Processing - Medical Text Processing 
 
-### Linkedin 
+### Linkedin Page
+![Link](https://www.linkedin.com/in/isarnejad/)
 
 ### Google Scholar 
-![image](https://github.com/IsarNejad/IsarNejad.github.io/blob/main/20200131_123210.jpg)
+
+![image]()

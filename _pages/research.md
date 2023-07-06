@@ -25,7 +25,7 @@ author_profile: true
   - **Facial recognition** 
 ---
 
-
+{: .underline-blue}
 ## Multimodal social media analysis for disaster response:
 <a id="MultiModal-Disaster"></a>
 

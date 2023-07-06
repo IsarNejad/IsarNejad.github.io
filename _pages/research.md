@@ -32,4 +32,4 @@ author_profile: true
 ## Detecting and countering stereotypes:
 <a id="Det-Count-Stereo"></a>
 
-1. Fraser, K. C., Kiritchenko, S., & Nejadgholi, I. (2022). Computational modeling of stereotype content in text. Frontiers in artificial intelligence, 5, 826207.
+1. Fraser, K. C., Kiritchenko, S., & Nejadgholi, I. (2022). Computational modeling of stereotype content in text. Frontiers in artificial intelligence, 5, 826207. [Link](https://www.frontiersin.org/articles/10.3389/frai.2022.826207/full)

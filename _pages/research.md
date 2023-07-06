@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-# AI Applications for Social Good
+# AI for Social Good
   - Multimodal social media analysis for disaster response: This project is funded by New Beginning Initiative Program and is in collaboration with Carleton University. 
   - Innovative solutions to improve the immigration system in Canada: This project is in collaboration with MILA institute and focuses on using AI to make the immigration settlement in Canada more efficient. 
   - Detecting and countering stereotypes: This project focuses on detecting abusive language on social media and countering it using NLP models.

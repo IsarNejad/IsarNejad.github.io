@@ -27,11 +27,15 @@ author_profile: true
   - [**Audio and speech processing**](#Speech)
   - [**Facial recognition**](#PhD)
     
+<br>
+
 ---
 
 # Papers By Research Topic
 
 ---
+
+<br>
 
 {: .gray}
 ### Multimodal social media analysis for disaster response:

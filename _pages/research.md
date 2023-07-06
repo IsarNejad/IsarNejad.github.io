@@ -26,49 +26,49 @@ author_profile: true
     
 ---
 
-{: .underline-orange}
+{: .underline-gray}
 ## Multimodal social media analysis for disaster response:
 <a id="MultiModal-Disaster"></a>
 
 
-{: .underline-orange}
+{: .underline-gray}
 ## Innovative solutions to improve the immigration system in Canada:
 <a id="#Immigration"></a>
 
 
 
-{: .underline-orange}
+{: .underline-gray}
 ## Detecting and countering stereotypes:
 <a id="Det-Count-Stereo"></a>
 
 1. Fraser, K. C., Kiritchenko, S., & Nejadgholi, I. (2022). Computational modeling of stereotype content in text. Frontiers in artificial intelligence, 5, 826207. [Link](https://www.frontiersin.org/articles/10.3389/frai.2022.826207/full)
 
-{: .underline-orange}
+{: .underline-gray}
 ## Stereotypes in natural language:
 <a id="Stereo-NL"></a>
 
-{: .underline-orange}
+{: .underline-gray}
 ## Political ideology detection on social media:
 <a id="political-ideology"></a>
 
 
-{: .underline-orange}
+{: .underline-gray}
 ## Concept-based explanations:
 <a id="TCAV"></a>
 
-{: .underline-orange}
+{: .underline-gray}
 ## Bias in NLP models:
 <a id="Bias"></a>
 
-{: .underline-orange}
+{: .underline-gray}
 ## Medical data analysis:
 <a id="biomedical"></a>
 
-{: .underline-orange}
+{: .underline-gray}
 ## Audio and speech processing:
 <a id="Speech"></a>
 
-{: .underline-orange}
+{: .underline-gray}
 ## Facial recognition:
 <a id="PhD"></a>
 

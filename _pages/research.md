@@ -26,7 +26,7 @@ author_profile: true
     
 ---
 
-{: .underline-blue}
+{: .underline-orange}
 ## Multimodal social media analysis for disaster response:
 <a id="MultiModal-Disaster"></a>
 

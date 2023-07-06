@@ -22,7 +22,8 @@ author_profile: true
 # Machine Learning Applications
   - **Medical data analysis**
   - **Audio and speech processing**
-  - **Facial recognition** 
+  - **Facial recognition**
+    
 ---
 
 {: .underline-blue}

@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &IsarNejad
+  username               : &IsarNejadgholi
 facebook:
   username               :
   app_id                 :
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Isar nejadgholi"
+  name             : "Isar Nejadgholi"
   avatar           : "Isar_Nejadgholi.jpg"
-  bio              : "Research Scientist"
+  bio              : "Senior Research Scientist at National Research Council Canada"
   location         : 
   employer         :
   pubmed           : 

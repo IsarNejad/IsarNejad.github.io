@@ -26,8 +26,6 @@ author_profile: true
     
 ---
 
-# Publications
-
 ---
 
 {: .gray}

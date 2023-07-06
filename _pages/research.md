@@ -5,27 +5,30 @@ permalink: /research/
 author_profile: true
 ---
 
+---
+Research Projects
+---
 
-# AI for Social Good
+## AI for Social Good
   - [**Multimodal social media analysis for disaster response:**](#MultiModal-Disaster) This project is funded by New Beginning Initiative Program and is in collaboration with Carleton University. 
   - [**Innovative solutions to improve the immigration system in Canada:**](#Immigration) This project is in collaboration with MILA institute and focuses on using AI to make the immigration settlement in Canada more efficient. 
   - [**Detecting and countering stereotypes:**](#Det-Count-Stereo) This project focuses on detecting abusive language on social media and countering it using NLP models.
     
-# Computational Social Science
+## Computational Social Science
   - [**Stereotypes in natural language:**](#Stereo-NL) In this project, we use computational linguistics and machine learning techniques to uncover and combat the stereotypical views prominent in society. 
   - [**Political ideology detection on social media:**](#political-ideology) This project is in collaboration with McGill University, where we use network analysis and natural language processing to understand the political ideologies expressed on social media.
     
-# Explainability and Fairness in NLP
+## Explainability and Fairness in NLP
   - [**Concept-based explanations:**](#TCAV) In this project, we use concept-based explanations to analyze a model with respect to its sensitivity to human-understandable concepts. 
   - [**Bias in NLP models:**](#Bias) In this project, we use different techniques to uncover biases in text classifiers and generative models.
     
-# Machine Learning Applications
+## Machine Learning Applications
   - [**Medical data analysis**](#biomedical)
   - [**Audio and speech processing**](#Speech)
   - [**Facial recognition**](#PhD)
     
 ---
-
+Papers By Research Topic
 ---
 
 {: .gray}

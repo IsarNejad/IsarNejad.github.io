@@ -26,9 +26,10 @@ author_profile: true
     
 ---
 
-##Publications
+# Publications
 
 ---
+
 {: .gray}
 ### Multimodal social media analysis for disaster response:
 <a id="MultiModal-Disaster"></a>

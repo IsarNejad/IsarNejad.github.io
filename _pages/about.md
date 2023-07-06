@@ -12,3 +12,6 @@ I am a Senior Research Scientist at the National Research Council Canada and an 
 
 
 # Latest News
+
+We will be at ACL and will present the following works:
+- 

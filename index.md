@@ -3,19 +3,19 @@ I am a Senior Research Scientist at the National Research Council Canada and an 
 
 ## Research Projects
 * AI Applications for Social Good
-  - multimodal social media analysis for disaster response
+  - Multimodal social media analysis for disaster response
   - Innovative solutions to improve immigration system in Canada
   - Detecting and countering stereotypes
 * Computational Social Science
-  - stereotypes in natural language
-  - political ideology detection on social media
+  - Stereotypes in natural language
+  - Political ideology detection on social media
 * Explainability and Fairness in NLP
   - Concept-based explanations
   - Bias in NLP models
 * Machine Learning Applications
   - Medical data analysis
   - Audio and speech processing
-  - facial recogniotion 
+  - Facial recogniotion 
 
 ### Web pages
 [Linkedin](https://www.linkedin.com/in/isarnejad/)

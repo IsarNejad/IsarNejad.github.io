@@ -1,15 +1,14 @@
 ---
 layout: archive
-title: "Research"
+title: "Research Projects"
 permalink: /research/
 author_profile: true
 ---
 
 
-## Research Projects
 * AI Applications for Social Good
   - Multimodal social media analysis for disaster response
-  - Innovative solutions to improve immigration system in Canada
+  - Innovative solutions to improve the immigration system in Canada
   - Detecting and countering stereotypes
 * Computational Social Science
   - Stereotypes in natural language
@@ -20,4 +19,4 @@ author_profile: true
 * Machine Learning Applications
   - Medical data analysis
   - Audio and speech processing
-  - Facial recogniotion 
+  - Facial recognition 

@@ -16,13 +16,13 @@ author_profile: true
   - [**Political ideology detection on social media:**](#political-ideology) This project is in collaboration with McGill University, where we use network analysis and natural language processing to understand the political ideologies expressed on social media.
     
 # Explainability and Fairness in NLP
-  - **Concept-based explanations:** In this project, we use concept-based explanations to analyze a model with respect to its sensitivity to human-understandable concepts. 
-  - **Bias in NLP models:** In this project, we use different techniques to uncover biases in text classifiers and generative models.
+  - [**Concept-based explanations:**](#TCAV) In this project, we use concept-based explanations to analyze a model with respect to its sensitivity to human-understandable concepts. 
+  - [**Bias in NLP models:**](#Bias) In this project, we use different techniques to uncover biases in text classifiers and generative models.
     
 # Machine Learning Applications
-  - **Medical data analysis**
-  - **Audio and speech processing**
-  - **Facial recognition**
+  - [**Medical data analysis**](#biomedical)
+  - [**Audio and speech processing**](#Speech)
+  - [**Facial recognition**](#PhD)
     
 ---
 
@@ -50,5 +50,26 @@ author_profile: true
 {: .underline-orange}
 ## Political ideology detection on social media:
 <a id="political-ideology"></a>
+
+
+{: .underline-orange}
+## Concept-based explanations:
+<a id="TCAV"></a>
+
+{: .underline-orange}
+## Bias in NLP models:
+<a id="Bias"></a>
+
+{: .underline-orange}
+## Medical data analysis:
+<a id="biomedical"></a>
+
+{: .underline-orange}
+## Audio and speech processing:
+<a id="Speech"></a>
+
+{: .underline-orange}
+## Facial recognition:
+<a id="PhD"></a>
 
 

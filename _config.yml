@@ -83,12 +83,12 @@ author:
   name             : "Isar nejadgholi"
   avatar           : "Isar_Nejadgholi.jpg"
   bio              : "Research Scientist"
-  location         : "Location"
+  location         : 
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.ca/citations?user=In99zA8AAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -100,16 +100,15 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
+  stackoverflow    : 
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "IsarNejad"
   vine             :
   weibo            :
   xing             :

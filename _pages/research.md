@@ -24,7 +24,9 @@ author_profile: true
   - [**Facial recognition**](#PhD)
     
 ---
-Papers By Research Topic
+
+# Papers By Research Topic
+
 ---
 
 {: .gray}

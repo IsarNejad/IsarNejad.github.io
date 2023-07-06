@@ -1,12 +1,8 @@
 ---
 layout: archive
-title: ""
+title: "Research Projects"
 permalink: /research/
 author_profile: true
----
-
----
-Research Projects
 ---
 
 ## AI for Social Good

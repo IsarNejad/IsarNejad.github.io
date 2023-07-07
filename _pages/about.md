@@ -21,3 +21,7 @@ I am a Senior Research Scientist at the [National Research Council Canada](https
 - Isar Nejadgholi, Svetlana Kiritchenko, Kathleen C. Fraser, and Esma Balkir. (2023) Concept-Based Explanations to Test for False Causal Relationships Learned by Abusive Language Classifiers. In Proceedings of the 7th Workshop on Online Abuse and Harms (WOAH).[[paper](https://arxiv.org/pdf/2307.01900.pdf)]
 
 - Ghanadian, H., Nejadgholi, I., & Osman, H. A. (2023). ChatGPT for Suicide Risk Assessment on Social Media: Quantitative Evaluation of Model Performance, Potentials and Limitations. 13th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis (WASSA at ACL 2023).[[paper](https://arxiv.org/pdf/2306.09390.pdf)]
+
+###Best Short Paper Award
+
+Our paper, **Diversity is Not a One-Way Street: Pilot Study on Ethical Interventions for Racial Bias in Text-to-Image Systems.**, won the best short paper award at the 14th International Conference on Computational Creativity (ICCC) in Waterloo. [[Ppaer](https://www.svkir.com/papers/Fraser-et-al-TextImageBias-ICCC-2023.pdf)]

@@ -18,9 +18,11 @@ author_profile: true
   - [**Political ideology detection on social media:**](#political-ideology) This project is in collaboration with McGill University, where we use network analysis and natural language processing to understand the political ideologies expressed on social media.
 
 {: .amaranth-deep-purple}
-## Explainability and Fairness in NLP
-  - [**Concept-based explanations:**](#TCAV) In this project, we use concept-based explanations to analyze a model with respect to its sensitivity to human-understandable concepts. 
+## Ethics in NLP: 
+  - [**Explainability**](#TCAV) In this project, we use concept-based explanations to analyze a model with respect to its sensitivity to human-understandable concepts. 
   - [**Bias in NLP models:**](#Bias) In this project, we use different techniques to uncover biases in text classifiers and generative models.
+  - [**Ethical Challenges in Abuisve Language Detection**](#JAIR)
+
     
 {: .amaranth-deep-purple}
 ## Machine Learning Applications
@@ -50,10 +52,10 @@ author_profile: true
 
 
 {: .gray}
-### Detecting and countering stereotypes:
+### Detecting and countering harmful language:
 <a id="Det-Count-Stereo"></a>
 
-- Fraser, K. C., Kiritchenko, S., & Nejadgholi, I. (2022). Computational modeling of stereotype content in text. Frontiers in artificial intelligence, 5, 826207. [Link](https://www.frontiersin.org/articles/10.3389/frai.2022.826207/full)
+
 
 {: .gray}
 ### Social Media Analysis for early detection of Suicide Ideation:
@@ -64,6 +66,7 @@ author_profile: true
 {: .gray}
 ### Stereotypes in natural language:
 <a id="Stereo-NL"></a>
+
 
 {: .gray}
 ### Political ideology detection on social media:
@@ -78,6 +81,11 @@ author_profile: true
 ### Bias in NLP models:
 <a id="Bias"></a>
 
+- Fraser, K.C., Kiritchenko, S., Nejadgholi, I., Kerkhof, A. (2023) What Makes a Good Counter-Stereotype? Evaluating Strategies for Automated Responses to Stereotypical Text. In Proceedings of the First Workshop on Social Influence in Conversations (SICon), Toronto, ON, Canada, July 2023. [pdf](https://www.svkir.com/papers/Fraser-et-al-CounterStereotypes-SICon-2023.pdf)
+- Fraser, K.C., Kiritchenko, S., Nejadgholi, I. (2023) Diversity is Not a One-Way Street: Pilot Study on Ethical Interventions for Racial Bias in Text-to-Image Systems. In Proceedings of the 14th International Conference on Computational Creativity (ICCC), Waterloo, ON, Canada, June 2023. [pdf](https://www.svkir.com/papers/Fraser-et-al-TextImageBias-ICCC-2023.pdf)
+- Fraser, K.C., Nejadgholi, I., Kiritchenko, S. (2023) A Friendly Face: Do Text-to-Image Systems Rely on Stereotypes when the Input is Under-Specified? In Proceedings of the Creative AI Across Modalities Workshop (CreativeAI @ AAAI), Washington, DC, USA, Feb. 2023. [pdf](https://www.svkir.com/papers/Fraser-et-al-CreativeAI-2023.pdf)
+- Fraser, K.C., Kiritchenko, S., Balkir, E. (2022) Does Moral Code Have a Moral Code? Probing Delphi's Moral Philosophy. In Proceedings of the Second Workshop on Trustworthy Natural Language Processing (TrustNLP @ NAACL), Seattle, WA, USA, July 2022. [pdf](https://www.svkir.com/papers/Fraser-et-al-moralQ-TrustNLP-2022.pdf)[project webpage](https://www.svkir.com/projects/moralQ.html)
+  
 {: .gray}
 ### Medical data analysis:
 <a id="biomedical"></a>

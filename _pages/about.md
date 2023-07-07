@@ -24,4 +24,4 @@ I am a Senior Research Scientist at the [National Research Council Canada](https
 
 ### Best Short Paper Award
 
-Our paper, **Diversity is Not a One-Way Street: Pilot Study on Ethical Interventions for Racial Bias in Text-to-Image Systems.**, won the best short paper award at the 14th International Conference on Computational Creativity (ICCC) in Waterloo. [[Ppaer](https://www.svkir.com/papers/Fraser-et-al-TextImageBias-ICCC-2023.pdf)]
+Our paper, **Diversity is Not a One-Way Street: Pilot Study on Ethical Interventions for Racial Bias in Text-to-Image Systems.**, won the best short paper award at the 14th International Conference on Computational Creativity (ICCC) in Waterloo. [[Paper](https://www.svkir.com/papers/Fraser-et-al-TextImageBias-ICCC-2023.pdf)]

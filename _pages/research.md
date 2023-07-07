@@ -59,6 +59,12 @@ author_profile: true
 
 - Ghanadian, H., Nejadgholi, I., & Osman, H. A. (2023). ChatGPT for Suicide Risk Assessment on Social Media: Quantitative Evaluation of Model Performance, Potentials and Limitations. 13th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis (WASSA at ACL 2023), Toronto, Canada, July 2023. [[Paper](https://arxiv.org/abs/2306.09390)]
 
+<a id="Immigration"></a>
+
+{: .gray}
+### Innovative Solutions to Improve the Immigration System in Canada:
+
+- Isar Nejadgholi, Renaud Bougueng, and Samuel Witherspoon (2017). A Semi-Supervised Training Method for Semantic Search of Legal Facts in Canadian Immigration Cases. In Legal Knowledge and Information Systems (pp. 125-134). IOS Press. [[Paper](https://orbilu.uni.lu/bitstream/10993/33777/1/9781614998389.pdf#page=135)]
 
 <a id="explain"></a>
 

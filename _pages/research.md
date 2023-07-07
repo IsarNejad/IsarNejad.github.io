@@ -20,7 +20,7 @@ author_profile: true
 {: .amaranth-deep-purple}
 ## Ethics in AI: 
   - [**Explainability**](#explain) In this project, we use concept-based explanations to analyze a model with respect to its sensitivity to human-understandable concepts. 
-  - [**Behavioral Analysis of Machine Learning Models:**](#Bias) In this project, we use different techniques to uncover biases in text classifiers and generative models.
+  - [**Behavioral Analysis of Generative Models:**](#Bias) In this project, we use different techniques to uncover biases in text classifiers and generative models.
   - [**Ethical Challenges in Abuisve Language Detection**](#JAIR)
 
     
@@ -79,7 +79,7 @@ author_profile: true
 - Esma Balkir, Svetlana Kiritchenko, Isar Nejadgholi, and Kathleen C. Fraser. (2022) Challenges in Applying Explainability Methods to Improve the Fairness of NLP Models. In Proceedings of the Second Workshop on Trustworthy Natural Language Processing (TrustNLP @ NAACL), Seattle, WA, USA, July 2022. [pdf]
   
 {: .gray}
-### Behavioral Analysis of Machine Learning Models:
+### Behavioral Analysis of Generative Models:
 <a id="Bias"></a>
 - Fraser, K.C., Kiritchenko, S., Nejadgholi, I. (2023) Diversity is Not a One-Way Street: Pilot Study on Ethical Interventions for Racial Bias in Text-to-Image Systems. In Proceedings of the 14th International Conference on Computational Creativity (ICCC), Waterloo, ON, Canada, June 2023. [pdf](https://www.svkir.com/papers/Fraser-et-al-TextImageBias-ICCC-2023.pdf)
 - Fraser, K.C., Nejadgholi, I., Kiritchenko, S. (2023) A Friendly Face: Do Text-to-Image Systems Rely on Stereotypes when the Input is Under-Specified? In Proceedings of the Creative AI Across Modalities Workshop (CreativeAI @ AAAI), Washington, DC, USA, Feb. 2023. [pdf](https://www.svkir.com/papers/Fraser-et-al-CreativeAI-2023.pdf)

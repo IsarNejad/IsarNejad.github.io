@@ -34,7 +34,7 @@ author_profile: true
 
 ---
 
-# Papers By Research Topic
+# Selected Papers By Research Topic
 
 ---
 

@@ -21,7 +21,8 @@ author_profile: true
 ## Ethics in AI: 
   - [**Explainability**](#explain) In this project, we use concept-based explanations to analyze a model with respect to its sensitivity to human-understandable concepts. 
   - [**Behavioral Analysis of Generative Models:**](#Bias) In this project, we use different techniques to uncover biases in text classifiers and generative models.
-  - [**Ethical Challenges in Abuisve Language Detection**](#JAIR) In this project, we bring ethical and human rights considerations to every stage of developing an NLP system for detecting abusive language in online platforms. 
+  - [**Ethical Challenges in Abuisve Language Detection**](#JAIR) In this project, we bring ethical and human rights considerations to every stage of developing an NLP system for detecting abusive language in online platforms.
+  - [**Privacy**](#privacy )
 
     
 {: .amaranth-deep-purple}
@@ -47,7 +48,7 @@ author_profile: true
 
 
 - Svetlana Kiritchenko, Georgina Curto, Isar Nejadgholi, and Kathleen C. Fraser. (2023) Aporophobia: An Overlooked Type of Toxic Language Targeting the Poor. In Proceedings of the 7th Workshop on Online Abuse and Harms (WOAH), Toronto, ON, Canada, July 2023. [pdf]
-- Gunasekara, I., & Nejadgholi, I. (2018, October). A review of standard text classification practices for multi-label toxicity identification of online content. In Proceedings of the 2nd workshop on abusive language online (ALW2), 21-25. ** First comparative study of deep learning models in abusive language detection, cited 28 times.
+- Gunasekara, I., & Nejadgholi, I. (2018, October). A review of standard text classification practices for multi-label toxicity identification of online content. In Proceedings of the 2nd workshop on abusive language online (ALW2), 21-25. 
 
 <a id="suicide"></a>
 
@@ -100,6 +101,15 @@ author_profile: true
 - Svetlana Kiritchenko and Isar Nejadgholi. Towards Ethics by Design in Online Abusive Content Detection. NRC Technical Report, October 2020. [pdf]
 - Svetlana Kiritchenko, Isar Nejadgholi, and Kathleen C. Fraser. Confronting Abusive Language Online: A Survey from the Ethical and Human Rights Perspective. Journal of Artificial Intelligence Research, 71: 431-478, July 2021. [pdf]
 - Isar Nejadgholi and Svetlana Kiritchenko. On Cross-Dataset Generalization in Automatic Detection of Online Abuse. In Proceedings of the 4th Workshop on Online Abuse and Harms at EMNLP-2020, November 2020. [pdf]
+
+
+
+<a id="privacy"></a>
+
+{: .gray}
+### Privacy:
+ - Hathurusinghe, R., Nejadgholi, I., & Bolic, M. (2021, June). A Privacy-Preserving Approach to Extraction of Personal Information through Automatic Annotation and Federated Learning. In Proceedings of the Third Workshop on Privacy in Natural Language Processing (pp. 36-45). [Paper](https://arxiv.org/abs/2105.09198)
+ - Contributors, M. (2022). BLOOM: A 176B-Parameter Open-Access Multilingual Language Model. arXiv preprint arXiv:2211.05100.[Paper](https://arxiv.org/pdf/2211.05100.pdf)
 
 <a id="biomedical"></a>
 

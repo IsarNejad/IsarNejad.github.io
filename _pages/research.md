@@ -10,7 +10,7 @@ author_profile: true
   - [**Multimodal Social Media Analysis for Disaster Response:**](#MultiModal-Disaster) This project is funded by New Beginning Initiative Program and is in collaboration with Carleton University. 
   - [**Innovative Solutions to Improve the Immigration System in Canada:**](#Immigration) This project is in collaboration with MILA institute and focuses on using AI to make the immigration settlement in Canada more efficient. 
   - [**Detecting and Countering Abusive Language on Social Media:**](#Det-Count-Stereo) This project focuses on detecting abusive language on social media and countering it using NLP models.
-  - [**Social Media Analysis for Early Detection of Suicide Ideation:**](#suicide)
+  - [**Social Media Analysis for Early Detection of Suicide Ideation:**](#suicide) This project is in collaboration with the University of Ottawa and focuses on developing tools for the early detection of suicidal notes on social media. 
     
 {: .amaranth-deep-purple}
 ## Computational Social Science
@@ -21,7 +21,7 @@ author_profile: true
 ## Ethics in AI: 
   - [**Explainability**](#explain) In this project, we use concept-based explanations to analyze a model with respect to its sensitivity to human-understandable concepts. 
   - [**Behavioral Analysis of Generative Models:**](#Bias) In this project, we use different techniques to uncover biases in text classifiers and generative models.
-  - [**Ethical Challenges in Abuisve Language Detection**](#JAIR)
+  - [**Ethical Challenges in Abuisve Language Detection**](#JAIR) In this project, we bring ethical and human rights considerations to every stage of developing an NLP system for detecting abusive language in online platforms. 
 
     
 {: .amaranth-deep-purple}

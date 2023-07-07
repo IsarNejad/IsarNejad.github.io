@@ -13,7 +13,7 @@ I am a Senior Research Scientist at the [National Research Council Canada](https
 
 # Latest News
 
-### We will be at ACL 2023 in Toronto and will be presenting the following papers: 
+### We will be at ACL 2023 in Toronto and will present the following papers: 
 
 - Svetlana Kiritchenko, Georgina Curto, Isar Nejadgholi, and Kathleen C. Fraser. (2023) Aporophobia: An Overlooked Type of Toxic Language Targeting the Poor. In Proceedings of the 7th Workshop on Online Abuse and Harms (WOAH). 
 

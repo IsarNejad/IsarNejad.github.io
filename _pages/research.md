@@ -19,10 +19,10 @@ author_profile: true
 
 {: .amaranth-deep-purple}
 ## Ethics in AI: 
-  - [**Explainability**](#explain) In this project, we use concept-based explanations to analyze a model with respect to its sensitivity to human-understandable concepts. 
-  - [**Behavioral Analysis of Generative Models:**](#Bias) In this project, we use different techniques to uncover biases in text classifiers and generative models.
+  - [**Explainability**](#explain) In this project, we use concept-based explanations and other explainability techniques to analyze a model and understand its flaws in terms of safety, generalizability, fairness and robustness. 
+  - [**Behavioral Analysis of Generative Models:**](#Bias) In this project, we analyze the model's output to uncover biases learned by text classifiers and generative models.
   - [**Ethical Challenges in Abuisve Language Detection**](#JAIR) In this project, we bring ethical and human rights considerations to every stage of developing an NLP system for detecting abusive language in online platforms.
-  - [**Privacy**](#privacy )
+  - [**Privacy**](#privacy ): In this project, we use NLP techniques to deidetify text. 
 
     
 {: .amaranth-deep-purple}
@@ -46,8 +46,11 @@ author_profile: true
 {: .gray}
 ### Detecting and Countering Abusive Language on Social Media:
 
-
 - Svetlana Kiritchenko, Georgina Curto, Isar Nejadgholi, and Kathleen C. Fraser. (2023) Aporophobia: An Overlooked Type of Toxic Language Targeting the Poor. In Proceedings of the 7th Workshop on Online Abuse and Harms (WOAH), Toronto, ON, Canada, July 2023. [pdf]
+- Isar Nejadgholi, Svetlana Kiritchenko, Kathleen C. Fraser, and Esma Balkir. (2023) Concept-Based Explanations to Test for False Causal Relationships Learned by Abusive Language Classifiers. In Proceedings of the 7th Workshop on Online Abuse and Harms (WOAH), Toronto, ON, Canada, July 2023. [pdf]
+- Isar Nejadgholi, Esma Balkir, Kathleen C. Fraser, and Svetlana Kiritchenko. (2022) Towards Procedural Fairness: Uncovering Biases in How a Toxic Language Classifier Uses Sentiment Information. In Proceedings of the Workshop on Analyzing and Interpreting Neural Networks for NLP (BlackboxNLP), Abu Dhabi, United Arab Emirates, Dec. 2022. [pdf][code]
+- Isar Nejadgholi, Kathleen C. Fraser, and Svetlana Kiritchenko. (2022). Improving Generalizability in Implicitly Abusive Language Detection with Concept Activation Vectors. In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics, Dublin, Ireland, May 2022. [pdf][code]
+- Esma Balkir, Isar Nejadgholi, Kathleen C. Fraser, and Svetlana Kiritchenko. (2022). Necessity and Sufficiency for Explaining Text Classifiers: A Case Study in Hate Speech Detection. In Proceedings of the Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL), Seattle, WA, USA, July 2022. [pdf][code]
 - Gunasekara, I., & Nejadgholi, I. (2018, October). A review of standard text classification practices for multi-label toxicity identification of online content. In Proceedings of the 2nd workshop on abusive language online (ALW2), 21-25. 
 
 <a id="suicide"></a>

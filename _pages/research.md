@@ -40,34 +40,40 @@ author_profile: true
 
 <br>
 
+<a id="Det-Count-Stereo"></a>
+
 {: .gray}
 ### Detecting and Countering Abusive Language on Social Media:
-<a id="Det-Count-Stereo"></a>
+
 
 - Svetlana Kiritchenko, Georgina Curto, Isar Nejadgholi, and Kathleen C. Fraser. (2023) Aporophobia: An Overlooked Type of Toxic Language Targeting the Poor. In Proceedings of the 7th Workshop on Online Abuse and Harms (WOAH), Toronto, ON, Canada, July 2023. [pdf]
 - 
 
+<a id="suicide"></a>
 
 {: .gray}
 ### Social Media Analysis for early detection of Suicide Ideation:
-<a id="suicide"></a>
 
 - Ghanadian, H., Nejadgholi, I., & Osman, H. A. (2023). ChatGPT for Suicide Risk Assessment on Social Media: Quantitative Evaluation of Model Performance, Potentials and Limitations. 13th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis (WASSA at ACL 2023), Toronto, Canada, July 2023. [Paper](https://arxiv.org/abs/2306.09390)
 
+<a id="Stereo-NL"></a>
+
 {: .gray}
 ### Uncovering and Combating Stereotypes::
-<a id="Stereo-NL"></a>
 
 - Kathleen C. Fraser, Svetlana Kiritchenko, and Isar Nejadgholi. (2022). Computational Modelling of Stereotype Content in Text. Frontiers in Artificial Intelligence, April, 2022. [paper]
 - Kathleen C. Fraser, Isar Nejadgholi, and Svetlana Kiritchenko (2021). Understanding and Countering Stereotypes: A Computational Approach to the Stereotype Content Model. In Proceedings of the Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP 2021), August 2021. [pdf]
 - Fraser, K.C., Kiritchenko, S., Nejadgholi, I., Kerkhof, A. (2023) What Makes a Good Counter-Stereotype? Evaluating Strategies for Automated Responses to Stereotypical Text. In Proceedings of the First Workshop on Social Influence in Conversations (SICon), Toronto, ON, Canada, July 2023. [pdf](https://www.svkir.com/papers/Fraser-et-al-CounterStereotypes-SICon-2023.pdf)
 - Kathleen C. Fraser, Svetlana Kiritchenko, and Isar Nejadgholi. (2022). Extracting Age-Related Stereotypes from Social Media Texts. In Proceedings of the Language Resources and Evaluation Conference (LREC-2022), Marseille, France, June 2022. [pdf][project webpage]
 
-{: .gray}
-### Political ideology detection on social media:
 <a id="political-ideology"></a>
 
+{: .gray}
+### Political ideology detection on social media:
+
+
 <a id="explain"></a>
+
 {: .gray}
 ### Explainability:
 
@@ -76,30 +82,37 @@ author_profile: true
 - Isar Nejadgholi, Kathleen C. Fraser, and Svetlana Kiritchenko. (2022). Improving Generalizability in Implicitly Abusive Language Detection with Concept Activation Vectors. In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics, Dublin, Ireland, May 2022. [pdf][code]
 - Esma Balkir, Isar Nejadgholi, Kathleen C. Fraser, and Svetlana Kiritchenko. (2022). Necessity and Sufficiency for Explaining Text Classifiers: A Case Study in Hate Speech Detection. In Proceedings of the Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL), Seattle, WA, USA, July 2022. [pdf][code]
 - Esma Balkir, Svetlana Kiritchenko, Isar Nejadgholi, and Kathleen C. Fraser. (2022) Challenges in Applying Explainability Methods to Improve the Fairness of NLP Models. In Proceedings of the Second Workshop on Trustworthy Natural Language Processing (TrustNLP @ NAACL), Seattle, WA, USA, July 2022. [pdf]
-  
+
+<a id="Bias"></a>
+
 {: .gray}
 ### Behavioral Analysis of Generative Models:
-<a id="Bias"></a>
+
 - Fraser, K.C., Kiritchenko, S., Nejadgholi, I. (2023) Diversity is Not a One-Way Street: Pilot Study on Ethical Interventions for Racial Bias in Text-to-Image Systems. In Proceedings of the 14th International Conference on Computational Creativity (ICCC), Waterloo, ON, Canada, June 2023. [pdf](https://www.svkir.com/papers/Fraser-et-al-TextImageBias-ICCC-2023.pdf)
 - Fraser, K.C., Nejadgholi, I., Kiritchenko, S. (2023) A Friendly Face: Do Text-to-Image Systems Rely on Stereotypes when the Input is Under-Specified? In Proceedings of the Creative AI Across Modalities Workshop (CreativeAI @ AAAI), Washington, DC, USA, Feb. 2023. [pdf](https://www.svkir.com/papers/Fraser-et-al-CreativeAI-2023.pdf)
 
+<a id="JAIR"></a>
+
 {: .gray}
 ### Ethical Challenges in Abuisve Language Detection:
-<a id="JAIR"></a>
+
 - Svetlana Kiritchenko and Isar Nejadgholi. Towards Ethics by Design in Online Abusive Content Detection. NRC Technical Report, October 2020. [pdf]
 - Svetlana Kiritchenko, Isar Nejadgholi, and Kathleen C. Fraser. Confronting Abusive Language Online: A Survey from the Ethical and Human Rights Perspective. Journal of Artificial Intelligence Research, 71: 431-478, July 2021. [pdf]
 - Isar Nejadgholi and Svetlana Kiritchenko. On Cross-Dataset Generalization in Automatic Detection of Online Abuse. In Proceedings of the 4th Workshop on Online Abuse and Harms at EMNLP-2020, November 2020. [pdf]
-  
-{: .gray}
-### Medical data analysis:
+
 <a id="biomedical"></a>
 
 {: .gray}
-### Audio and speech processing:
+### Medical data analysis:
+
 <a id="Speech"></a>
 
 {: .gray}
-### Facial recognition:
+### Audio and speech processing:
+
 <a id="PhD"></a>
+
+{: .gray}
+### Facial recognition:
 
 

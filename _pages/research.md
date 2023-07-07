@@ -26,9 +26,9 @@ author_profile: true
     
 {: .amaranth-deep-purple}
 ## Machine Learning Applications
-  - [**Medical data analysis**](#biomedical)
-  - [**Audio and speech processing**](#Speech)
-  - [**Facial recognition**](#PhD)
+  - [**Medical data analysis**](#biomedical): We analyze different forms of biomedical data to increase the efficiency and accuracy of diagnosis and treatment in medical applications. 
+  - [**Audio and speech processing**](#Speech): We developed neural network models for improving Farsi speech recognition. 
+  - [**Facial recognition**](#PhD): We developed neural network models for emotion detection and facial image generation. 
     
 <br>
 
@@ -47,7 +47,7 @@ author_profile: true
 
 
 - Svetlana Kiritchenko, Georgina Curto, Isar Nejadgholi, and Kathleen C. Fraser. (2023) Aporophobia: An Overlooked Type of Toxic Language Targeting the Poor. In Proceedings of the 7th Workshop on Online Abuse and Harms (WOAH), Toronto, ON, Canada, July 2023. [pdf]
-- 
+- Gunasekara, I., & Nejadgholi, I. (2018, October). A review of standard text classification practices for multi-label toxicity identification of online content. In Proceedings of the 2nd workshop on abusive language online (ALW2), 21-25. ** First comparative study of deep learning models in abusive language detection, cited 28 times.
 
 <a id="suicide"></a>
 
@@ -80,6 +80,7 @@ author_profile: true
 - Isar Nejadgholi, Svetlana Kiritchenko, Kathleen C. Fraser, and Esma Balkir. (2023) Concept-Based Explanations to Test for False Causal Relationships Learned by Abusive Language Classifiers. In Proceedings of the 7th Workshop on Online Abuse and Harms (WOAH), Toronto, ON, Canada, July 2023. [pdf]
 - Isar Nejadgholi, Esma Balkir, Kathleen C. Fraser, and Svetlana Kiritchenko. (2022) Towards Procedural Fairness: Uncovering Biases in How a Toxic Language Classifier Uses Sentiment Information. In Proceedings of the Workshop on Analyzing and Interpreting Neural Networks for NLP (BlackboxNLP), Abu Dhabi, United Arab Emirates, Dec. 2022. [pdf][code]
 - Isar Nejadgholi, Kathleen C. Fraser, and Svetlana Kiritchenko. (2022). Improving Generalizability in Implicitly Abusive Language Detection with Concept Activation Vectors. In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics, Dublin, Ireland, May 2022. [pdf][code]
+- Dawkins, H., Nejadgholi, I. (2022). Region-dependent temperature scaling for certainty calibration and application to class-imbalanced token classification. Accepted for publication in Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics.
 - Esma Balkir, Isar Nejadgholi, Kathleen C. Fraser, and Svetlana Kiritchenko. (2022). Necessity and Sufficiency for Explaining Text Classifiers: A Case Study in Hate Speech Detection. In Proceedings of the Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL), Seattle, WA, USA, July 2022. [pdf][code]
 - Esma Balkir, Svetlana Kiritchenko, Isar Nejadgholi, and Kathleen C. Fraser. (2022) Challenges in Applying Explainability Methods to Improve the Fairness of NLP Models. In Proceedings of the Second Workshop on Trustworthy Natural Language Processing (TrustNLP @ NAACL), Seattle, WA, USA, July 2022. [pdf]
 
@@ -105,14 +106,40 @@ author_profile: true
 {: .gray}
 ### Medical data analysis:
 
+- Nejadgholi, I., Fraser, K. C., & De Bruijn, B. (2020). Extensive Error Analysis and a Learning-Based Evaluation of Medical Entity Recognition Systems to Approximate User Experience. In Proceedings of the 19th SIGBioMed Workshop on Biomedical Language Processing, 177-186.
+- Nejadgholi, I., Fraser, K. C., De Bruijn, B., Li, M., LaPlante, A., & El Abidine, K. Z. (2019). Recognizing UMLS semantic types with deep learning. In Proceedings of the Tenth International Workshop on Health Text Mining and Information Analysis (LOUHI 2019), 157-167.
+- Nejadgholi, I., Sadreazami, H., Baird, Z., Rajan, S., & Bolic, M. (2019). Estimation of breathing rate with confidence interval using single-channel CW radar. Journal of Healthcare Engineering, 1-15.
+- Nejadgholi, I., Sadreazami, H., Rajan, S., & Bolic, M. (2019). Classification of Doppler radar reflections as preprocessing for breathing rate monitoring. IET Signal Processing, 13(1), 21-28.
+- Nejadgholi, I., Rajan, S., & Bolic, M. (2016). Time-frequency based contactless estimation of vital signs of human while walking using PMCW radar. In 2016 IEEE 18th International Conference on e-Health Networking, Applications and Services (Healthcom).1-6.
+- Nejadgholi, I., Caytak, H., & Bolic, M. (2016). Using bioimpedance spectroscopy parameters as real-time feedback during tDCS. In 2016 38th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 5246-5249.
+- Pezeshki, Z., Tafazzoli-Shadpour, M., Nejadgholi, I., Mansourian, A., & Rahbar, M. (2016). Model of cholera forecasting using artificial neural network in Chabahar City, Iran. International Journal of Enteric Pathogens, 4(1), 1-8.
+- Nejadgholi, I., Davidson, T., Blais, C., Tremblay, F., & Bolic, M. (2015). Classification of responders versus non-responders to tDCS by analyzing voltage between anode and cathode during treatment session. In Proceedings of World Congress on Medical Physics and Biomedical Engineering, 990-993. ** Won the merit prize for the distinguished paper
+- Caytak, H., Nejadgholi, I., Batkin, I., & Bolic, M. (2015). Bioimpedance spectroscopy method for investigating changes to intracranial dose during transcranial direct current stimulation. In 2015 37th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 3448-3451.
+- Nejadgholi, I., & Bolic, M. (2015). A comparative study of PCA, SIMCA and Cole model for classification of bioimpedance spectroscopy measurements. Computers in biology and medicine, 63, 42-51.
+- Nejadgholi, I., Caytak, H., Bolic, M., Batkin, I., & Shirmohammadi, S. (2015). Preprocessing and parameterizing bioimpedance spectroscopy measurements by singular value decomposition. Physiological measurement, 36(5), 983-1001.
+- Nejadgholi, I., Moradi, M. H., & Abdol Ali, F. (2011). Patient Independent Heart Beat Classification. Iranian Journal of Biomedical Engineering, 4(4), 279-292. (In Persian)
+- Nejadgholi, I., Moradi, M. H., & Abdolali, F. (2011). Using phase space reconstruction for patient independent heartbeat classification in comparison with some benchmark methods. Computers in biology and medicine, 41(6), 411-419.
+- Pezeshki, Z., Tafazzoli-Shadpour, M., Mansourian, A., Eshrati, B., Omidi, E., & Nejadqoli, I. (2012). Model of cholera dissemination using geographic information systems and fuzzy clustering means: case study, Chabahar, Iran. Public health, 126(10), 881-887.
+
 <a id="Speech"></a>
 
 {: .gray}
 ### Audio and speech processing:
 
+- Dehyadegary, L., Seyyedsalehi, S. A., & Nejadgholi, I. (2011). Nonlinear enhancement of noisy speech, using continuous attractor dynamics formed in recurrent neural networks. Neurocomputing, 74(17), 2716-2724. [Paper](https://www.sciencedirect.com/science/article/pii/S0925231211003328)
+- Nejadgholi, I., & Seyyedsalehi, S. A. (2009). Nonlinear normalization of input patterns to speaker variability in speech recognition neural networks. Neural computing and applications, 18, 45-55. [Paper](https://link.springer.com/content/pdf/10.1007/s00521-007-0151-5.pdf)
+
+
+  
 <a id="PhD"></a>
 
 {: .gray}
 ### Facial recognition:
+
+- Nejadgholi, I., SeyyedSalehi, S. A., & Chartier, S. (2017). A brain-inspired method of facial expression generation using chaotic feature extracting bidirectional associative memory. Neural Processing Letters, 46(3), 943-960.
+- Nejadgholi, I., & Seyyedsalehi, S. A. (2010). Chaotic control of deterministic variability in a BAM-inspired model of memory. In Proceedings of the 10th International Conference on Intelligent Systems Design and Applications, 203-208. IEEE.
+- Nejadgholi, I., Seyyedsalehi, S. A., & Chartier, S. (2012). A chaotic feature extracting BAM and its application in implementing memory search. Neural processing letters, 36(1), 69-99.
+- Nejadgholi, I., & Seyyedsalehi, S. A. (2012). A new brain-inspired robust face recognition through elimination of variation features. Procedia-Social and Behavioral Sciences, 32, 204-212.
+- Nejadgholi, I., Chartier, S., & Seyyedsalehi, S. A. (2013). Controlling deterministic output variability in a feature extracting chaotic BAM. Neurocomputing, 120, 298-309.
 
 

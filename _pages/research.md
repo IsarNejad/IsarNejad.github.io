@@ -94,10 +94,10 @@ author_profile: true
 {: .gray}
 ### Uncovering and Combating Stereotypes::
 
-- Kathleen C. Fraser, Svetlana Kiritchenko, and Isar Nejadgholi. (2022). Computational Modelling of Stereotype Content in Text. Frontiers in Artificial Intelligence, April, 2022. [paper]()https://www.frontiersin.org/articles/10.3389/frai.2022.826207/full
-- Kathleen C. Fraser, Isar Nejadgholi, and Svetlana Kiritchenko (2021). Understanding and Countering Stereotypes: A Computational Approach to the Stereotype Content Model. In Proceedings of the Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP 2021), August 2021. [pdf](https://aclanthology.org/2021.acl-long.50/)
-- Fraser, K.C., Kiritchenko, S., Nejadgholi, I., Kerkhof, A. (2023) What Makes a Good Counter-Stereotype? Evaluating Strategies for Automated Responses to Stereotypical Text. In Proceedings of the First Workshop on Social Influence in Conversations (SICon), Toronto, ON, Canada, July 2023. [pdf](https://www.svkir.com/papers/Fraser-et-al-CounterStereotypes-SICon-2023.pdf)
-- Kathleen C. Fraser, Svetlana Kiritchenko, and Isar Nejadgholi. (2022). Extracting Age-Related Stereotypes from Social Media Texts. In Proceedings of the Language Resources and Evaluation Conference (LREC-2022), Marseille, France, June 2022. [pdf](https://aclanthology.org/2022.lrec-1.341/) [project webpage](https://www.svkir.com/projects/age-stereotypes.html)
+- Kathleen C. Fraser, Svetlana Kiritchenko, and Isar Nejadgholi. (2022). Computational Modelling of Stereotype Content in Text. Frontiers in Artificial Intelligence, April, 2022. [[paper](https://www.frontiersin.org/articles/10.3389/frai.2022.826207/full)]
+- Kathleen C. Fraser, Isar Nejadgholi, and Svetlana Kiritchenko (2021). Understanding and Countering Stereotypes: A Computational Approach to the Stereotype Content Model. In Proceedings of the Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP 2021), August 2021. [[pdf](https://aclanthology.org/2021.acl-long.50/)]
+- Fraser, K.C., Kiritchenko, S., Nejadgholi, I., Kerkhof, A. (2023) What Makes a Good Counter-Stereotype? Evaluating Strategies for Automated Responses to Stereotypical Text. In Proceedings of the First Workshop on Social Influence in Conversations (SICon), Toronto, ON, Canada, July 2023. [[pdf](https://www.svkir.com/papers/Fraser-et-al-CounterStereotypes-SICon-2023.pdf)]
+- Kathleen C. Fraser, Svetlana Kiritchenko, and Isar Nejadgholi. (2022). Extracting Age-Related Stereotypes from Social Media Texts. In Proceedings of the Language Resources and Evaluation Conference (LREC-2022), Marseille, France, June 2022. [[pdf](https://aclanthology.org/2022.lrec-1.341/)] [[project webpage](https://www.svkir.com/projects/age-stereotypes.html)]
 
 <a id="political-ideology"></a>
 
@@ -106,8 +106,8 @@ author_profile: true
 
 {: .gray}
 ### Privacy:
- - Hathurusinghe, R., Nejadgholi, I., & Bolic, M. (2021, June). A Privacy-Preserving Approach to Extraction of Personal Information through Automatic Annotation and Federated Learning. In Proceedings of the Third Workshop on Privacy in Natural Language Processing (pp. 36-45). [Paper](https://arxiv.org/abs/2105.09198)
- - Contributors, M. (2022). BLOOM: A 176B-Parameter Open-Access Multilingual Language Model. arXiv preprint arXiv:2211.05100.[Paper](https://arxiv.org/pdf/2211.05100.pdf)
+ - Hathurusinghe, R., Nejadgholi, I., & Bolic, M. (2021, June). A Privacy-Preserving Approach to Extraction of Personal Information through Automatic Annotation and Federated Learning. In Proceedings of the Third Workshop on Privacy in Natural Language Processing (pp. 36-45). [[Paper](https://arxiv.org/abs/2105.09198)]
+ - Contributors, M. (2022). BLOOM: A 176B-Parameter Open-Access Multilingual Language Model. arXiv preprint arXiv:2211.05100.[[Paper](https://arxiv.org/pdf/2211.05100.pdf)]
 
 <a id="biomedical"></a>
 
@@ -134,8 +134,8 @@ author_profile: true
 {: .gray}
 ### Audio and speech processing:
 
-- Dehyadegary, L., Seyyedsalehi, S. A., & Nejadgholi, I. (2011). Nonlinear enhancement of noisy speech, using continuous attractor dynamics formed in recurrent neural networks. Neurocomputing, 74(17), 2716-2724. [Paper](https://www.sciencedirect.com/science/article/pii/S0925231211003328)
-- Nejadgholi, I., & Seyyedsalehi, S. A. (2009). Nonlinear normalization of input patterns to speaker variability in speech recognition neural networks. Neural computing and applications, 18, 45-55. [Paper](https://link.springer.com/content/pdf/10.1007/s00521-007-0151-5.pdf)
+- Dehyadegary, L., Seyyedsalehi, S. A., & Nejadgholi, I. (2011). Nonlinear enhancement of noisy speech, using continuous attractor dynamics formed in recurrent neural networks. Neurocomputing, 74(17), 2716-2724. [[Paper](https://www.sciencedirect.com/science/article/pii/S0925231211003328)]
+- Nejadgholi, I., & Seyyedsalehi, S. A. (2009). Nonlinear normalization of input patterns to speaker variability in speech recognition neural networks. Neural computing and applications, 18, 45-55. [[Paper](https://link.springer.com/content/pdf/10.1007/s00521-007-0151-5.pdf)]
 
 
   

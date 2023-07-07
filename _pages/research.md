@@ -10,7 +10,8 @@ author_profile: true
   - [**Multimodal social media analysis for disaster response:**](#MultiModal-Disaster) This project is funded by New Beginning Initiative Program and is in collaboration with Carleton University. 
   - [**Innovative solutions to improve the immigration system in Canada:**](#Immigration) This project is in collaboration with MILA institute and focuses on using AI to make the immigration settlement in Canada more efficient. 
   - [**Detecting and countering stereotypes:**](#Det-Count-Stereo) This project focuses on detecting abusive language on social media and countering it using NLP models.
-
+  - [**Social media analysis for early detection of Suicide Ideation:**](#suicide)
+    
 {: .amaranth-deep-purple}
 ## Computational Social Science
   - [**Stereotypes in natural language:**](#Stereo-NL) In this project, we use computational linguistics and machine learning techniques to uncover and combat the stereotypical views prominent in society. 
@@ -53,6 +54,12 @@ author_profile: true
 <a id="Det-Count-Stereo"></a>
 
 - Fraser, K. C., Kiritchenko, S., & Nejadgholi, I. (2022). Computational modeling of stereotype content in text. Frontiers in artificial intelligence, 5, 826207. [Link](https://www.frontiersin.org/articles/10.3389/frai.2022.826207/full)
+
+{: .gray}
+### Social Media Analysis for early detection of Suicide Ideation:
+<a id="suicide"></a>
+
+- Ghanadian, H., Nejadgholi, I., & Osman, H. A. (2023). ChatGPT for Suicide Risk Assessment on Social Media: Quantitative Evaluation of Model Performance, Potentials and Limitations. 13th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis (WASSA at ACL 2023), Toronto, Canada, July 2023. [Paper](https://arxiv.org/abs/2306.09390)
 
 {: .gray}
 ### Stereotypes in natural language:

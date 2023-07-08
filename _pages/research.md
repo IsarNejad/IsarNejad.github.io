@@ -16,19 +16,19 @@ author_profile: true
 ## Ethics in AI: 
   - [**Explainability**](#explain) In this project, we use concept-based explanations and other explainability techniques to analyze a model and understand its flaws in terms of safety, generalizability, fairness and robustness. 
   - [**Behavioral Analysis of Generative Models:**](#Bias) In this project, we analyze the model's output to uncover biases learned by text classifiers and generative models.
-  - [**Ethical Challenges in Abuisve Language Detection**](#JAIR) In this project, we bring ethical and human rights considerations to every stage of developing an NLP system for detecting abusive language in online platforms.
-  - [**Privacy**](#privacy ): In this project, we use NLP techniques to deidetify text. 
+  - [**Ethical Challenges in Abuisve Language Detection: **](#JAIR) In this project, we bring ethical and human rights considerations to every stage of developing an NLP system for detecting abusive language in online platforms.
+  - [**Privacy:**](#privacy ) In this project, we use NLP techniques to deidetify text. 
 
 {: .amaranth-deep-purple}
 ## Computational Social Science
   - [**Uncovering and Combating Stereotypes:**](#Stereo-NL) In this project, we use computational linguistics and machine learning techniques to uncover and combat the stereotypical views prominent in society. 
-  - [**Political ideology detection on social media:**](#political-ideology) This project is in collaboration with McGill University, where we use network analysis and natural language processing to understand the political ideologies expressed on social media.
+  - [**Political Ideology Detection on Social Media:**](#political-ideology) This project is in collaboration with McGill University, where we use network analysis and natural language processing to understand the political ideologies expressed on social media.
         
 {: .amaranth-deep-purple}
 ## Machine Learning Applications
-  - [**Medical data analysis**](#biomedical): We analyze different forms of biomedical data to increase the efficiency and accuracy of diagnosis and treatment in medical applications. 
-  - [**Audio and speech processing**](#Speech): We developed neural network models for improving Farsi speech recognition. 
-  - [**Facial recognition**](#PhD): We developed neural network models for emotion detection and facial image generation. 
+  - [**Medical Data Analysis**](#biomedical): We analyze different forms of biomedical data to increase the efficiency and accuracy of diagnosis and treatment in medical applications. 
+  - [**Audio and Speech Processing**](#Speech): We developed neural network models for improving Farsi speech recognition. 
+  - [**Facial Recognition**](#PhD): We developed neural network models for emotion detection and facial image generation. 
     
 <br>
 
@@ -55,7 +55,7 @@ author_profile: true
 <a id="suicide"></a>
 
 {: .gray}
-### Social Media Analysis for early detection of Suicide Ideation:
+### Social Media Analysis for Early Detection of Suicide Ideation:
 
 - Ghanadian, H., Nejadgholi, I., & Osman, H. A. (2023). ChatGPT for Suicide Risk Assessment on Social Media: Quantitative Evaluation of Model Performance, Potentials and Limitations. 13th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis (WASSA at ACL 2023), Toronto, Canada, July 2023. [[Paper](https://arxiv.org/abs/2306.09390)]
 
@@ -98,7 +98,7 @@ author_profile: true
 <a id="Stereo-NL"></a>
 
 {: .gray}
-### Uncovering and Combating Stereotypes::
+### Uncovering and Combating Stereotypes:
 
 - Kathleen C. Fraser, Svetlana Kiritchenko, Isar Nejadgholi, and Anna Kerkhof (2023) What Makes a Good Counter-Stereotype? Evaluating Strategies for Automated Responses to Stereotypical Text. In Proceedings of the First Workshop on Social Influence in Conversations (SICon), Toronto, ON, Canada, July 2023. [[pdf](https://www.svkir.com/papers/Fraser-et-al-CounterStereotypes-SICon-2023.pdf)]
 - Kathleen C. Fraser, Svetlana Kiritchenko, and Isar Nejadgholi. (2022). Computational Modelling of Stereotype Content in Text. Frontiers in Artificial Intelligence, April, 2022. [[paper](https://www.frontiersin.org/articles/10.3389/frai.2022.826207/full)]
@@ -115,7 +115,7 @@ author_profile: true
 <a id="biomedical"></a>
 
 {: .gray}
-### Medical data analysis:
+### Medical Data Analysis:
 
 - Nejadgholi, I., Fraser, K. C., & De Bruijn, B. (2020). Extensive Error Analysis and a Learning-Based Evaluation of Medical Entity Recognition Systems to Approximate User Experience. In Proceedings of the 19th SIGBioMed Workshop on Biomedical Language Processing, 177-186.
 - Nejadgholi, I., Fraser, K. C., De Bruijn, B., Li, M., LaPlante, A., & El Abidine, K. Z. (2019). Recognizing UMLS semantic types with deep learning. In Proceedings of the Tenth International Workshop on Health Text Mining and Information Analysis (LOUHI 2019), 157-167.
@@ -135,7 +135,7 @@ author_profile: true
 <a id="Speech"></a>
 
 {: .gray}
-### Audio and speech processing:
+### Audio and Speech Processing:
 
 - Dehyadegary, L., Seyyedsalehi, S. A., & Nejadgholi, I. (2011). Nonlinear enhancement of noisy speech, using continuous attractor dynamics formed in recurrent neural networks. Neurocomputing, 74(17), 2716-2724. [[Paper](https://www.sciencedirect.com/science/article/pii/S0925231211003328)]
 - Nejadgholi, I., & Seyyedsalehi, S. A. (2009). Nonlinear normalization of input patterns to speaker variability in speech recognition neural networks. Neural computing and applications, 18, 45-55. [[Paper](https://link.springer.com/content/pdf/10.1007/s00521-007-0151-5.pdf)]
@@ -145,7 +145,7 @@ author_profile: true
 <a id="PhD"></a>
 
 {: .gray}
-### Facial recognition:
+### Facial Recognition:
 
 - Nejadgholi, I., SeyyedSalehi, S. A., & Chartier, S. (2017). A brain-inspired method of facial expression generation using chaotic feature extracting bidirectional associative memory. Neural Processing Letters, 46(3), 943-960.
 - Nejadgholi, I., & Seyyedsalehi, S. A. (2010). Chaotic control of deterministic variability in a BAM-inspired model of memory. In Proceedings of the 10th International Conference on Intelligent Systems Design and Applications, 203-208. IEEE.

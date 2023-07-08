@@ -67,7 +67,7 @@ og_image                 :  # Open Graph/Twitter default site image
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : # Person or Organization (defaults to Person)
-  name                   : "Linkedin"# If the user or organization name differs from the site's name
+  name                   : "LinkedIn"# If the user or organization name differs from the site's name
   links: "https://www.linkedin.com/in/isarnejad/" # An array of links to social media profiles
 
 
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Isar Nejadgholi"
   avatar           : "Isar_Nejadgholi.jpg"
-  bio              : "Senior Research Scientist at National Research Council Canada"
+  bio              : "Senior Research Scientist \n National Research Council Canada"
   location         : 
   employer         :
   pubmed           : 

@@ -16,8 +16,8 @@ author_profile: true
 ## Ethics in AI: 
   - [**Explainability:**](#explain) In this project, we use concept-based explanations and other explainability techniques to analyze a model and understand its flaws in terms of safety, generalizability, fairness and robustness. 
   - [**Behavioral Analysis of Generative Models:**](#Bias) In this project, we analyze the model's output to uncover biases learned by text classifiers and generative models.
-  - [**Ethical Challenges in Abuisve Language Detection: **](#JAIR) In this project, we bring ethical and human rights considerations to every stage of developing an NLP system for detecting abusive language in online platforms.
-  - [**Privacy:**](#privacy ) In this project, we use NLP techniques to deidetify text. 
+  - [**Ethical Challenges in Abuisve Language Detection:**](#JAIR) In this project, we bring ethical and human rights considerations to every stage of developing an NLP system for detecting abusive language in online platforms.
+  - [**Privacy:**](#privacy ) In this project, we use NLP techniques to de-identify text. 
 
 {: .amaranth-deep-purple}
 ## Computational Social Science

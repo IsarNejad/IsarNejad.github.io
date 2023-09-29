@@ -9,12 +9,12 @@ author_profile: true
 ## AI for Social Good
   - [**Detecting and Countering Abusive Language on Social Media:**](#Det-Count-Stereo) This project focuses on detecting abusive language on social media and countering it using NLP models.
   - [**Social Media Analysis for Early Detection of Suicide Ideation:**](#suicide) This project is in collaboration with the University of Ottawa and focuses on developing tools for the early detection of suicidal notes on social media.
-  - [**Multimodal Social Media Analysis for Disaster Response:**](#MultiModal-Disaster) This project is funded by New Beginning Initiative Program and is in collaboration with Carleton University. 
-  - [**Innovative Solutions to Improve the Immigration System in Canada:**](#Immigration) This project is in collaboration with MILA institute and focuses on using AI to make the immigration settlement in Canada more efficient. 
+  - [**Multimodal Social Media Analysis for Disaster Response:**](#MultiModal-Disaster) This project is funded by the New Beginning Initiative Program and is in collaboration with Carleton University. 
+  - [**Innovative Solutions to Improve Immigration Settlement in Canada:**](#Immigration) This project is in collaboration with the MILA institute and focuses on using AI to make immigration settlement in Canada more efficient. 
     
 {: .amaranth-deep-purple}
 ## Ethics in AI: 
-  - [**Explainability:**](#explain) In this project, we use concept-based explanations and other explainability techniques to analyze a model and understand its flaws in terms of safety, generalizability, fairness and robustness. 
+  - [**Explainability:**](#explain) In this project, we use concept-based explanations and other explainability techniques to analyze a model and understand its flaws regarding safety, generalizability, fairness and robustness. 
   - [**Behavioral Analysis of Generative Models:**](#Bias) In this project, we analyze the model's output to uncover biases learned by text classifiers and generative models.
   - [**Ethical Challenges in Abuisve Language Detection:**](#JAIR) In this project, we bring ethical and human rights considerations to every stage of developing an NLP system for detecting abusive language in online platforms.
   - [**Privacy:**](#privacy ) In this project, we use NLP techniques to de-identify text. 
@@ -26,7 +26,7 @@ author_profile: true
         
 {: .amaranth-deep-purple}
 ## Machine Learning Applications
-  - [**Medical Data Analysis**](#biomedical): We analyze different forms of biomedical data to increase the efficiency and accuracy of diagnosis and treatment in medical applications. 
+  - [**Medical Data Analysis**](#biomedical): We analyzed different forms of biomedical data to increase the efficiency and accuracy of diagnosis and treatment in medical applications. 
   - [**Audio and Speech Processing**](#Speech): We developed neural network models for improving Farsi speech recognition. 
   - [**Facial Recognition**](#PhD): We developed neural network models for emotion detection and facial image generation. 
     

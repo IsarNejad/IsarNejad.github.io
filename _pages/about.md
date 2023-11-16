@@ -12,7 +12,7 @@ I am a Senior Research Scientist at the [National Research Council Canada](https
 
 # Latest News
 
-### I will be at the [[Pathway to Prosperity national conference](https://site.pheedloop.com/event/p2pvvp2023/home)] in Montreal, organizing a workshop. 
+### I will be at the [Pathway to Prosperity national conference](https://site.pheedloop.com/event/p2pvvp2023/home) in Montreal, organizing a workshop. 
 
 **Title of workshop:** Responsible AI in Settlement Services: Challenges, Social Context, and Ethical AI Solutions 
 

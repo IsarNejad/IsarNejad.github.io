@@ -14,22 +14,22 @@ I am a Senior Research Scientist at the [National Research Council Canada](https
 
 ### I will be at the [Pathway to Prosperity national conference](https://site.pheedloop.com/event/p2pvvp2023/home) in Montreal, organizing a workshop. 
 
-**Title of workshop:** Responsible AI in Settlement Services: Challenges, Social Context, and Ethical AI Solutions 
+>**Title of workshop:** Responsible AI in Settlement Services: Challenges, Social Context, and Ethical AI Solutions 
 
-**Description of workshop:** In this workshop, we hope to explore opportunities and limitations of AI language technologies in the immigration context. We first explore the current landscape of settlement services that can be facilitated, assessed, or audited by language technologies. Then, we delve into assessing the potential for a responsible adoption of these technologies in the Canadian settlement service sectors. Some examples encompass translation services, structuring data, detecting patterns on an unparalleled scale, automatic reporting, and auditing fairness in decision-making processes. We conclude by discussing the risks and challenges of deploying these technologies, emphasizing the importance of fostering fair and inclusive technologies.
+>**Description of workshop:** In this workshop, we hope to explore opportunities and limitations of AI language technologies in the immigration context. We first explore the current landscape of settlement services that can be facilitated, assessed, or audited by language technologies. Then, we delve into assessing the potential for a responsible adoption of these technologies in the Canadian settlement service sectors. Some examples encompass translation services, structuring data, detecting patterns on an unparalleled scale, automatic reporting, and auditing fairness in decision-making processes. We conclude by discussing the risks and challenges of deploying these technologies, emphasizing the importance of fostering fair and inclusive technologies.
 
-**workshop chair:**
+>**workshop chair:**
 
-Anna Jahn, Director of Public Policy and Learning, MILA - Quebec Artificial Intelligence 
+>Anna Jahn, Director of Public Policy and Learning, MILA - Quebec Artificial Intelligence 
 
 
-**Speakers:**
+>**Speakers:**
 
-Isar Nejadgholi, Senior Research Scientist, National Research Council Canada
-*Presentation title:* Promises of Language Technologies for Digital Transformation of the Immigration and Settlement Sector
+>Isar Nejadgholi, Senior Research Scientist, National Research Council Canada
+>*Presentation title:* Promises of Language Technologies for Digital Transformation of the Immigration and Settlement Sector
 
-Maryam Mollamohammadi, Responsible AI Advisor, MILA - Quebec Artificial Intelligence Institute
-*Presentation title:* Inclusive and Fair Digital Transformation: Responsible Use of Language Technologies in the Immigration Sector
+>Maryam Mollamohammadi, Responsible AI Advisor, MILA - Quebec Artificial Intelligence Institute
+>*Presentation title:* Inclusive and Fair Digital Transformation: Responsible Use of Language Technologies in the Immigration Sector
 
 
 ### We were at ACL2023 in Toronto and presented the following papers: 

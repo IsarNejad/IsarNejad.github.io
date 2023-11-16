@@ -12,6 +12,7 @@ I am a Senior Research Scientist at the [National Research Council Canada](https
 
 # Latest News
 
+{: .amaranth-deep-purple}
 ### November 2023 - I will organize a workshop at the [Pathway to Prosperity national conference](https://site.pheedloop.com/event/p2pvvp2023/home) in Montreal. 
 
 **Title of workshop:** Responsible AI in Settlement Services: Challenges, Social Context, and Ethical AI Solutions 
@@ -33,6 +34,7 @@ Maryam Mollamohammadi, Responsible AI Advisor, MILA - Quebec Artificial Intellig
 
 ---
 
+{: .amaranth-deep-purple}
 ### July 2023 - We were at ACL2023 in Toronto and presented the following papers: 
 
 - Svetlana Kiritchenko, Georgina Curto, Isar Nejadgholi, and Kathleen C. Fraser. (2023) Aporophobia: An Overlooked Type of Toxic Language Targeting the Poor. In Proceedings of the 7th Workshop on Online Abuse and Harms (WOAH).[[Paper](https://www.svkir.com/papers/Kiritchenko-et-al-aporophobia-WOAH-2023.pdf)] 
@@ -45,6 +47,7 @@ Maryam Mollamohammadi, Responsible AI Advisor, MILA - Quebec Artificial Intellig
 
 ---
 
+{: .amaranth-deep-purple}
 ### June 2023 - Best Short Paper Award
 
 Our paper, **Diversity is Not a One-Way Street: Pilot Study on Ethical Interventions for Racial Bias in Text-to-Image Systems.**, won the best short paper award at the 14th International Conference on Computational Creativity (ICCC) in Waterloo. [[Paper](https://www.svkir.com/papers/Fraser-et-al-TextImageBias-ICCC-2023.pdf)]

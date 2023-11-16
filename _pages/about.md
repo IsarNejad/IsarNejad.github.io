@@ -12,27 +12,28 @@ I am a Senior Research Scientist at the [National Research Council Canada](https
 
 # Latest News
 
-### I will be at the [Pathway to Prosperity national conference](https://site.pheedloop.com/event/p2pvvp2023/home) in Montreal, organizing a workshop. 
+### November 2023 - I will organize a workshop at the [Pathway to Prosperity national conference](https://site.pheedloop.com/event/p2pvvp2023/home) in Montreal. 
 
->**Title of workshop:** Responsible AI in Settlement Services: Challenges, Social Context, and Ethical AI Solutions 
+**Title of workshop:** Responsible AI in Settlement Services: Challenges, Social Context, and Ethical AI Solutions 
 
->**Description of workshop:** In this workshop, we hope to explore opportunities and limitations of AI language technologies in the immigration context. We first explore the current landscape of settlement services that can be facilitated, assessed, or audited by language technologies. Then, we delve into assessing the potential for a responsible adoption of these technologies in the Canadian settlement service sectors. Some examples encompass translation services, structuring data, detecting patterns on an unparalleled scale, automatic reporting, and auditing fairness in decision-making processes. We conclude by discussing the risks and challenges of deploying these technologies, emphasizing the importance of fostering fair and inclusive technologies.
+**Description of workshop:** In this workshop, we hope to explore opportunities and limitations of AI language technologies in the immigration context. We first explore the current landscape of settlement services that can be facilitated, assessed, or audited by language technologies. Then, we delve into assessing the potential for a responsible adoption of these technologies in the Canadian settlement service sectors. Some examples encompass translation services, structuring data, detecting patterns on an unparalleled scale, automatic reporting, and auditing fairness in decision-making processes. We conclude by discussing the risks and challenges of deploying these technologies, emphasizing the importance of fostering fair and inclusive technologies.
 
->**workshop chair:**
+**Workshop chair:**
 
->Anna Jahn, Director of Public Policy and Learning, MILA - Quebec Artificial Intelligence 
-
-
->**Speakers:**
-
->Isar Nejadgholi, Senior Research Scientist, National Research Council Canada
->*Presentation title:* Promises of Language Technologies for Digital Transformation of the Immigration and Settlement Sector
-
->Maryam Mollamohammadi, Responsible AI Advisor, MILA - Quebec Artificial Intelligence Institute
->*Presentation title:* Inclusive and Fair Digital Transformation: Responsible Use of Language Technologies in the Immigration Sector
+Anna Jahn, Director of Public Policy and Learning, MILA - Quebec Artificial Intelligence 
 
 
-### We were at ACL2023 in Toronto and presented the following papers: 
+**Speakers:**
+
+Isar Nejadgholi, Senior Research Scientist, National Research Council Canada
+*Presentation title:* Promises of Language Technologies for Digital Transformation of the Immigration and Settlement Sector
+
+Maryam Mollamohammadi, Responsible AI Advisor, MILA - Quebec Artificial Intelligence Institute
+*Presentation title:* Inclusive and Fair Digital Transformation: Responsible Use of Language Technologies in the Immigration Sector
+
+---
+
+### July 2023 - We were at ACL2023 in Toronto and presented the following papers: 
 
 - Svetlana Kiritchenko, Georgina Curto, Isar Nejadgholi, and Kathleen C. Fraser. (2023) Aporophobia: An Overlooked Type of Toxic Language Targeting the Poor. In Proceedings of the 7th Workshop on Online Abuse and Harms (WOAH).[[Paper](https://www.svkir.com/papers/Kiritchenko-et-al-aporophobia-WOAH-2023.pdf)] 
 
@@ -42,6 +43,8 @@ I am a Senior Research Scientist at the [National Research Council Canada](https
 
 - Ghanadian, H., Nejadgholi, I., & Osman, H. A. (2023). ChatGPT for Suicide Risk Assessment on Social Media: Quantitative Evaluation of Model Performance, Potentials and Limitations. 13th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis (WASSA at ACL 2023).[[paper](https://arxiv.org/pdf/2306.09390.pdf)]
 
-### Best Short Paper Award
+---
+
+### June 2023 - Best Short Paper Award
 
 Our paper, **Diversity is Not a One-Way Street: Pilot Study on Ethical Interventions for Racial Bias in Text-to-Image Systems.**, won the best short paper award at the 14th International Conference on Computational Creativity (ICCC) in Waterloo. [[Paper](https://www.svkir.com/papers/Fraser-et-al-TextImageBias-ICCC-2023.pdf)]

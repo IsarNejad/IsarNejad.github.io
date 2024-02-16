@@ -57,6 +57,9 @@ author_profile: true
 {: .gray}
 ### Social Media Analysis for Early Detection of Suicide Ideation:
 
+
+- Ghanadian, H., Nejadgholi, I., & Osman, H. A. (2024). Socially Aware Synthetic Data Generation for Suicidal Ideation Detection Using Large Language Models. IEEE Access.[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10413447)]
+
 - Ghanadian, H., Nejadgholi, I., & Osman, H. A. (2023). ChatGPT for Suicide Risk Assessment on Social Media: Quantitative Evaluation of Model Performance, Potentials and Limitations. 13th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis (WASSA at ACL 2023), Toronto, Canada, July 2023. [[Paper](https://arxiv.org/abs/2306.09390)]
 
 <a id="Immigration"></a>

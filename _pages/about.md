@@ -15,7 +15,7 @@ I am a Senior Research Scientist at the [National Research Council Canada](https
 
 
 {: .amaranth-deep-purple}
-### February 2024  - I was an invited participant of [Frontiers of Science: Artificial Intelligence]([https://site.pheedloop.com/event/p2pvvp2023/home](https://rsc-src.ca/en/events/frontiers-science-2024)) held in the gorgeous Chateau Laurier in Ottawa. 
+### February 2024  - I was an invited participant of [Frontiers of Science: Artificial Intelligence](https://site.pheedloop.com/event/p2pvvp2023/home](https://rsc-src.ca/en/events/frontiers-science-2024) held in the gorgeous Chateau Laurier in Ottawa. 
 
 The Royal Society of Canada organized this event, and it was a fantastic multidisciplinary meeting focused on early- to mid-career researchers of artificial intelligence. The meeting brought together 20 researchers from Canada and 20 from the UK, with diverse backgrounds in computer science, history, communication, ethics and policy making. The flexible structure of the meeting gave us the opportunity to listen to eye-opening talks from pioneer thinkers of the field and the chance to discuss these ideas in the context of our work in group discussions. For me, the main takeaway was that we will not succeed in achieving much-needed regulations and safeguards around AI unless we break the vicious cycle of fast and profit-oriented science. A safe and reliable AI that benefits all is hard to achieve but worth the fight. 
 

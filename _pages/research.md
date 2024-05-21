@@ -7,15 +7,15 @@ author_profile: true
 
 {: .amaranth-deep-purple}
 ## AI for Social Good
-  - [**Detecting and Countering Abusive Language on Social Media:**](#Det-Count-Stereo) This project focuses on detecting abusive language on social media and countering it using NLP models.
+  - [**Detecting and Countering Abusive Language on Social Media:**](#Det-Count-Stereo) This project focuses on detecting and countering abusive language on social media using NLP models.
   - [**Social Media Analysis for Early Detection of Suicide Ideation:**](#suicide) This project is in collaboration with the University of Ottawa and focuses on developing tools for the early detection of suicidal notes on social media.
   - [**Multimodal Social Media Analysis for Disaster Response:**](#MultiModal-Disaster) This project is funded by the New Beginning Initiative Program and is in collaboration with Carleton University. 
-  - [**Innovative Solutions to Improve Immigration Settlement in Canada:**](#Immigration) This project is in collaboration with the MILA institute and focuses on using AI to make immigration settlement in Canada more efficient. 
+  - [**Responsible AI for Immigration Settlement in Canada:**](#Immigration) This project is in collaboration with the MILA institute and focuses on using AI to make immigration settlement in Canada more efficient. 
     
 {: .amaranth-deep-purple}
 ## Ethics in AI: 
   - [**Explainability:**](#explain) In this project, we use concept-based explanations and other explainability techniques to analyze a model and understand its flaws regarding safety, generalizability, fairness and robustness. 
-  - [**Behavioral Analysis of Generative Models:**](#Bias) In this project, we analyze the model's output to uncover biases learned by text classifiers and generative models.
+  - [**Bias in Language Models:**](#Bias) In this project, we analyze the model's output to uncover biases learned by text classifiers and generative models.
   - [**Ethical Challenges in Abuisve Language Detection:**](#JAIR) In this project, we bring ethical and human rights considerations to every stage of developing an NLP system for detecting abusive language in online platforms.
   - [**Privacy:**](#privacy ) In this project, we use NLP techniques to de-identify text. 
 
@@ -65,8 +65,10 @@ author_profile: true
 <a id="Immigration"></a>
 
 {: .gray}
-### Innovative Solutions to Improve the Immigration System in Canada:
+### Responsible AI for Immigration System in Canada:
 
+- Isar Nejadgholi, Maryam Molamohammadi, Samir Bakhtawar, (2024), Risks of General-Purpose LLMs for Settling Newcomers in Canada, ACM Conference on Fairness, Accountability and Transparency (FAccT). [[Tutorial](https://facctconference.org/2024/acceptedtutorials)]
+- Anna Jahn, Isar Nejadgholi and Maryam Molamohammadi, (2023). Responsible AI in Settlement Services: Challenges, Social Context, and Ethical AI Solutions. Pathway to Prosperity National Conference. [[workshop page](https://site.pheedloop.com/event/EVEHAYZSFXPTO/schedule/SES0UFO405SMXA1ZG)].
 - Isar Nejadgholi, Renaud Bougueng, and Samuel Witherspoon (2017). A Semi-Supervised Training Method for Semantic Search of Legal Facts in Canadian Immigration Cases. In Legal Knowledge and Information Systems (pp. 125-134). IOS Press. [[Paper](https://orbilu.uni.lu/bitstream/10993/33777/1/9781614998389.pdf#page=135)]
 
 <a id="explain"></a>
@@ -84,8 +86,9 @@ author_profile: true
 <a id="Bias"></a>
 
 {: .gray}
-### Behavioral Analysis of Generative Models:
+### Bias in Language Models:
 
+-Dawkins, Hillary, Isar Nejadgholi, Daniel Gillis, and Judi McCuaig. (2024, May). Projective Methods for Mitigating Gender Bias in Pre-trained Language Models. In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024) (pp. 13079-13091)[[paper](https://aclanthology.org/2024.lrec-main.1146/)].
 - Kathleen C. Fraser, Svetlana Kiritchenko, and Isar Nejadgholi (2023) Diversity is Not a One-Way Street: Pilot Study on Ethical Interventions for Racial Bias in Text-to-Image Systems. In Proceedings of the 14th International Conference on Computational Creativity (ICCC), Waterloo, ON, Canada, June 2023. [[pdf](https://www.svkir.com/papers/Fraser-et-al-TextImageBias-ICCC-2023.pdf)]
 - Kathleen C. Fraser, Isar Nejadgholi, and Svetlana Kiritchenko (2023) A Friendly Face: Do Text-to-Image Systems Rely on Stereotypes when the Input is Under-Specified? In Proceedings of the Creative AI Across Modalities Workshop (CreativeAI @ AAAI), Washington, DC, USA, Feb. 2023. [[pdf](https://www.svkir.com/papers/Fraser-et-al-CreativeAI-2023.pdf)]
 
@@ -103,6 +106,7 @@ author_profile: true
 {: .gray}
 ### Uncovering and Combating Stereotypes:
 
+- Isar Nejadgholi, Kathleen C. Fraser, Anna Kerkhof, and Svetlana Kiritchenko (2024). Challenging Negative Gender Stereotypes: A Study on the Effectiveness of Automated Counter-Stereotypes. In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024) (pp. 3005-3015). [[pdf](https://aclanthology.org/2024.lrec-main.268/)]
 - Kathleen C. Fraser, Svetlana Kiritchenko, Isar Nejadgholi, and Anna Kerkhof (2023) What Makes a Good Counter-Stereotype? Evaluating Strategies for Automated Responses to Stereotypical Text. In Proceedings of the First Workshop on Social Influence in Conversations (SICon), Toronto, ON, Canada, July 2023. [[pdf](https://www.svkir.com/papers/Fraser-et-al-CounterStereotypes-SICon-2023.pdf)]
 - Kathleen C. Fraser, Svetlana Kiritchenko, and Isar Nejadgholi. (2022). Computational Modelling of Stereotype Content in Text. Frontiers in Artificial Intelligence, April, 2022. [[paper](https://www.frontiersin.org/articles/10.3389/frai.2022.826207/full)]
 - Kathleen C. Fraser, Isar Nejadgholi, and Svetlana Kiritchenko (2021). Understanding and Countering Stereotypes: A Computational Approach to the Stereotype Content Model. In Proceedings of the Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP 2021), August 2021. [[pdf](https://aclanthology.org/2021.acl-long.50/)]

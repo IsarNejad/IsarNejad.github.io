@@ -66,9 +66,12 @@ og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : "LinkedIn"# If the user or organization name differs from the site's name
-  links: "https://www.linkedin.com/in/isarnejad/" # An array of links to social media profiles
+  type: # Person or Organization (defaults to Person)
+  name: "LinkedIn" # If the user or organization name differs from the site's name
+  links: 
+    - "https://twitter.com/IsarNejadgholi"
+    - "https://scholar.google.ca/citations?user=In99zA8AAAAJ&hl=en"
+    - "https://www.linkedin.com/in/isarnejad/
 
 
 # Analytics

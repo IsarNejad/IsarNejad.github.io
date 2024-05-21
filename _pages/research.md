@@ -88,7 +88,7 @@ author_profile: true
 {: .gray}
 ### Bias in Language Models:
 
--Dawkins, Hillary, Isar Nejadgholi, Daniel Gillis, and Judi McCuaig. (2024, May). Projective Methods for Mitigating Gender Bias in Pre-trained Language Models. In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024) (pp. 13079-13091)[[paper](https://aclanthology.org/2024.lrec-main.1146/)].
+- Dawkins, Hillary, Isar Nejadgholi, Daniel Gillis, and Judi McCuaig. (2024, May). Projective Methods for Mitigating Gender Bias in Pre-trained Language Models. In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024) (pp. 13079-13091)[[paper](https://aclanthology.org/2024.lrec-main.1146/)].
 - Kathleen C. Fraser, Svetlana Kiritchenko, and Isar Nejadgholi (2023) Diversity is Not a One-Way Street: Pilot Study on Ethical Interventions for Racial Bias in Text-to-Image Systems. In Proceedings of the 14th International Conference on Computational Creativity (ICCC), Waterloo, ON, Canada, June 2023. [[pdf](https://www.svkir.com/papers/Fraser-et-al-TextImageBias-ICCC-2023.pdf)]
 - Kathleen C. Fraser, Isar Nejadgholi, and Svetlana Kiritchenko (2023) A Friendly Face: Do Text-to-Image Systems Rely on Stereotypes when the Input is Under-Specified? In Proceedings of the Creative AI Across Modalities Workshop (CreativeAI @ AAAI), Washington, DC, USA, Feb. 2023. [[pdf](https://www.svkir.com/papers/Fraser-et-al-CreativeAI-2023.pdf)]
 

@@ -13,7 +13,7 @@ author_profile: true
   - [**Responsible AI for Immigration Settlement in Canada:**](#Immigration) This project is in collaboration with the MILA institute and focuses on using AI to make immigration settlement in Canada more efficient. 
     
 {: .amaranth-deep-purple}
-## Ethics in AI: 
+## Responsible AI: 
   - [**Explainability:**](#explain) In this project, we use concept-based explanations and other explainability techniques to analyze a model and understand its flaws regarding safety, generalizability, fairness and robustness. 
   - [**Bias in Language Models:**](#Bias) In this project, we analyze the model's output to uncover biases learned by text classifiers and generative models.
   - [**Ethical Challenges in Abuisve Language Detection:**](#JAIR) In this project, we bring ethical and human rights considerations to every stage of developing an NLP system for detecting abusive language in online platforms.

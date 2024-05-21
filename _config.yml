@@ -69,9 +69,9 @@ social:
   type: # Person or Organization (defaults to Person)
   name: "LinkedIn" # If the user or organization name differs from the site's name
   links: 
-    - "https://twitter.com/IsarNejadgholi"
     - "https://scholar.google.ca/citations?user=In99zA8AAAAJ&hl=en"
     - "https://www.linkedin.com/in/isarnejad/
+    - "https://twitter.com/IsarNejadgholi"
 
 
 # Analytics

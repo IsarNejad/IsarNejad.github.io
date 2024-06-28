@@ -15,7 +15,7 @@ I am a Senior Research Scientist at the [National Research Council Canada](https
 {: .amaranth-deep-purple}
 ### June 2024 - We organized a tutorial on [Risks of General-Purpose LLMs for Settling Newcomers in Canada](https://facctconference.org/2024/acceptedtutorials) at the ACM Fairness, Accountability and Transparency (FAccT) 2024 conference. [[Report](https://github.com/IsarNejad/IsarNejad.github.io/blob/main/files/AI-in-Settlement.pdf)]
 
-I had the pleasure of co-organizing this tutorial with [Maryam Molamohammadi](https://mila.quebec/fr/maryam-molamohammadi) and [Samir Bakhtawar](https://www.linkedin.com/in/samirbakht/?originalSubdomain=ca). Our new intern, [Kosar Hemmati](https://www.linkedin.com/in/kosar-hemmati/?originalSubdomain=ca), has also put enormous efforts into supporting us for this tutorial. 
+I had the pleasure of co-organizing this tutorial with [Maryam Molamohammadi](https://mila.quebec/fr/maryam-molamohammadi). Our new intern, [Kosar Hemmati](https://www.linkedin.com/in/kosar-hemmati/?originalSubdomain=ca), has also put enormous efforts into supporting us for this tutorial. 
 
 **Abstract:** The non-profit settlement sector in Canada supports newcomers in achieving successful integration. This sector faces increasing operational pressures amidst rising immigration targets, which highlights a need for enhanced efficiency and innovation, potentially through reliable AI solutions. The ad-hoc use of general-purpose generative AI, such as ChatGPT, might become a common practice among newcomers and service providers to address this need. However, these tools are not tailored for the settlement domain and can have detrimental implications for immigrants and refugees. We explore the risks that these tools might pose on newcomers to first, warn against the unguarded use of generative AI, and second, to incentivize further research and development in creating AI literacy programs as well as customized LLMs that are aligned with the preferences of the impacted communities. Crucially, such technologies should be designed to integrate seamlessly into the existing workflow of the settlement sector, ensuring human oversight, trustworthiness, and accountability.
 
@@ -68,7 +68,6 @@ Our paper, **Aporophobia: An Overlooked Type of Toxic Language Targeting the Poo
 - Ghanadian, H., Nejadgholi, I., & Osman, H. A. (2023). ChatGPT for Suicide Risk Assessment on Social Media: Quantitative Evaluation of Model Performance, Potentials and Limitations. 13th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis (WASSA at ACL 2023).[[paper](https://arxiv.org/pdf/2306.09390.pdf)]
 
 ---
-
 {: .amaranth-deep-purple}
 ### June 2023 - Best Short Paper Award
 

@@ -13,7 +13,7 @@ I am a Senior Research Scientist at the [National Research Council Canada](https
 # Latest News
 
 {: .amaranth-deep-purple}
-### June 2024 - We Organized a tutorial on [Risks of General-Purpose LLMs for Settling Newcomers in Canada](https://facctconference.org/2024/acceptedtutorials) at the ACM Fairness, Accountability and Transparency (FAccT) 2024 conference. 
+### June 2024 - We organized a tutorial on [Risks of General-Purpose LLMs for Settling Newcomers in Canada](https://facctconference.org/2024/acceptedtutorials) at the ACM Fairness, Accountability and Transparency (FAccT) 2024 conference. 
 
 I had the pleasure of co-organizing this tutorial with [Maryam Molamohammadi](https://mila.quebec/fr/maryam-molamohammadi) and [Samir Bakhtawar](https://www.linkedin.com/in/samirbakht/?originalSubdomain=ca). Our new intern, [Kosar Hemmati](https://www.linkedin.com/in/kosar-hemmati/?originalSubdomain=ca), has also put enormous efforts into supporting us for this tutorial. 
 

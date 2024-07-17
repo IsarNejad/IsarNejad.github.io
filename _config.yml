@@ -70,8 +70,7 @@ social:
   name: 
   links: 
     - "https://scholar.google.ca/citations?user=In99zA8AAAAJ&hl=en"
-    - "https://twitter.com/IsarNejadgholi"
-
+    
 
 # Analytics
 analytics:
@@ -110,7 +109,7 @@ author:
   soundcloud       :
   stackoverflow    : 
   tumblr           :
-  twitter          : "IsarNejadgholi"
+  twitter          : 
   vine             :
   weibo            :
   xing             :

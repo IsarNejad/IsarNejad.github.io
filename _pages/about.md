@@ -13,7 +13,7 @@ I am a Senior Research Scientist at the [National Research Council Canada](https
 # Latest News
 
 {: .amaranth-deep-purple}
-### June 2024 - We organized a tutorial on [Risks of General-Purpose LLMs for Settling Newcomers in Canada](https://facctconference.org/2024/acceptedtutorials) at the ACM Fairness, Accountability and Transparency (FAccT) 2024 conference. [Read the Report](https://raw.githubusercontent.com/IsarNejad/IsarNejad.github.io/main/files/AI-in-Settlement.pdf).
+### June 2024 - We organized a tutorial on [Risks of General-Purpose LLMs for Settling Newcomers in Canada](https://facctconference.org/2024/acceptedtutorials) at the ACM Fairness, Accountability and Transparency (FAccT) 2024 conference. [Read the Report](https://raw.githubusercontent.com/IsarNejad/IsarNejad.github.io/main/files/AI-in-Settlement.pdf)
 
 ### June 2024 - We organized a tutorial on [Risks of General-Purpose LLMs for Settling Newcomers in Canada](https://facctconference.org/2024/acceptedtutorials) at the ACM Fairness, Accountability and Transparency (FAccT) 2024 conference. 
 <embed src="https://isarnejad.github.io/files/AI-in-Settlement.pdf" width="100%" height="600px" type="application/pdf" />

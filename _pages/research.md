@@ -7,28 +7,27 @@ author_profile: true
 
 {: .amaranth-deep-purple}
 ## AI for Social Good
-  - [**Detecting and Countering Abusive Language on Social Media:**](#Det-Count-Stereo) This project focuses on detecting and countering abusive language on social media using NLP models.
-  - [**Social Media Analysis for Early Detection of Suicide Ideation:**](#suicide) This project is in collaboration with the University of Ottawa and focuses on developing tools for the early detection of suicidal notes on social media.
-  - [**Multimodal Social Media Analysis for Disaster Response:**](#MultiModal-Disaster) This project is funded by the New Beginning Initiative Program and is in collaboration with Carleton University. 
-  - [**Responsible AI for Immigration Settlement in Canada:**](#Immigration) This project is in collaboration with the MILA institute and focuses on using AI to make immigration settlement in Canada more efficient. 
+  - [**Detecting and Countering Toxic Language on Social Media:**](#Det-Count-Stereo) This project uses NLP techniques to detect and counter toxic language on social media that can lead to material and psychological harm.
+  - [**Social Media Analysis for Early Detection of Suicide Ideation:**](#suicide) This project is in collaboration with the University of Ottawa and focuses on developing tools for the early detection of suicidal ideation on social media.
+  - [**Multimodal Social Media Analysis for Wildfire Response:**](#MultiModal-Disaster) This project leverages social media to inform wildfire response in Canada. The project is funded by the New Beginning Initiative Program and is in collaboration with Carleton University. 
+  - [**Responsible AI for Immigration Settlement in Canada:**](#Immigration) This project focuses on adopting human-centred AI tools to make immigration settlement in Canada more efficient. 
     
 {: .amaranth-deep-purple}
 ## Responsible AI: 
-  - [**Explainability:**](#explain) In this project, we use concept-based explanations and other explainability techniques to analyze a model and understand its flaws regarding safety, generalizability, fairness and robustness. 
-  - [**Bias in Language Models:**](#Bias) In this project, we analyze the model's output to uncover biases learned by text classifiers and generative models.
-  - [**Ethical Challenges in Abuisve Language Detection:**](#JAIR) In this project, we bring ethical and human rights considerations to every stage of developing an NLP system for detecting abusive language in online platforms.
-  - [**Privacy:**](#privacy ) In this project, we use NLP techniques to de-identify text. 
+  - [**Explainability:**](#explain) This project uses concept-based explanations and other explainability techniques to analyze a model and understand its flaws regarding safety, generalizability, fairness and robustness. 
+  - [**Bias in Language Models:**](#Bias) This line of research analyzes the model's output to uncover biases learned by text classifiers and generative models.
+  - [**Ethical Challenges in Abuisve Language Detection:**](#JAIR) This line of work brings ethical and human rights considerations to every stage of developing an NLP system for detecting abusive language in online platforms.
+  - [**Privacy:**](#privacy ) This project uses NLP techniques to de-identify text. 
 
 {: .amaranth-deep-purple}
 ## Computational Social Science
   - [**Uncovering and Combating Stereotypes:**](#Stereo-NL) In this project, we use computational linguistics and machine learning techniques to uncover and combat the stereotypical views prominent in society. 
-  - [**Political Ideology Detection on Social Media:**](#political-ideology) This project is in collaboration with McGill University, where we use network analysis and natural language processing to understand the political ideologies expressed on social media.
-        
+         
 {: .amaranth-deep-purple}
 ## Machine Learning Applications
-  - [**Medical Data Analysis**](#biomedical): We analyzed different forms of biomedical data to increase the efficiency and accuracy of diagnosis and treatment in medical applications. 
-  - [**Audio and Speech Processing**](#Speech): We developed neural network models for improving Farsi speech recognition. 
-  - [**Facial Recognition**](#PhD): We developed neural network models for emotion detection and facial image generation. 
+  - [**Medical Data Analysis**](#biomedical): This line of work analyzed different forms of biomedical data to increase the efficiency and accuracy of diagnosis and treatment in medical applications. 
+  - [**Audio and Speech Processing**](#Speech): This research  developed neural network models for improving Farsi speech recognition. 
+  - [**Facial Recognition**](#PhD): This work developed neural network models for facial expression detection and facial image generation. 
     
 <br>
 
@@ -43,8 +42,9 @@ author_profile: true
 <a id="Det-Count-Stereo"></a>
 
 {: .gray}
-### Detecting and Countering Abusive Language on Social Media:
+### Detecting and Countering Toxic Language on Social Media:
 
+- Georgina Curto, Svetlana Kiritchenko, Kathleen C. Fraser, and Isar Nejadgholi. (2024). The Crime of Being Poor: Associations between Crime and Poverty on Social Media in Eight Countries. In Proceedings of the Sixth Workshop on Natural Language Processing and Computational Social Science (NLP+ CSS 2024),[[pdf](https://aclanthology.org/2024.nlpcss-1.3.pdf)].
 - Svetlana Kiritchenko, Georgina Curto, Isar Nejadgholi, and Kathleen C. Fraser. (2023) Aporophobia: An Overlooked Type of Toxic Language Targeting the Poor. In Proceedings of the 7th Workshop on Online Abuse and Harms (WOAH), Toronto, ON, Canada, July 2023. [[pdf](https://www.svkir.com/papers/Kiritchenko-et-al-aporophobia-WOAH-2023.pdf)]
 - Isar Nejadgholi, Svetlana Kiritchenko, Kathleen C. Fraser, and Esma Balkir. (2023) Concept-Based Explanations to Test for False Causal Relationships Learned by Abusive Language Classifiers. In Proceedings of the 7th Workshop on Online Abuse and Harms (WOAH), Toronto, ON, Canada, July 2023. [[pdf](https://arxiv.org/pdf/2307.01900.pdf)] [[code](https://github.com/IsarNejad/Global-Sufficiency)]
 - Isar Nejadgholi, Esma Balkir, Kathleen C. Fraser, and Svetlana Kiritchenko. (2022) Towards Procedural Fairness: Uncovering Biases in How a Toxic Language Classifier Uses Sentiment Information. In Proceedings of the Workshop on Analyzing and Interpreting Neural Networks for NLP (BlackboxNLP), Abu Dhabi, United Arab Emirates, Dec. 2022. [[pdf](https://arxiv.org/pdf/2210.10689.pdf)] [[code](https://github.com/IsarNejad/Procedural-Fairness-Sentiment)]
@@ -66,8 +66,8 @@ author_profile: true
 
 {: .gray}
 ### Responsible AI for Immigration System in Canada:
-
-- Isar Nejadgholi, Maryam Molamohammadi, Samir Bakhtawar, (2024), Risks of General-Purpose LLMs for Settling Newcomers in Canada, ACM Conference on Fairness, Accountability and Transparency (FAccT). [[Tutorial](https://facctconference.org/2024/acceptedtutorials)]
+- Isar Nejadgholi, Maryam Molamohammadi, Kimiya Missaghi, Samir Bakhtawar (2024) Human-Centered AI Applications for Canada’s Immigration Settlement Sector, Accepted for publication at ACM conference on AI, Ethics and Society. 
+- Isar Nejadgholi, Maryam Molamohammadi, Samir Bakhtawar, (2024), Risks of General-Purpose LLMs for Settling Newcomers in Canada, ACM Conference on Fairness, Accountability and Transparency (FAccT). [[Tutorial](https://facctconference.org/2024/acceptedtutorials)] [Read Report](https://raw.githubusercontent.com/IsarNejad/IsarNejad.github.io/main/files/AI-in-Settlement.pdf)
 - Anna Jahn, Isar Nejadgholi and Maryam Molamohammadi, (2023). Responsible AI in Settlement Services: Challenges, Social Context, and Ethical AI Solutions. Pathway to Prosperity National Conference. [[workshop page](https://site.pheedloop.com/event/EVEHAYZSFXPTO/schedule/SES0UFO405SMXA1ZG)].
 - Isar Nejadgholi, Renaud Bougueng, and Samuel Witherspoon (2017). A Semi-Supervised Training Method for Semantic Search of Legal Facts in Canadian Immigration Cases. In Legal Knowledge and Information Systems (pp. 125-134). IOS Press. [[Paper](https://orbilu.uni.lu/bitstream/10993/33777/1/9781614998389.pdf#page=135)]
 
@@ -106,6 +106,7 @@ author_profile: true
 {: .gray}
 ### Uncovering and Combating Stereotypes:
 
+- Kathleen C. Fraser, Svetlana Kiritchenko, Isar Nejadgholi (2024). How Does Stereotype Content Differ Across Data Sources? Proceedings of the 13th Joint Conference on Lexical and Computational Semantics (* SEM 2024). [[pdf](https://aclanthology.org/2024.starsem-1.2.pdf)]
 - Isar Nejadgholi, Kathleen C. Fraser, Anna Kerkhof, and Svetlana Kiritchenko (2024). Challenging Negative Gender Stereotypes: A Study on the Effectiveness of Automated Counter-Stereotypes. In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024) (pp. 3005-3015). [[pdf](https://aclanthology.org/2024.lrec-main.268/)]
 - Kathleen C. Fraser, Svetlana Kiritchenko, Isar Nejadgholi, and Anna Kerkhof (2023) What Makes a Good Counter-Stereotype? Evaluating Strategies for Automated Responses to Stereotypical Text. In Proceedings of the First Workshop on Social Influence in Conversations (SICon), Toronto, ON, Canada, July 2023. [[pdf](https://www.svkir.com/papers/Fraser-et-al-CounterStereotypes-SICon-2023.pdf)]
 - Kathleen C. Fraser, Svetlana Kiritchenko, and Isar Nejadgholi. (2022). Computational Modelling of Stereotype Content in Text. Frontiers in Artificial Intelligence, April, 2022. [[paper](https://www.frontiersin.org/articles/10.3389/frai.2022.826207/full)]

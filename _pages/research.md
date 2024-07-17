@@ -67,7 +67,7 @@ author_profile: true
 {: .gray}
 ### Responsible AI for Immigration System in Canada:
 - Isar Nejadgholi, Maryam Molamohammadi, Kimiya Missaghi, Samir Bakhtawar (2024) Human-Centered AI Applications for Canada’s Immigration Settlement Sector, Accepted for publication at ACM conference on AI, Ethics and Society. 
-- Isar Nejadgholi, Maryam Molamohammadi, Samir Bakhtawar, (2024), Risks of General-Purpose LLMs for Settling Newcomers in Canada, ACM Conference on Fairness, Accountability and Transparency (FAccT). [[Tutorial](https://facctconference.org/2024/acceptedtutorials)] [Read Report](https://raw.githubusercontent.com/IsarNejad/IsarNejad.github.io/main/files/AI-in-Settlement.pdf)
+- Isar Nejadgholi, Maryam Molamohammadi, Samir Bakhtawar, (2024), Risks of General-Purpose LLMs for Settling Newcomers in Canada, ACM Conference on Fairness, Accountability and Transparency (FAccT). [[Tutorial](https://facctconference.org/2024/acceptedtutorials)] [[Read Report](https://raw.githubusercontent.com/IsarNejad/IsarNejad.github.io/main/files/AI-in-Settlement.pdf)]
 - Anna Jahn, Isar Nejadgholi and Maryam Molamohammadi, (2023). Responsible AI in Settlement Services: Challenges, Social Context, and Ethical AI Solutions. Pathway to Prosperity National Conference. [[workshop page](https://site.pheedloop.com/event/EVEHAYZSFXPTO/schedule/SES0UFO405SMXA1ZG)].
 - Isar Nejadgholi, Renaud Bougueng, and Samuel Witherspoon (2017). A Semi-Supervised Training Method for Semantic Search of Legal Facts in Canadian Immigration Cases. In Legal Knowledge and Information Systems (pp. 125-134). IOS Press. [[Paper](https://orbilu.uni.lu/bitstream/10993/33777/1/9781614998389.pdf#page=135)]
 

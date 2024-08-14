@@ -65,7 +65,7 @@ author_profile: true
 <a id="Immigration"></a>
 
 {: .gray}
-### Responsible AI for Immigration System in Canada:
+### Responsible AI for Immigration Settlement in Canada:
 - Isar Nejadgholi, Maryam Molamohammadi, Kimiya Missaghi, Samir Bakhtawar (2024) Human-Centered AI Applications for Canada’s Immigration Settlement Sector, Accepted for publication at ACM conference on AI, Ethics and Society. 
 - Isar Nejadgholi, Maryam Molamohammadi, Samir Bakhtawar, (2024), Risks of General-Purpose LLMs for Settling Newcomers in Canada, ACM Conference on Fairness, Accountability and Transparency (FAccT). [[Tutorial](https://facctconference.org/2024/acceptedtutorials)] [[Read the Report](https://isarnejad.github.io/files/AI-in-Settlement.pdf){:target="_blank"}]
 - Anna Jahn, Isar Nejadgholi and Maryam Molamohammadi, (2023). Responsible AI in Settlement Services: Challenges, Social Context, and Ethical AI Solutions. Pathway to Prosperity National Conference. [[workshop page](https://site.pheedloop.com/event/EVEHAYZSFXPTO/schedule/SES0UFO405SMXA1ZG)].

@@ -12,6 +12,11 @@ I am a Senior Research Scientist at the [National Research Council Canada](https
 
 # Latest News
 
+### September 2024 - I was invited to the "Peel-Halton Professional Development and AI webinar Series for Newcomer-Serving Staff and Partner Organizations" to talk about the “Role and Implications of Generative AI and Larger Language Models in Supporting Newcomers.” More than 150 people attended this webinar, and we had a very interesting Q&A session at the end.      
+
+**Abstract:** A successful settlement requires access to accurate information at the right time and a reasonable cost. To enhance the efficiency of information delivery, the settlement sector can significantly benefit from AI-enabled tools. However, while AI research has previously focused on screening and selection processes in immigration, the potential applications of AI in the settlement sector remain understudied. In this talk, I will first explore various applications of AI-enabled language technologies that could be developed for the settlement sector and integrated into its existing service structures. Then, given the foundational role of large language models (LLMs) in developing language technologies, I will caution against the ad-hoc use of general-purpose LLMs and present examples of biases, hallucinations, and functional disparities that could negatively impact newcomers. The talk will conclude with recommendations for creating LLM-based tools specifically designed for the settlement sector and ensuring they are empowering, inclusive, and safe.
+
+
 {: .amaranth-deep-purple}
 ### June 2024 - We organized a tutorial on [Risks of General-Purpose LLMs for Settling Newcomers in Canada](https://facctconference.org/2024/acceptedtutorials) at the ACM Fairness, Accountability and Transparency (FAccT) 2024 conference. [Read the Report](https://isarnejad.github.io/files/AI-in-Settlement.pdf){:target="_blank"}
 

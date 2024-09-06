@@ -12,6 +12,7 @@ I am a Senior Research Scientist at the [National Research Council Canada](https
 
 # Latest News
 
+
 {: .amaranth-deep-purple}
 ### September 2024 - I was invited to the "Peel-Halton Professional Development and AI webinar Series for Newcomer-Serving Staff and Partner Organizations" to talk about the “Role and Implications of Generative AI and Larger Language Models in Supporting Newcomers.” More than 150 people attended this webinar, and we had a very interesting Q&A session at the end.      
 

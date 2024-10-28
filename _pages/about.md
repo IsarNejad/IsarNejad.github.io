@@ -12,9 +12,17 @@ I am a Senior Research Scientist at the [National Research Council Canada](https
 
 # Latest News
 
+{: .amaranth-deep-purple}
+### October 2024 - I attended the [7th AAAI/ACM Conference on AI, Ethics, and Society](https://www.aies-conference.com/2024/) in San Jose, California. 
+
+I presented our work on [Human-Centered AI Applications for Canada’s Immigration Settlement Sector](https://ojs.aaai.org/index.php/AIES/article/view/31701). I learned about many fascinating projects taking place at the intersection of AI and social scenes, featured in the conference [Proceedings](https://ojs.aaai.org/index.php/AIES/issue/view/609).
+
+
 
 {: .amaranth-deep-purple}
-### September 2024 - I was invited to the "Peel-Halton Professional Development and AI webinar Series for Newcomer-Serving Staff and Partner Organizations" to talk about the “Role and Implications of Generative AI and Larger Language Models in Supporting Newcomers.” More than 150 people attended this webinar, and we had a very interesting Q&A session at the end. [Link to the webinar](https://km4s.ca/2024/09/role-of-generative-ai-in-supporting-newcomers-webinar-recording/)
+### September 2024 - I was invited to the "Peel-Halton Professional Development and AI webinar Series for Newcomer-Serving Staff and Partner Organizations" to talk about the “Role and Implications of Generative AI and Larger Language Models in Supporting Newcomers.” 
+
+More than 150 people attended this webinar, and we had a very interesting Q&A session at the end. [Link to the webinar](https://km4s.ca/2024/09/role-of-generative-ai-in-supporting-newcomers-webinar-recording/)
 
 
 **Abstract:** A successful settlement requires access to accurate information at the right time and a reasonable cost. To enhance the efficiency of information delivery, the settlement sector can significantly benefit from AI-enabled tools. However, while AI research has previously focused on screening and selection processes in immigration, the potential applications of AI in the settlement sector remain understudied. In this talk, I will first explore various applications of AI-enabled language technologies that could be developed for the settlement sector and integrated into its existing service structures. Then, given the foundational role of large language models (LLMs) in developing language technologies, I will caution against the ad-hoc use of general-purpose LLMs and present examples of biases, hallucinations, and functional disparities that could negatively impact newcomers. The talk will conclude with recommendations for creating LLM-based tools specifically designed for the settlement sector and ensuring they are empowering, inclusive, and safe.

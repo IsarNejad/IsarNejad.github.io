@@ -15,7 +15,7 @@ I am a Senior Research Scientist at the [National Research Council Canada](https
 {: .amaranth-deep-purple}
 ### October 2024 - I attended the [7th AAAI/ACM Conference on AI, Ethics, and Society](https://www.aies-conference.com/2024/) in San Jose, California. 
 
-I presented our work on [Human-Centered AI Applications for Canada’s Immigration Settlement Sector](https://ojs.aaai.org/index.php/AIES/article/view/31701). I learned about many fascinating projects taking place at the intersection of AI and social scenes, featured in the conference [Proceedings](https://ojs.aaai.org/index.php/AIES/issue/view/609).
+I presented our work on [Human-Centered AI Applications for Canada’s Immigration Settlement Sector](https://ojs.aaai.org/index.php/AIES/article/view/31701). I also learned about many fascinating projects taking place at the intersection of AI and social scenes, featured in the conference [Proceedings](https://ojs.aaai.org/index.php/AIES/issue/view/609).
 
 
 

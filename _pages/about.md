@@ -15,7 +15,7 @@ I am a Senior Research Scientist at the [National Research Council Canada](https
 {: .amaranth-deep-purple}
 ### November 2024 - Our work on the role of language technologies in immigration settlement has been featured in the Knowledge Mobilization for Settlement Series [Here](https://km4s.ca/publication/social-and-ethical-risks-posed-by-general-purpose-llms-for-settling-newcomers-in-canada-2024/) and [Here](https://km4s.ca/publication/human-centered-ai-applications-for-canadas-immigration-settlement-sector-2024/) and also in [The McGill Daily](https://www.mcgilldaily.com/2024/11/bridging-culture-with-code/).
 
-
+Many Thanks to Marco Campana and Raihana Kamal for spreading the word!
 
 
 {: .amaranth-deep-purple}

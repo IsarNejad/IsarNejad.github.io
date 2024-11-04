@@ -13,6 +13,12 @@ I am a Senior Research Scientist at the [National Research Council Canada](https
 # Latest News
 
 {: .amaranth-deep-purple}
+### November 2024 - Our work on the role of language technologies in immigration settlement has been featured in the Knowledge Mobilization for Settlement Series [Here] and (https://km4s.ca/publication/social-and-ethical-risks-posed-by-general-purpose-llms-for-settling-newcomers-in-canada-2024/) and [Here](https://km4s.ca/publication/human-centered-ai-applications-for-canadas-immigration-settlement-sector-2024/) and also in [The McGill Daily](https://www.mcgilldaily.com/2024/11/bridging-culture-with-code/).
+
+
+
+
+{: .amaranth-deep-purple}
 ### October 2024 - I attended the [7th AAAI/ACM Conference on AI, Ethics, and Society](https://www.aies-conference.com/2024/) in San Jose, California. 
 
 I presented our work on [Human-Centered AI Applications for Canada’s Immigration Settlement Sector](https://ojs.aaai.org/index.php/AIES/article/view/31701). I also learned about many fascinating projects taking place at the intersection of AI and social scenes, featured in the conference [Proceedings](https://ojs.aaai.org/index.php/AIES/issue/view/609).

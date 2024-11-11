@@ -13,6 +13,13 @@ I am a Senior Research Scientist at the [National Research Council Canada](https
 # Latest News
 
 {: .amaranth-deep-purple}
+### November 2024 - I have two papers which will be presented at the EMNLP this week. 
+
+The first paper is on evaluating eight large language models in moral reasoning. This is joint work with Rongchen Guo, Hillary Dawkins, Kathleen C. Fraser, and Svetlana Kiritchenko, and looks at how LLMs, despite their built-in safeguards, can be easily misused to justify harmful language. We also highlighted that they might be used to understand the roots of harmful beliefs to design well-informed interventions. Check out the full paper [Here](https://lnkd.in/eNeN_J7u).
+
+The second paper is on Gender Resolution in Speaker-Listener Dialogue Roles and is joint work with Hillary Dawkins and Jackie Lo. Check out this paper at [Here](https://aclanthology.org/2024.wmt-1.25/).
+
+{: .amaranth-deep-purple}
 ### November 2024 - Our work on the role of language technologies in immigration settlement has been featured in the Knowledge Mobilization for Settlement Series [Here](https://km4s.ca/publication/social-and-ethical-risks-posed-by-general-purpose-llms-for-settling-newcomers-in-canada-2024/) and [Here](https://km4s.ca/publication/human-centered-ai-applications-for-canadas-immigration-settlement-sector-2024/) and also in [The McGill Daily](https://www.mcgilldaily.com/2024/11/bridging-culture-with-code/).
 
 Many thanks to Marco Campana and Raihana Kamal for spreading the word!

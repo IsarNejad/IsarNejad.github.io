@@ -8,7 +8,7 @@ author_profile: true
 {: .amaranth-deep-purple}
 ## AI for Social Impact
   - [**Detecting and Countering Toxic Language on Social Media:**](#Det-Count-Stereo) This project uses NLP techniques to detect and counter toxic language on social media that can lead to material and psychological harm.
-    - [**Responsible AI for Immigration Settlement in Canada:**](#Immigration) This project focuses on adopting human-centred AI tools to make immigration settlement in Canada more efficient. 
+  - [**Responsible AI for Immigration Settlement in Canada:**](#Immigration) This project focuses on adopting human-centred AI tools to make immigration settlement in Canada more efficient. 
     
 {: .amaranth-deep-purple}
 ## Responsible AI: 

@@ -6,17 +6,15 @@ author_profile: true
 ---
 
 {: .amaranth-deep-purple}
-## AI for Social Good
+## AI for Social Impact
   - [**Detecting and Countering Toxic Language on Social Media:**](#Det-Count-Stereo) This project uses NLP techniques to detect and counter toxic language on social media that can lead to material and psychological harm.
-  - [**Social Media Analysis for Early Detection of Suicide Ideation:**](#suicide) This project is in collaboration with the University of Ottawa and focuses on developing tools for the early detection of suicidal ideation on social media.
-  - [**Multimodal Social Media Analysis for Wildfire Response:**](#MultiModal-Disaster) This project leverages social media to inform wildfire response in Canada. The project is funded by the New Beginning Initiative Program and is in collaboration with Carleton University. 
-  - [**Responsible AI for Immigration Settlement in Canada:**](#Immigration) This project focuses on adopting human-centred AI tools to make immigration settlement in Canada more efficient. 
+    - [**Responsible AI for Immigration Settlement in Canada:**](#Immigration) This project focuses on adopting human-centred AI tools to make immigration settlement in Canada more efficient. 
     
 {: .amaranth-deep-purple}
 ## Responsible AI: 
-  - [**Explainability:**](#explain) This project uses concept-based explanations and other explainability techniques to analyze a model and understand its flaws regarding safety, generalizability, fairness and robustness. 
+  - [**Explainability:**](#explain) This project uses natural language and concept-based explanations to analyze a model and understand its safety, generalizability, fairness and robustness flaws. 
   - [**Bias in Language Models:**](#Bias) This line of research analyzes the model's output to uncover biases learned by text classifiers and generative models.
-  - [**Ethical Challenges in Abuisve Language Detection:**](#JAIR) This line of work brings ethical and human rights considerations to every stage of developing an NLP system for detecting abusive language in online platforms.
+  - [**Ethical Challenges in NLP Applications:**](#JAIR) This line of work investigates ethical considerations at different stages of developing an NLP system for various tasks, including abusive language detection and machine translation.
   - [**Privacy:**](#privacy ) This project uses NLP techniques to de-identify text. 
 
 {: .amaranth-deep-purple}
@@ -25,6 +23,8 @@ author_profile: true
          
 {: .amaranth-deep-purple}
 ## Machine Learning Applications
+   - [**Multimodal Social Media Analysis for Wildfire Response:**](#MultiModal-Disaster) This project leverages social media to inform wildfire response in Canada. The project is funded by the New Beginning Initiative Program and is in collaboration with Carleton University.
+   - [**Social Media Analysis for Early Detection of Suicide Ideation:**](#suicide) This project is in collaboration with the University of Ottawa and focuses on developing tools for the early detection of suicidal ideation on social media.
   - [**Medical Data Analysis**](#biomedical): This line of work analyzed different forms of biomedical data to increase the efficiency and accuracy of diagnosis and treatment in medical applications. 
   - [**Audio and Speech Processing**](#Speech): This research  developed neural network models for improving Farsi speech recognition. 
   - [**Facial Recognition**](#PhD): This work developed neural network models for facial expression detection and facial image generation. 
@@ -50,23 +50,13 @@ author_profile: true
 - Isar Nejadgholi, Esma Balkir, Kathleen C. Fraser, and Svetlana Kiritchenko. (2022) Towards Procedural Fairness: Uncovering Biases in How a Toxic Language Classifier Uses Sentiment Information. In Proceedings of the Workshop on Analyzing and Interpreting Neural Networks for NLP (BlackboxNLP), Abu Dhabi, United Arab Emirates, Dec. 2022. [[pdf](https://arxiv.org/pdf/2210.10689.pdf)] [[code](https://github.com/IsarNejad/Procedural-Fairness-Sentiment)]
 - Isar Nejadgholi, Kathleen C. Fraser, and Svetlana Kiritchenko. (2022). Improving Generalizability in Implicitly Abusive Language Detection with Concept Activation Vectors. In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics, Dublin, Ireland, May 2022. [[pdf](https://arxiv.org/pdf/2204.02261.pdf)] [[code](https://github.com/IsarNejad/TCAV-for-Text-Classifiers)]
 - Esma Balkir, Isar Nejadgholi, Kathleen C. Fraser, and Svetlana Kiritchenko. (2022). Necessity and Sufficiency for Explaining Text Classifiers: A Case Study in Hate Speech Detection. In Proceedings of the Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL), Seattle, WA, USA, July 2022. [[pdf](https://arxiv.org/pdf/2205.03302.pdf)] [[code](https://github.com/esmab/necessity-sufficiency)]
-- Gunasekara, I., & Nejadgholi, I. (2018, October). A review of standard text classification practices for multi-label toxicity identification of online content. In Proceedings of the 2nd workshop on abusive language online (ALW2), 21-25. [[paper](https://aclanthology.org/W18-5103/)]
-
-<a id="suicide"></a>
-
-{: .gray}
-### Social Media Analysis for Early Detection of Suicide Ideation:
-
-
-- Ghanadian, H., Nejadgholi, I., & Osman, H. A. (2024). Socially Aware Synthetic Data Generation for Suicidal Ideation Detection Using Large Language Models. IEEE Access.[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10413447)]
-
-- Ghanadian, H., Nejadgholi, I., & Osman, H. A. (2023). ChatGPT for Suicide Risk Assessment on Social Media: Quantitative Evaluation of Model Performance, Potentials and Limitations. 13th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis (WASSA at ACL 2023), Toronto, Canada, July 2023. [[Paper](https://arxiv.org/abs/2306.09390)]
+- Isuru Gunasekara, Isar Nejadgholi,(2018). A review of standard text classification practices for multi-label toxicity identification of online content. In Proceedings of the 2nd workshop on abusive language online (ALW2), 21-25. [[paper](https://aclanthology.org/W18-5103/)]
 
 <a id="Immigration"></a>
 
 {: .gray}
 ### Responsible AI for Immigration Settlement in Canada:
-- Isar Nejadgholi, Maryam Molamohammadi, Kimiya Missaghi, Samir Bakhtawar (2024) Human-Centered AI Applications for Canada’s Immigration Settlement Sector, Accepted for publication at ACM conference on AI, Ethics and Society. 
+- Isar Nejadgholi, Maryam Molamohammadi, Kimiya Missaghi, Samir Bakhtawar (2024) Human-Centered AI Applications for Canada’s Immigration Settlement Sector, AAAI/ACM Conference on AI, Ethics and Society, San Jose, USA. [Paper](https://ojs.aaai.org/index.php/AIES/article/view/31701)
 - Isar Nejadgholi, Maryam Molamohammadi, Samir Bakhtawar, (2024), Risks of General-Purpose LLMs for Settling Newcomers in Canada, ACM Conference on Fairness, Accountability and Transparency (FAccT). [[Tutorial](https://facctconference.org/2024/acceptedtutorials)] [[Read the Report](https://isarnejad.github.io/files/AI-in-Settlement.pdf){:target="_blank"}]
 - Anna Jahn, Isar Nejadgholi and Maryam Molamohammadi, (2023). Responsible AI in Settlement Services: Challenges, Social Context, and Ethical AI Solutions. Pathway to Prosperity National Conference. [[workshop page](https://site.pheedloop.com/event/EVEHAYZSFXPTO/schedule/SES0UFO405SMXA1ZG)].
 - Isar Nejadgholi, Renaud Bougueng, and Samuel Witherspoon (2017). A Semi-Supervised Training Method for Semantic Search of Legal Facts in Canadian Immigration Cases. In Legal Knowledge and Information Systems (pp. 125-134). IOS Press. [[Paper](https://orbilu.uni.lu/bitstream/10993/33777/1/9781614998389.pdf#page=135)]
@@ -76,10 +66,11 @@ author_profile: true
 {: .gray}
 ### Explainability:
 
+- Rongchen Guo, Isar Nejadgholi, Hillary Dawkins, Kathleen C. Fraser, and Svetlana Kiritchenko. (2024) Adaptable Moral Stances of Large Language Models on Sexist Content: Implications for Society and Gender Discourse. In Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing, pp. 19548-19564.[Pdf](https://aclanthology.org/2024.emnlp-main.1090/)
 - Isar Nejadgholi, Svetlana Kiritchenko, Kathleen C. Fraser, and Esma Balkir. (2023) Concept-Based Explanations to Test for False Causal Relationships Learned by Abusive Language Classifiers. In Proceedings of the 7th Workshop on Online Abuse and Harms (WOAH), Toronto, ON, Canada, July 2023. [[pdf](https://arxiv.org/pdf/2307.01900.pdf)] [[code](https://github.com/IsarNejad/Global-Sufficiency)]
 - Isar Nejadgholi, Esma Balkir, Kathleen C. Fraser, and Svetlana Kiritchenko. (2022) Towards Procedural Fairness: Uncovering Biases in How a Toxic Language Classifier Uses Sentiment Information. In Proceedings of the Workshop on Analyzing and Interpreting Neural Networks for NLP (BlackboxNLP), Abu Dhabi, United Arab Emirates, Dec. 2022. [[pdf](https://arxiv.org/pdf/2210.10689.pdf)] [[code](https://github.com/IsarNejad/Procedural-Fairness-Sentiment)]
 - Isar Nejadgholi, Kathleen C. Fraser, and Svetlana Kiritchenko. (2022). Improving Generalizability in Implicitly Abusive Language Detection with Concept Activation Vectors. In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics, Dublin, Ireland, May 2022. [[pdf](https://arxiv.org/pdf/2204.02261.pdf)] [[code](https://github.com/IsarNejad/TCAV-for-Text-Classifiers)]
-- Dawkins, H., Nejadgholi, I. (2022). Region-dependent temperature scaling for certainty calibration and application to class-imbalanced token classification. Accepted for publication in Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics.[[paper](https://aclanthology.org/2022.acl-short.59/)]
+- Hillary Dawkins, Isar Nejadgholi. (2022). Region-dependent temperature scaling for certainty calibration and application to class-imbalanced token classification. Accepted for publication in Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics.[[paper](https://aclanthology.org/2022.acl-short.59/)]
 - Esma Balkir, Isar Nejadgholi, Kathleen C. Fraser, and Svetlana Kiritchenko. (2022). Necessity and Sufficiency for Explaining Text Classifiers: A Case Study in Hate Speech Detection. In Proceedings of the Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL), Seattle, WA, USA, July 2022. [[pdf](https://arxiv.org/pdf/2205.03302.pdf)] [[code](https://github.com/esmab/necessity-sufficiency)]
 - Esma Balkir, Svetlana Kiritchenko, Isar Nejadgholi, and Kathleen C. Fraser. (2022) Challenges in Applying Explainability Methods to Improve the Fairness of NLP Models. In Proceedings of the Second Workshop on Trustworthy Natural Language Processing (TrustNLP @ NAACL), Seattle, WA, USA, July 2022. [[pdf](https://aclanthology.org/2022.trustnlp-1.8/)]
 
@@ -88,18 +79,19 @@ author_profile: true
 {: .gray}
 ### Bias in Language Models:
 
-- Dawkins, Hillary, Isar Nejadgholi, Daniel Gillis, and Judi McCuaig. (2024, May). Projective Methods for Mitigating Gender Bias in Pre-trained Language Models. In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024) (pp. 13079-13091)[[paper](https://aclanthology.org/2024.lrec-main.1146/)].
+- Hillary Dawkins, Isar Nejadgholi, Daniel Gillis, and Judi McCuaig. (2024, May). Projective Methods for Mitigating Gender Bias in Pre-trained Language Models. In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024) (pp. 13079-13091)[[paper](https://aclanthology.org/2024.lrec-main.1146/)].
 - Kathleen C. Fraser, Svetlana Kiritchenko, and Isar Nejadgholi (2023) Diversity is Not a One-Way Street: Pilot Study on Ethical Interventions for Racial Bias in Text-to-Image Systems. In Proceedings of the 14th International Conference on Computational Creativity (ICCC), Waterloo, ON, Canada, June 2023. [[pdf](https://www.svkir.com/papers/Fraser-et-al-TextImageBias-ICCC-2023.pdf)]
 - Kathleen C. Fraser, Isar Nejadgholi, and Svetlana Kiritchenko (2023) A Friendly Face: Do Text-to-Image Systems Rely on Stereotypes when the Input is Under-Specified? In Proceedings of the Creative AI Across Modalities Workshop (CreativeAI @ AAAI), Washington, DC, USA, Feb. 2023. [[pdf](https://www.svkir.com/papers/Fraser-et-al-CreativeAI-2023.pdf)]
 
 <a id="JAIR"></a>
 
 {: .gray}
-### Ethical Challenges in Abuisve Language Detection:
+### Ethical Challenges in NLP Applications:
 
-- Svetlana Kiritchenko, Isar Nejadgholi, and Kathleen C. Fraser. Confronting Abusive Language Online: A Survey from the Ethical and Human Rights Perspective. Journal of Artificial Intelligence Research, 71: 431-478, July 2021. [[pdf](https://jair.org/index.php/jair/article/view/12590/26695)] [[Extended Abstract](https://www.svkir.com/papers/Kiritchenko-et-al-ExtendedAbstract-IJCAI-2022.pdf)]
-- Isar Nejadgholi and Svetlana Kiritchenko. On Cross-Dataset Generalization in Automatic Detection of Online Abuse. In Proceedings of the 4th Workshop on Online Abuse and Harms at EMNLP-2020, November 2020. [[pdf](https://aclanthology.org/2020.alw-1.20/)]
-- Svetlana Kiritchenko and Isar Nejadgholi. Towards Ethics by Design in Online Abusive Content Detection. NRC Technical Report, October 2020. [[pdf](https://www.svkir.com/papers/Kiritchenko-Nejadgholi-online-abuse-ArXiv-2020.pdf)]
+- Hillary, Dawkins, Isar Nejadgholi, Chi-Kiu Lo (2024) WMT24 Test Suite: Gender Resolution in Speaker-Listener Dialogue Roles. In Proceedings of the Ninth Conference on Machine Translation (pp. 307-326). [pdf](https://aclanthology.org/2024.wmt-1.25/)
+- Svetlana Kiritchenko, Isar Nejadgholi, and Kathleen C. Fraser (2021) Confronting Abusive Language Online: A Survey from the Ethical and Human Rights Perspective. Journal of Artificial Intelligence Research, 71: 431-478, July 2021. [[pdf](https://jair.org/index.php/jair/article/view/12590/26695)] [[Extended Abstract](https://www.svkir.com/papers/Kiritchenko-et-al-ExtendedAbstract-IJCAI-2022.pdf)]
+- Isar Nejadgholi and Svetlana Kiritchenko (2020). On Cross-Dataset Generalization in Automatic Detection of Online Abuse. In Proceedings of the 4th Workshop on Online Abuse and Harms at EMNLP-2020. [[pdf](https://aclanthology.org/2020.alw-1.20/)]
+- Svetlana Kiritchenko and Isar Nejadgholi (2020) Towards Ethics by Design in Online Abusive Content Detection. NRC Technical Report, October 2020. [[pdf](https://www.svkir.com/papers/Kiritchenko-Nejadgholi-online-abuse-ArXiv-2020.pdf)]
 
 <a id="Stereo-NL"></a>
 
@@ -117,11 +109,21 @@ author_profile: true
 
 {: .gray}
 ### Privacy:
- - Hathurusinghe, R., Nejadgholi, I., & Bolic, M. (2021, June). A Privacy-Preserving Approach to Extraction of Personal Information through Automatic Annotation and Federated Learning. In Proceedings of the Third Workshop on Privacy in Natural Language Processing (pp. 36-45). [[Paper](https://arxiv.org/abs/2105.09198)]
- - Contributors, M. (2022). BLOOM: A 176B-Parameter Open-Access Multilingual Language Model. arXiv preprint arXiv:2211.05100.[[Paper](https://arxiv.org/pdf/2211.05100.pdf)]
+ - Rajitha Hathurusinghe, Isar Nejadgholi, Miodrag Bolic (2021). A Privacy-Preserving Approach to Extraction of Personal Information through Automatic Annotation and Federated Learning. In Proceedings of the Third Workshop on Privacy in Natural Language Processing (pp. 36-45). [[Paper](https://arxiv.org/abs/2105.09198)]
+ - Contributors, M. (2022). BLOOM: A 176B-Parameter Open-Access Multilingual Language Model. arXiv preprint arXiv:2211.05100.[[Paper](https://inria.hal.science/hal-03850124/document)]
+
+<a id="suicide"></a>
+
+{: .gray}
+### Social Media Analysis for Early Detection of Suicide Ideation:
+
+
+- Hamideh Ghanadian, Isar Nejadgholi, Hussein Al Osman (2024). Socially Aware Synthetic Data Generation for Suicidal Ideation Detection Using Large Language Models. IEEE Access.[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10413447)]
+
+- Hamideh Ghanadian, Isar Nejadgholi, Hussein Al Osman (2023). ChatGPT for Suicide Risk Assessment on Social Media: Quantitative Evaluation of Model Performance, Potentials and Limitations. 13th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis (WASSA at ACL 2023), Toronto, Canada. [[Paper](https://arxiv.org/abs/2306.09390)]
+
 
 <a id="biomedical"></a>
-
 {: .gray}
 ### Medical Data Analysis:
 

@@ -93,6 +93,14 @@ author_profile: true
 - Isar Nejadgholi and Svetlana Kiritchenko (2020). On Cross-Dataset Generalization in Automatic Detection of Online Abuse. In Proceedings of the 4th Workshop on Online Abuse and Harms at EMNLP-2020. [[pdf](https://aclanthology.org/2020.alw-1.20/)]
 - Svetlana Kiritchenko and Isar Nejadgholi (2020) Towards Ethics by Design in Online Abusive Content Detection. NRC Technical Report, October 2020. [[pdf](https://www.svkir.com/papers/Kiritchenko-Nejadgholi-online-abuse-ArXiv-2020.pdf)]
 
+<a id="privacy"></a>
+
+{: .gray}
+### Privacy:
+ - Rajitha Hathurusinghe, Isar Nejadgholi, Miodrag Bolic (2021). A Privacy-Preserving Approach to Extraction of Personal Information through Automatic Annotation and Federated Learning. In Proceedings of the Third Workshop on Privacy in Natural Language Processing (pp. 36-45). [[Paper](https://arxiv.org/abs/2105.09198)]
+ - Contributors, M. (2022). BLOOM: A 176B-Parameter Open-Access Multilingual Language Model. arXiv preprint arXiv:2211.05100.[[Paper](https://inria.hal.science/hal-03850124/document)]
+
+
 <a id="Stereo-NL"></a>
 
 {: .gray}
@@ -104,13 +112,6 @@ author_profile: true
 - Kathleen C. Fraser, Svetlana Kiritchenko, and Isar Nejadgholi. (2022). Computational Modelling of Stereotype Content in Text. Frontiers in Artificial Intelligence, April, 2022. [[paper](https://www.frontiersin.org/articles/10.3389/frai.2022.826207/full)]
 - Kathleen C. Fraser, Isar Nejadgholi, and Svetlana Kiritchenko (2021). Understanding and Countering Stereotypes: A Computational Approach to the Stereotype Content Model. In Proceedings of the Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP 2021), August 2021. [[pdf](https://aclanthology.org/2021.acl-long.50/)]
 - Kathleen C. Fraser, Svetlana Kiritchenko, and Isar Nejadgholi. (2022). Extracting Age-Related Stereotypes from Social Media Texts. In Proceedings of the Language Resources and Evaluation Conference (LREC-2022), Marseille, France, June 2022. [[pdf](https://aclanthology.org/2022.lrec-1.341/)] [[project webpage](https://www.svkir.com/projects/age-stereotypes.html)]
-
-<a id="privacy"></a>
-
-{: .gray}
-### Privacy:
- - Rajitha Hathurusinghe, Isar Nejadgholi, Miodrag Bolic (2021). A Privacy-Preserving Approach to Extraction of Personal Information through Automatic Annotation and Federated Learning. In Proceedings of the Third Workshop on Privacy in Natural Language Processing (pp. 36-45). [[Paper](https://arxiv.org/abs/2105.09198)]
- - Contributors, M. (2022). BLOOM: A 176B-Parameter Open-Access Multilingual Language Model. arXiv preprint arXiv:2211.05100.[[Paper](https://inria.hal.science/hal-03850124/document)]
 
 <a id="suicide"></a>
 

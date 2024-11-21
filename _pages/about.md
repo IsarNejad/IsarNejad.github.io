@@ -18,7 +18,7 @@ I am a Senior Research Scientist at the [National Research Council Canada](https
 My role was a discussant, and I learned a lot from eight presenters who talked about their fascinating works on how technology has shaped our ever-evolving sense of citizenship and identity. In the context of these presentations, I shared my insights on how social scientists and computer scientists can work together to understand the role of genrative AI on belonging and national identity. The panel was chaired by Dr. [Anna Triandafyllidou](https://www.torontomu.ca/bridging-divides/people/directors/anna-triandafyllidou/) 
 
 {: .amaranth-deep-purple}
-### November 2024 - We present the following two papers at the EMNLP this week. 
+### November 2024 - We present the following two papers at the [EMNLP2024](https://2024.emnlp.org/). 
 
 The first paper is on evaluating eight large language models in moral reasoning. This is joint work with Rongchen Guo, Hillary Dawkins, Kathleen C. Fraser, and Svetlana Kiritchenko, and looks at how LLMs, despite their built-in safeguards, can be easily misused to justify harmful language. We also highlighted that they might be used to understand the roots of harmful beliefs to design well-informed interventions. Check out the full paper [Here](https://lnkd.in/eNeN_J7u).
 

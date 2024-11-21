@@ -83,6 +83,7 @@ Maryam Mollamohammadi, Responsible AI Advisor, MILA - Quebec Artificial Intellig
 *Presentation title:* Inclusive and Fair Digital Transformation: Responsible Use of Language Technologies in the Immigration Sector
 
 ---
+
 {: .amaranth-deep-purple}
 ### July 2023 - Best Paper Award
 
@@ -90,6 +91,7 @@ Our paper, **Aporophobia: An Overlooked Type of Toxic Language Targeting the Poo
 
 
 ---
+
 {: .amaranth-deep-purple}
 ### July 2023 - We were at ACL2023 in Toronto and presented the following papers: 
 
@@ -102,6 +104,7 @@ Our paper, **Aporophobia: An Overlooked Type of Toxic Language Targeting the Poo
 - Ghanadian, H., Nejadgholi, I., & Osman, H. A. (2023). ChatGPT for Suicide Risk Assessment on Social Media: Quantitative Evaluation of Model Performance, Potentials and Limitations. 13th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis (WASSA at ACL 2023).[[paper](https://arxiv.org/pdf/2306.09390.pdf)]
 
 ---
+
 {: .amaranth-deep-purple}
 ### June 2023 - Best Short Paper Award
 

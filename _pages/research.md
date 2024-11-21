@@ -56,7 +56,7 @@ author_profile: true
 
 {: .gray}
 ### Responsible AI for Immigration Settlement in Canada:
-- Isar Nejadgholi, Maryam Molamohammadi, Kimiya Missaghi, Samir Bakhtawar (2024) Human-Centered AI Applications for Canada’s Immigration Settlement Sector, AAAI/ACM Conference on AI, Ethics and Society, San Jose, USA. [Paper](https://ojs.aaai.org/index.php/AIES/article/view/31701)
+- Isar Nejadgholi, Maryam Molamohammadi, Kimiya Missaghi, Samir Bakhtawar (2024) Human-Centered AI Applications for Canada’s Immigration Settlement Sector, AAAI/ACM Conference on AI, Ethics and Society, San Jose, USA. [[Paper](https://ojs.aaai.org/index.php/AIES/article/view/31701)]
 - Isar Nejadgholi, Maryam Molamohammadi, Samir Bakhtawar, (2024), Risks of General-Purpose LLMs for Settling Newcomers in Canada, ACM Conference on Fairness, Accountability and Transparency (FAccT). [[Tutorial](https://facctconference.org/2024/acceptedtutorials)] [[Read the Report](https://isarnejad.github.io/files/AI-in-Settlement.pdf){:target="_blank"}]
 - Anna Jahn, Isar Nejadgholi and Maryam Molamohammadi, (2023). Responsible AI in Settlement Services: Challenges, Social Context, and Ethical AI Solutions. Pathway to Prosperity National Conference. [[workshop page](https://site.pheedloop.com/event/EVEHAYZSFXPTO/schedule/SES0UFO405SMXA1ZG)].
 - Isar Nejadgholi, Renaud Bougueng, and Samuel Witherspoon (2017). A Semi-Supervised Training Method for Semantic Search of Legal Facts in Canadian Immigration Cases. In Legal Knowledge and Information Systems (pp. 125-134). IOS Press. [[Paper](https://orbilu.uni.lu/bitstream/10993/33777/1/9781614998389.pdf#page=135)]
@@ -66,7 +66,7 @@ author_profile: true
 {: .gray}
 ### Explainability:
 
-- Rongchen Guo, Isar Nejadgholi, Hillary Dawkins, Kathleen C. Fraser, and Svetlana Kiritchenko. (2024) Adaptable Moral Stances of Large Language Models on Sexist Content: Implications for Society and Gender Discourse. In Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing, pp. 19548-19564.[Pdf](https://aclanthology.org/2024.emnlp-main.1090/)
+- Rongchen Guo, Isar Nejadgholi, Hillary Dawkins, Kathleen C. Fraser, and Svetlana Kiritchenko. (2024) Adaptable Moral Stances of Large Language Models on Sexist Content: Implications for Society and Gender Discourse. In Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing, pp. 19548-19564.[[Pdf](https://aclanthology.org/2024.emnlp-main.1090/)]
 - Isar Nejadgholi, Svetlana Kiritchenko, Kathleen C. Fraser, and Esma Balkir. (2023) Concept-Based Explanations to Test for False Causal Relationships Learned by Abusive Language Classifiers. In Proceedings of the 7th Workshop on Online Abuse and Harms (WOAH), Toronto, ON, Canada, July 2023. [[pdf](https://arxiv.org/pdf/2307.01900.pdf)] [[code](https://github.com/IsarNejad/Global-Sufficiency)]
 - Isar Nejadgholi, Esma Balkir, Kathleen C. Fraser, and Svetlana Kiritchenko. (2022) Towards Procedural Fairness: Uncovering Biases in How a Toxic Language Classifier Uses Sentiment Information. In Proceedings of the Workshop on Analyzing and Interpreting Neural Networks for NLP (BlackboxNLP), Abu Dhabi, United Arab Emirates, Dec. 2022. [[pdf](https://arxiv.org/pdf/2210.10689.pdf)] [[code](https://github.com/IsarNejad/Procedural-Fairness-Sentiment)]
 - Isar Nejadgholi, Kathleen C. Fraser, and Svetlana Kiritchenko. (2022). Improving Generalizability in Implicitly Abusive Language Detection with Concept Activation Vectors. In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics, Dublin, Ireland, May 2022. [[pdf](https://arxiv.org/pdf/2204.02261.pdf)] [[code](https://github.com/IsarNejad/TCAV-for-Text-Classifiers)]
@@ -88,7 +88,7 @@ author_profile: true
 {: .gray}
 ### Ethical Challenges in NLP Applications:
 
-- Hillary, Dawkins, Isar Nejadgholi, Chi-Kiu Lo (2024) WMT24 Test Suite: Gender Resolution in Speaker-Listener Dialogue Roles. In Proceedings of the Ninth Conference on Machine Translation (pp. 307-326). [pdf](https://aclanthology.org/2024.wmt-1.25/)
+- Hillary, Dawkins, Isar Nejadgholi, Chi-Kiu Lo (2024) WMT24 Test Suite: Gender Resolution in Speaker-Listener Dialogue Roles. In Proceedings of the Ninth Conference on Machine Translation (pp. 307-326). [[pdf](https://aclanthology.org/2024.wmt-1.25/)]
 - Svetlana Kiritchenko, Isar Nejadgholi, and Kathleen C. Fraser (2021) Confronting Abusive Language Online: A Survey from the Ethical and Human Rights Perspective. Journal of Artificial Intelligence Research, 71: 431-478, July 2021. [[pdf](https://jair.org/index.php/jair/article/view/12590/26695)] [[Extended Abstract](https://www.svkir.com/papers/Kiritchenko-et-al-ExtendedAbstract-IJCAI-2022.pdf)]
 - Isar Nejadgholi and Svetlana Kiritchenko (2020). On Cross-Dataset Generalization in Automatic Detection of Online Abuse. In Proceedings of the 4th Workshop on Online Abuse and Harms at EMNLP-2020. [[pdf](https://aclanthology.org/2020.alw-1.20/)]
 - Svetlana Kiritchenko and Isar Nejadgholi (2020) Towards Ethics by Design in Online Abusive Content Detection. NRC Technical Report, October 2020. [[pdf](https://www.svkir.com/papers/Kiritchenko-Nejadgholi-online-abuse-ArXiv-2020.pdf)]
@@ -125,6 +125,7 @@ author_profile: true
 
 
 <a id="biomedical"></a>
+
 {: .gray}
 ### Medical Data Analysis:
 

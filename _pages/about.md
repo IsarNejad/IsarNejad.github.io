@@ -13,6 +13,13 @@ I am a Senior Research Scientist at the [National Research Council Canada](https
 # Latest News
 
 {: .amaranth-deep-purple}
+### November 2024 - I gave a talk on “Innovation in Artificial Intelligence” at the Canada School of Public Service. 
+
+This talk was part of the Executive Leadership Development Program—Module 4: Leading a Modern Government and was facilitated by Zaina Sovani and Pablo Sobrino, distinguished fellows from Lead. I talked about two examples of my work in AI for social impact, and [Elise Legendre](https://www.linkedin.com/in/%C3%A9lise-legendre-83645810/?originalSubdomain=ca) from Agriculture and AgriFood Canada talked about her impressive work in leading the adoption of AI in her organization. In Q&A we delved into the use of data and artificial intelligence as innovative tools while highlighting success stories and specific use cases.
+
+
+
+{: .amaranth-deep-purple}
 ### November 2024 - I was on the panel "Citizenship and Belonging in a Globalized and Digitized World" at the [27th Canadian Ethnic Studies Association Biennial Conference](https://cesa-scee.ca/2024-conference/) in Edmonton, Alberta. 
 
 My role was a discussant, and I learned a lot from eight presenters who talked about their fascinating works on how technology has shaped our ever-evolving sense of citizenship and identity. In the context of these presentations, I shared my insights on how social scientists and computer scientists can work together to understand the role of genrative AI on belonging and national identity. The panel was chaired by Dr. [Anna Triandafyllidou](https://www.torontomu.ca/bridging-divides/people/directors/anna-triandafyllidou/) 

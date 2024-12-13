@@ -13,6 +13,17 @@ I am a Senior Research Scientist at the [National Research Council Canada](https
 # Latest News
 
 {: .amaranth-deep-purple}
+### December 2024 - I was on a panel at the [CCO Learning Day](https://www.canada.ca/en/treasury-board-secretariat/topics/government-communications/communications-community-office/learning-days.html) in Westine Hotel Ottawa. 
+
+I was on a panel on **AI and Trsust** at the Communications Community Office (CCO) conference. James Stott, Assistant Secretary, SCMA, TBS, facilitated the discussion and other panellists were Dominic Rochon, Deputy Minister at TBS and Chief Information Officer of Canada, Laurent Charlin, Core Academic member of the Mila Institute, CIFAR co-chair and professor at HEC, Roland-Yves Carignan, Professor of Journalism and Digital Media at UQAM, and Dan Lowcay, Generative AI Innovation Lead for the NRC. The CCO Learning Day is a highly anticipated and well-attended conference that provides training for communicators in the public sector. Speakers include representatives from the federal government, as well as from the academic and private sectors. The event was held on December 10, 2024, at The Westin Hotel in downtown Ottawa. About 1,900 people took part in the event, either in person or online.
+
+{: .amaranth-deep-purple}
+### December 2024 - Listen to my podcast on Spotify!
+
+I spoke about my work on how AI and innovation can transform the newcomer experience while prioritizing equity and accessibility in a new "Digital Arrival City" podcast episode 
+🎧 Click [here](https://lnkd.in/dqKjEjRu) to listen and join the conversation! 
+
+{: .amaranth-deep-purple}
 ### November 2024 - I gave a talk on “Innovation in Artificial Intelligence” at the Canada School of Public Service. 
 
 This talk was part of the "Executive Leadership Development Program—Module 4: Leading a Modern Government" and was led by distinguished fellows [Zaina Sovani](https://www.linkedin.com/in/zaina-sovani-2552176/?originalSubdomain=ca) and [Pablo Sobrino](https://pdweek.ca/wp-content/uploads/sites/2/2021/11/Speed-Mentoring-Bio-Pablo-Sobrino-2021-Final.pdf). I talked about two examples of my work in AI for social impact, and [Elise Legendre](https://www.linkedin.com/in/%C3%A9lise-legendre-83645810/?originalSubdomain=ca) from Agriculture and AgriFood Canada talked about her impressive work in leading the adoption of AI in her organization. In Q&A we delved into the use of data and artificial intelligence as innovative tools while highlighting success stories and specific use cases.

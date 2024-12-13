@@ -20,7 +20,8 @@ I was on a panel on **AI and Trsust** at the Communications Community Office (CC
 {: .amaranth-deep-purple}
 ### December 2024 - Listen to my podcast on Spotify!
 
-I spoke about my work on how AI and innovation can transform the newcomer experience while prioritizing equity and accessibility in a new "Digital Arrival City" podcast episode 
+I spoke about my work on how AI and innovation can transform the newcomer experience while prioritizing equity and accessibility in a new "Digital Arrival City" podcast episode. 
+
 🎧 Click [here](https://lnkd.in/dqKjEjRu) to listen and join the conversation! 
 
 {: .amaranth-deep-purple}

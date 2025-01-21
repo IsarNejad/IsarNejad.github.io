@@ -13,7 +13,7 @@ I am a Senior Research Scientist at the [National Research Council Canada](https
 # Latest News
 
 {: .amaranth-deep-purple}
-### January 2025 - I am honoured to have received the "Digital Technologies' Value for Canada" award. 
+### January 2025 - I am honoured to have received the "Digital Technologies' Value for Canada" award at the annual award ceremony at the Digital Technology Research Center, National Research Council Canada. 
 
 I am thrilled that my work on Canada's priorities— responsible AI for social impact, wildfire management support, and immigration settlement—has been recognized by my colleagues and managers. I am extremely grateful for the support and collaboration I received from my colleagues, the management at NRC, and my external partners, who made it possible for me to contribute to these topics that I care about so deeply.
 

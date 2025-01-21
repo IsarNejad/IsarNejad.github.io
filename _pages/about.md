@@ -13,6 +13,11 @@ I am a Senior Research Scientist at the [National Research Council Canada](https
 # Latest News
 
 {: .amaranth-deep-purple}
+### January 2025 - I am honoured to have received the "Digital Technologies' Value for Canada" award. 
+
+I am thrilled that my work on Canada's priorities— responsible AI for social impact, wildfire management support, and immigration settlement—has been recognized by my colleagues and managers. I am extremely grateful for the support and collaboration I received from my colleagues, the management at NRC, and my external partners, who made it possible for me to contribute to these topics that I care about so deeply.
+
+{: .amaranth-deep-purple}
 ### December 2024 - I was on a panel at the [CCO Learning Day](https://www.canada.ca/en/treasury-board-secretariat/topics/government-communications/communications-community-office/learning-days.html) in Westine Hotel Ottawa. 
 
 I was on a panel on **AI and Trsust** at the Communications Community Office (CCO) conference. James Stott, Assistant Secretary, SCMA, TBS, facilitated the discussion and other panellists were Dominic Rochon, Deputy Minister at TBS and Chief Information Officer of Canada, Laurent Charlin, Core Academic member of the Mila Institute, CIFAR co-chair and professor at HEC, Roland-Yves Carignan, Professor of Journalism and Digital Media at UQAM, and Dan Lowcay, Generative AI Innovation Lead for the NRC. The CCO Learning Day is a highly anticipated and well-attended conference that provides training for communicators in the public sector. Speakers include representatives from the federal government, as well as from the academic and private sectors. The event was held on December 10, 2024, at The Westin Hotel in downtown Ottawa. About 1,900 people took part in the event, either in person or online.

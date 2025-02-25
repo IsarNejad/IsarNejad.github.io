@@ -15,7 +15,7 @@ I am a Senior Research Scientist at the [National Research Council Canada](https
 {: .amaranth-deep-purple}
 ### Febraury 2025 - Prior to the [AI Action Summit](https://www.elysee.fr/en/sommet-pour-l-action-sur-l-ia) in Paris, we participated in joint multilingual testing of Large Language Models in colaboration with AISIs (AI Safety Institutes) led by Singapore's AISI. 
 
-NRC represented CAISI (Canadian AI Safety Institute) in this endeavour by testing LLMs in three languages Cantonees, Farsi and Telugu. I was responsible for the Farsi evaluation. Read the blog post [here](https://sgaisi.sg/publication/data/International-Network-of-AI-Safety-Institutes-Joint-Testing-Exercise-Improving-Methodologies-for-AI-Model-Evaluations-Across-Global-Languages.pdf). More detailed evaluation results will be out later. 
+NRC represented CAISI (Canadian AI Safety Institute) in this endeavour by testing LLMs in three languages, Cantonees, Farsi and Telugu. I was responsible for the Farsi evaluation. Read the blog post [here](https://sgaisi.sg/publication/data/International-Network-of-AI-Safety-Institutes-Joint-Testing-Exercise-Improving-Methodologies-for-AI-Model-Evaluations-Across-Global-Languages.pdf). More detailed evaluation results will be out later. 
 
 {: .amaranth-deep-purple}
 ### January 2025 - I am honoured to have received the "Digital Technologies' Value for Canada" award at the annual award ceremony at the Digital Technology Research Center, National Research Council Canada. 

@@ -44,6 +44,8 @@ author_profile: true
 {: .gray}
 ### Detecting and Countering Toxic Language on Social Media:
 
+- Georgina Curto, Svetlana Kiritchenko, Muhammad Hammad Fahim Siddiqui, Isar Nejadgholi, Kathleen C. Fraser, Tackling Social Bias against the Poor:
+A Dataset and Taxonomy on Aporophobia, Accepted at the findings of NAACL 2025. 
 - Georgina Curto, Svetlana Kiritchenko, Kathleen C. Fraser, and Isar Nejadgholi. (2024). The Crime of Being Poor: Associations between Crime and Poverty on Social Media in Eight Countries. In Proceedings of the Sixth Workshop on Natural Language Processing and Computational Social Science (NLP+ CSS 2024).[[pdf](https://aclanthology.org/2024.nlpcss-1.3.pdf)]
 - Svetlana Kiritchenko, Georgina Curto, Isar Nejadgholi, and Kathleen C. Fraser. (2023) Aporophobia: An Overlooked Type of Toxic Language Targeting the Poor. In Proceedings of the 7th Workshop on Online Abuse and Harms (WOAH), Toronto, ON, Canada, July 2023. [[pdf](https://www.svkir.com/papers/Kiritchenko-et-al-aporophobia-WOAH-2023.pdf)]
 - Isar Nejadgholi, Svetlana Kiritchenko, Kathleen C. Fraser, and Esma Balkir. (2023) Concept-Based Explanations to Test for False Causal Relationships Learned by Abusive Language Classifiers. In Proceedings of the 7th Workshop on Online Abuse and Harms (WOAH), Toronto, ON, Canada, July 2023. [[pdf](https://arxiv.org/pdf/2307.01900.pdf)] [[code](https://github.com/IsarNejad/Global-Sufficiency)]
@@ -56,8 +58,10 @@ author_profile: true
 
 {: .gray}
 ### Responsible AI for Immigration Settlement in Canada:
+
+- Isar Nejadgholi, Maryam Molamohammadi, Samir Bakhtawar, (2024), Risks of General-Purpose LLMs for Settling Newcomers in Canada, Accepted as a book chapter to be published at Women in Engineering and Science Springer Book Series: AI and Sustainability Volume, [[Read the chapter](https://isarnejad.github.io/files/AI-in-Settlement.pdf){:target="_blank"}].
 - Isar Nejadgholi, Maryam Molamohammadi, Kimiya Missaghi, Samir Bakhtawar (2024) Human-Centered AI Applications for Canada’s Immigration Settlement Sector, AAAI/ACM Conference on AI, Ethics and Society, San Jose, USA. [[Paper](https://ojs.aaai.org/index.php/AIES/article/view/31701)]
-- Isar Nejadgholi, Maryam Molamohammadi, Samir Bakhtawar, (2024), Risks of General-Purpose LLMs for Settling Newcomers in Canada, ACM Conference on Fairness, Accountability and Transparency (FAccT). [[Tutorial](https://facctconference.org/2024/acceptedtutorials)] [[Read the Report](https://isarnejad.github.io/files/AI-in-Settlement.pdf){:target="_blank"}]
+- Isar Nejadgholi, Maryam Molamohammadi, Samir Bakhtawar, (2024), Risks of General-Purpose LLMs for Settling Newcomers in Canada, ACM Conference on Fairness, Accountability and Transparency (FAccT). [[Tutorial](https://facctconference.org/2024/acceptedtutorials)] 
 - Anna Jahn, Isar Nejadgholi and Maryam Molamohammadi, (2023). Responsible AI in Settlement Services: Challenges, Social Context, and Ethical AI Solutions. Pathway to Prosperity National Conference. [[workshop page](https://site.pheedloop.com/event/EVEHAYZSFXPTO/schedule/SES0UFO405SMXA1ZG)].
 - Isar Nejadgholi, Renaud Bougueng, and Samuel Witherspoon (2017). A Semi-Supervised Training Method for Semantic Search of Legal Facts in Canadian Immigration Cases. In Legal Knowledge and Information Systems (pp. 125-134). IOS Press. [[Paper](https://orbilu.uni.lu/bitstream/10993/33777/1/9781614998389.pdf#page=135)]
 

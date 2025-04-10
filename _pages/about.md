@@ -30,7 +30,7 @@ I was on a panel on **AI and Trust** at the Communications Community Office (CCO
 {: .amaranth-deep-purple}
 ### December 2024 - Listen to my podcast on Spotify!
 
-I spoke about my work on how AI and innovation can transform the newcomer experience while prioritizing equity and accessibility in a new "Digital Arrival City" podcast episode. 
+I spoke with amazing [Tobias Stapf](https://www.linkedin.com/in/tobias-stapf-8b604b8/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=de) about my work on how AI and innovation can transform the newcomer experience while prioritizing equity and accessibility in a new "Digital Arrival City" podcast episode. 
 
 🎧 Click [here](https://lnkd.in/dqKjEjRu) to listen and join the conversation! 
 

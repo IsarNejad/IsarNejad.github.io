@@ -13,6 +13,14 @@ I am a Senior Research Scientist at the [National Research Council Canada](https
 # Latest News
 
 {: .amaranth-deep-purple}
+### April 2025 - I gave a talk at the NLP course at Northeastern university. Thanks to amazing [Amir Tahmasebi](https://www.linkedin.com/in/amirtahmasebi/) for inviting me to his class. 
+
+Title: Natural Language Explanations in the XAI Landscape
+ 
+Abstract: In this talk, I first quickly reviewed the main concepts of Explainable AI (XAI) and then focused on natural language explanations. With the rapid advancements in development and adoption of large language models, it is now possible to generate verbalized explanations across different aspects of AI-based decision-making tailored for various goals and audiences. However, research shows that, if not designed thoughtfully, such explanations might be ineffective or even misleading. I explored the critical components of effective explainer modules, discuss the essential characteristics they should embody, and highlight key evaluation criteria to ensure their reliability and impact.
+
+
+{: .amaranth-deep-purple}
 ### Febraury 2025 - Prior to the [AI Action Summit](https://www.elysee.fr/en/sommet-pour-l-action-sur-l-ia) in Paris, we participated in joint multilingual testing of Large Language Models in colaboration with AISIs (AI Safety Institutes) led by Singapore's AISI. 
 
 NRC represented CAISI (Canadian AI Safety Institute) in this endeavour by testing LLMs in three languages, Cantonees, Farsi and Telugu. I was responsible for the Farsi evaluation. Read the blog post [here](https://sgaisi.sg/publication/data/International-Network-of-AI-Safety-Institutes-Joint-Testing-Exercise-Improving-Methodologies-for-AI-Model-Evaluations-Across-Global-Languages.pdf). More detailed evaluation results will be out later. 

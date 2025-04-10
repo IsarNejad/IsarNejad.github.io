@@ -13,7 +13,7 @@ I am a Senior Research Scientist at the [National Research Council Canada](https
 # Latest News
 
 {: .amaranth-deep-purple}
-### April 2025 - I gave a talk at the NLP course at Northeastern university. Thanks to amazing [Amir Tahmasebi](https://www.linkedin.com/in/amirtahmasebi/) for inviting me to his class. 
+### April 2025 - I gave a talk at the NLP course at Northeastern University. Thanks to amazing [Amir Tahmasebi](https://www.linkedin.com/in/amirtahmasebi/) for inviting me to his class! And thanks to students for the great questions and discussions! 
 
 Title: Natural Language Explanations in the XAI Landscape
  

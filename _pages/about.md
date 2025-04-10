@@ -17,7 +17,7 @@ I am a Senior Research Scientist at the [National Research Council Canada](https
 
 Title: Natural Language Explanations in the XAI Landscape
  
-Abstract: In this talk, I first quickly reviewed the main concepts of Explainable AI (XAI) and then focused on natural language explanations. With the rapid advancements in development and adoption of large language models, it is now possible to generate verbalized explanations across different aspects of AI-based decision-making tailored for various goals and audiences. However, research shows that, if not designed thoughtfully, such explanations might be ineffective or even misleading. I explored the critical components of effective explainer modules, discuss the essential characteristics they should embody, and highlight key evaluation criteria to ensure their reliability and impact.
+Abstract: In this talk, I first quickly reviewed the main concepts of Explainable AI (XAI) and then focused on natural language explanations. With the rapid advancements in development and adoption of large language models, it is now possible to generate verbalized explanations across different aspects of AI-based decision-making tailored for various goals and audiences. However, research shows that, if not designed thoughtfully, such explanations might be ineffective or even misleading. I explored the critical components of effective explainer modules, discussed the essential characteristics they should embody, and highlighted key evaluation criteria to ensure their reliability and impact.
 
 
 {: .amaranth-deep-purple}

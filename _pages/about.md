@@ -13,10 +13,17 @@ I am a Senior Research Scientist at the [National Research Council Canada](https
 # Latest News
 
 {: .amaranth-deep-purple}
+### July 2025 - I am at ACL2025 in Vienna. 
+
+- I am proud to have contributed in creation of PARME, the first machine translation parallel corpora covering eight endangered middleeastern languages. The paper was presented in an oral session at the main conference. Read about PARME [here](https://aclanthology.org/2025.acl-long.1451/).
+
+- We are presenting a paper at LLMSec workshop on safety risks of fine-tuned LLMs. We show that finetuning, even with benign datasets, reduces safety alignment. This paper is part of a project we did with the Canadian AI Safety Institute. Read the paper [here](https://arxiv.org/abs/2506.17209).
+
+{: .amaranth-deep-purple}
 ### July 2025 - I am at ICML2025 in Vancouver. 
-- The report of the 3rd joint AItesting exercise, focused on LLM agents and conducted by the AI Safety Institutes from different countries is published at a side event at ICML. This testing effort was led by the Singapore AI Safety Institute and some of us from NRC participated in the exercise on behalf of the Canadian AI Safety Institute. I was involved with evluation of the safety of LLM Agents in Farsi. Read the [Blog Post](https://sgaisi.sg/wp-api/wp-content/uploads/2025/07/International-Joint-Testing-Exercise_3JT-Blogpost.pdf) and the [Detailed Report](https://sgaisi.sg/wp-api/wp-content/uploads/2025/07/International-Joint-Testing-Exercise_3JT-Eval-Report-v2.pdf).
+- The report of the 3rd joint AI testing exercise, focused on LLM agents and conducted by the network of international AI Safety Institutes is published at a side event at ICML. This testing effort was led by the Singapore AI Safety Institute and some of us from NRC participated in the exercise on behalf of the Canadian AI Safety Institute. I was involved with evluation of the safety of LLM Agents in Farsi. Read the [Blog Post](https://sgaisi.sg/wp-api/wp-content/uploads/2025/07/International-Joint-Testing-Exercise_3JT-Blogpost.pdf) and the [Detailed Report](https://sgaisi.sg/wp-api/wp-content/uploads/2025/07/International-Joint-Testing-Exercise_3JT-Eval-Report-v2.pdf).
   
-- I will be presenting at the Workshop on Technical AI Governance. 
+- I will be presenting at a paper on taxonomy of natural language expalnations at the Workshop on Technical AI Governance. Read our paper [Here](https://arxiv.org/pdf/2507.10585)
 
 {: .amaranth-deep-purple}
 ### April 2025 - I gave a talk at the NLP course at Northeastern University. Thanks to amazing [Amir Tahmasebi](https://www.linkedin.com/in/amirtahmasebi/) for inviting me to his class! And thanks to students for the great questions and discussions! 

@@ -17,7 +17,7 @@ I am a Senior Research Scientist at the [National Research Council Canada](https
 
 - 🏆 **OUTSTANDING PAPER AWARD:** I am proud to have contributed to creation of PARME, the first machine translation parallel corpora covering eight endangered Middle Eastern languages. This paper was awarded as an oustanding paper at ACL, main conference. Read about PARME [here](https://aclanthology.org/2025.acl-long.1451/).
 
-- We presented a paper at LLMSec workshop on safety risks of fine-tuned LLMs. We show that finetuning, even with benign datasets, reduces safety alignment. This paper is part of a project we did with the Canadian AI Safety Institute. Read the paper [here](https://arxiv.org/abs/2506.17209).
+- We presented a paper at LLMSec workshop on safety risks of fine-tuned LLMs. We show that finetuning, even with benign datasets, reduces safety alignment. This paper is part of a project we did at NRC on behalf of the Canadian AI Safety Institute. Read the paper [here](https://arxiv.org/abs/2506.17209).
 
 {: .amaranth-deep-purple}
 ### July 2025 - I am at ICML2025 in Vancouver. 

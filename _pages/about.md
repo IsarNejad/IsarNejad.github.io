@@ -20,7 +20,7 @@ I am a Senior Research Scientist at the [National Research Council Canada](https
 - We presented a paper at LLMSec workshop on safety risks of fine-tuned LLMs. We show that finetuning, even with benign datasets, reduces safety alignment. This paper is part of a project we did at NRC on behalf of the Canadian AI Safety Institute. Read the paper [here](https://arxiv.org/abs/2506.17209).
 
 {: .amaranth-deep-purple}
-### July 2025 - I am at ICML2025 in Vancouver. 
+### July 2025 - I was at ICML2025 in Vancouver. 
 - The report of the 3rd joint AI testing exercise, focused on LLM agents and conducted by the network of international AI Safety Institutes was published at the sidelines of ICML. This testing effort was led by the Singapore AI Safety Institute and some of us from NRC participated in the exercise on behalf of the Canadian AI Safety Institute. I was involved with evluation of the safety of LLM Agents in Farsi. Read the [Blog Post](https://sgaisi.sg/wp-api/wp-content/uploads/2025/07/International-Joint-Testing-Exercise_3JT-Blogpost.pdf) and the [Detailed Report](https://sgaisi.sg/wp-api/wp-content/uploads/2025/07/International-Joint-Testing-Exercise_3JT-Eval-Report-v2.pdf).
   
 - I presented at a paper on taxonomy of natural language expalnations at the Workshop on Technical AI Governance. Read our paper [Here](https://arxiv.org/pdf/2507.10585)

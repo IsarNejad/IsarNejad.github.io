@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Senior Research Scientist at the [National Research Council Canada](https://nrc.canada.ca/en) and an Adjunct Professor at the [University of Ottawa](https://www.uottawa.ca/faculty-engineering/school-electrical-engineering-computer-science). My research focuses on leveraging AI-enabled technologies to address societal challenges, with a strong commitment to integrating ethical considerations into technological advancements.
 
-I am currently working with the Canadian AI Safety Institute (CAISI) on several projects related to the evaluation and mitigation of safety risks in AI applications. I am also part of the research group that represents Canada in International Joint Testing of Frontier Models by the network of international AI Safety Institutes.
+I am currently working with the Canadian AI Safety Institute (CAISI) on several projects related to the evaluation and mitigation of safety risks in AI applications. I am also part of the research group that represents Canada in the Joint Testing of Frontier Models by the network of international AI Safety Institutes.
 
 Before joining NRC, I served as Head of AI Research at IMRSV Data Labs, where I led a team of researchers and engineers in delivering AI solutions for Canadian businesses.
 

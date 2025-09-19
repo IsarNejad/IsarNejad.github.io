@@ -8,7 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a Senior Research Scientist at the [National Research Council Canada](https://nrc.canada.ca/en) and an Adjunct Professor at the [University of Ottawa](https://www.uottawa.ca/faculty-engineering/school-electrical-engineering-computer-science). In my [research](https://isarnejad.github.io//research/), I am interested in projects that leverage AI-enabled technologies to address societal challenges. ⁤⁤I am also dedicated to incorporating the principles of responsible AI into digital solutions to ensure ethical considerations are integrated into technological advancements. Previously, I have worked on building and deploying machine learning systems in various applications, including biomedical signal, image, speech and text processing, in both academic and industrial environments. My current work is mainly on natural language processing, or multimodal systems that combine images and text. I served as an area chair at top-tier NLP conferences such as ACL, EMNLP, and NAACL. I am a committee member at several ACL workshops on Ethical NLP, including WOAH (Workshop on Online Abuse and Harms), TrustNLP (Trustworthy Natural Language Processing) and PrivateNLP (Privacy in Natural Language Processing). Outside work, I enjoy cooking, gardening and weight training.  
+I am a Senior Research Scientist at the [National Research Council Canada](https://nrc.canada.ca/en) and an Adjunct Professor at the [University of Ottawa](https://www.uottawa.ca/faculty-engineering/school-electrical-engineering-computer-science). My research focuses on leveraging AI-enabled technologies to address societal challenges, with a strong commitment to integrating ethical considerations into technological advancements.
+
+I am currently working with the Canadian AI Safety Institute (CAISI) on several projects related to the evaluation and mitigation of safety risks in AI applications. I am also part of the research group that represents Canada in International Joint Testing of Frontier Models by the network of international AI Safety Institutes.
+
+Before joining NRC, I served as Head of AI Research at IMRSV Data Labs, where I led a team of researchers and engineers in delivering AI solutions for Canadian businesses.
+
+I am an active member of the Association for Computational Linguistics (ACL) community and serve as an area chair at leading NLP conferences such as ACL, EMNLP, and NAACL. I am also a committee member for several ACL workshops on Ethical NLP, including WOAH (Workshop on Online Abuse and Harms), TrustNLP (Trustworthy Natural Language Processing), and PrivateNLP (Privacy in Natural Language Processing).
+
+Outside of work, I enjoy cooking, gardening, and weight training.
 
 # Latest News
 

@@ -12,7 +12,7 @@ I am a Senior Research Scientist at the [National Research Council Canada](https
 
 I am currently working with the Canadian AI Safety Institute (CAISI) on several projects related to the evaluation and mitigation of safety risks in AI applications. I am also part of the research group that represents Canada in the Joint Testing of Frontier Models by the network of international AI Safety Institutes.
 
-Before joining NRC, I served as Head of AI Research at IMRSV Data Labs, where I led a team of researchers and engineers in delivering AI solutions for Canadian businesses.
+Before joining NRC, I was the Head of AI Research at IMRSV Data Labs, where I led a team of researchers and engineers in delivering AI solutions for Canadian businesses.
 
 I am an active member of the Association for Computational Linguistics (ACL) community and serve as an area chair at leading NLP conferences such as ACL, EMNLP, and NAACL. I am also a committee member for several ACL workshops on Ethical NLP, including WOAH (Workshop on Online Abuse and Harms), TrustNLP (Trustworthy Natural Language Processing), and PrivateNLP (Privacy in Natural Language Processing).
 

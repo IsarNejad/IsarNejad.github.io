@@ -21,6 +21,15 @@ Outside of work, I enjoy cooking, gardening, and weight training.
 # Latest News
 
 {: .amaranth-deep-purple}
+### October 2025 - Invited Talk 
+
+I presented "From Biased Systems to Fair Practices" at the "Diverse and Inclusive Digital Government Working Group" meeting. This Working Group serves as a platform for teams across the Government of Canada to share best practices and lessons learned on initiatives that support recruitment and career mobility for equity-seeking groups and the promotion of a more diverse and inclusive digital government.
+
+In this talk, my goal was to shed light on the nature and implications of bias in AI-based systems. I started by explaining why bias has persisted throughout the evolution of AI over the past decade. I then discussed the main sources of bias and the harms they create in real-world applications. I concluded with a discussion on how we can strive to build fair governance practices when deploying biased AI models.
+
+
+
+{: .amaranth-deep-purple}
 ### July 2025 - I was at ACL2025 in Vienna. 
 
 - 🏆 **OUTSTANDING PAPER AWARD:** I am proud to have contributed to creation of PARME, the first machine translation parallel corpora covering eight endangered Middle Eastern languages. This paper was awarded as an oustanding paper at ACL, main conference. Read about PARME [here](https://aclanthology.org/2025.acl-long.1451/).

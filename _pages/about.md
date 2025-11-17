@@ -23,6 +23,12 @@ Outside of work, I enjoy cooking, gardening, and weight training.
 {: .amaranth-deep-purple}
 ### October 2025 - Invited Talk 
 
+I presented to the participants of the **Executive Leadership Development Program** at the **Canada School of Public Service**. The session was centred around **“AI, Power, and Protocol: Building Ethical Systems for Public Good”**. I spoke about how biased and flawed technology can exacerbate the already existing inequalities. This was an incredibly interactive session, and we discussed how all of us, especially those with influence in governance and regulations, can take action to prevent harmful practices in the design and use of AI. 
+
+
+{: .amaranth-deep-purple}
+### October 2025 - Invited Talk 
+
 I presented a one-hour talk titled **“From Biased Systems to Fair Practices”** at the "Diverse and Inclusive Digital Government Working Group" meeting. This Working Group serves as a platform for teams across the Government of Canada to share best practices and lessons learned on initiatives that support recruitment and career mobility for equity-seeking groups, and to promote a more diverse and inclusive digital government.
 
 In this talk, my goal was to shed light on the nature and implications of bias in AI-based systems. I started by explaining why bias has persisted throughout the evolution of AI over the past decade. I then discussed the main sources of bias and the harms they create in real-world applications. I concluded with a discussion on how we can strive to build fair governance practices when deploying biased AI models.

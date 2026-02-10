@@ -21,6 +21,16 @@ Outside of work, I enjoy cooking, gardening, and weight training.
 # Latest News
 
 {: .amaranth-deep-purple}
+### January 2026 - AI Impact Summit
+
+I will be attending the AI Impact Summit in India February 16th -20th. 
+
+{: .amaranth-deep-purple}
+### December 2025 - Panelist
+
+I was a panelsit at the Migration Policy-Research Forum organized by IRCC and the Toronto Metropolitan University. This forum brought together leading researchers and experts from around the world to inform Canada's migration policy. I spoke about the sociotechnical evaluation of AI once deployed in a critical domain such as migration. The discussions in this forum were timely, relevant, and enriched by global perspectives. 
+
+{: .amaranth-deep-purple}
 ### October 2025 - Invited Talk 
 
 I presented to the participants of the **Executive Leadership Development Program** at the **Canada School of Public Service**. The session was centred around **“AI, Power, and Protocol: Building Ethical Systems for Public Good”**. I spoke about how biased and flawed technology can exacerbate the already existing inequalities. This was an incredibly interactive session, and we discussed how all of us, especially those with influence in governance and regulations, can take action to prevent harmful practices in the design and use of AI. 

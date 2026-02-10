@@ -23,12 +23,12 @@ Outside of work, I enjoy cooking, gardening, and weight training.
 {: .amaranth-deep-purple}
 ### January 2026 - AI Impact Summit
 
-I will be attending the AI Impact Summit in India February 16th -20th. 
+I will be attending the AI Impact Summit in India from February 16th to 20th. 
 
 {: .amaranth-deep-purple}
-### December 2025 - Panelist
+### December 2025 - Panellist
 
-I was a panelsit at the Migration Policy-Research Forum organized by IRCC and the Toronto Metropolitan University. This forum brought together leading researchers and experts from around the world to inform Canada's migration policy. I spoke about the sociotechnical evaluation of AI once deployed in a critical domain such as migration. The discussions in this forum were timely, relevant, and enriched by global perspectives. 
+I was a panellist at the **Migration Policy-Research Forum** organized by IRCC and the Toronto Metropolitan University. This forum brought together leading researchers and experts from around the world to inform Canada's migration policy. I spoke about the sociotechnical evaluation of AI once deployed in a critical domain such as migration. The discussions in this forum were timely, relevant, and enriched by global perspectives. 
 
 {: .amaranth-deep-purple}
 ### October 2025 - Invited Talk 

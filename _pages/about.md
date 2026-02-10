@@ -25,7 +25,7 @@ Email: isar.nejadgholi@nrc-cnrc.gc.ca
 # Latest News
 
 {: .amaranth-deep-purple}
-### January 2026 - AI Impact Summit
+### February 2026 - AI Impact Summit
 
 I will be attending the AI Impact Summit in India from February 16th to 20th. 
 

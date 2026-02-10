@@ -18,6 +18,10 @@ I am an active member of the Association for Computational Linguistics (ACL) com
 
 Outside of work, I enjoy cooking, gardening, and weight training.
 
+# Contact 
+Email: isar.nejadgholi@nrc-cnrc.gc.ca
+
+
 # Latest News
 
 {: .amaranth-deep-purple}

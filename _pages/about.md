@@ -33,7 +33,7 @@ What stood out to me was India’s role as a leader in AI adoption in the Global
 
 While the main sessions were interesting, they offered limited space for interpersonal interactions due to the large crowd. However, the conference was complemented by many invite-only side events, which provided the perfect environment for exchanging ideas and having focused conversations. For me, the dinner organized by Adaption, the Safety Connect Day organized by the AI Safety Connect Institute, and the breakfast organized by Humane Intelligence stood out for the abundance of brilliance in the room. I also spent a delightful night at the High Commission of Canada in India, where I got the chance to talk to many Canadian leaders in the AI space.
 
-At the end, I enjoyed one day of sightseeing in magnificent Delhi and found the Indians to be very kind and hospitable.
+At the end, I enjoyed one day of sightseeing in magnificent Delhi and was deeply impressed by the warmth and hospitality of its people. 
 
 {: .amaranth-deep-purple}
 ### December 2025 - Panellist

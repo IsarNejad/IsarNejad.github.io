@@ -29,11 +29,11 @@ Email: <isar.nejadgholi@nrc-cnrc.gc.ca>
 
 I attended the AI Impact Summit in India from February 16th to 20th. This was a large event that brought together researchers, policymakers, and industry leaders from all over the world for a week packed with expert panels, discussions, and meetings. The highlights of the event went viral on social media several times.
 
-What stood out to me was India’s role as a leader in AI adoption in the Global South. India made a strong case for why inclusivity and accessibility of technology are key to maximizing social and economic impact.I also participated in many sessions where leaders from the EU, UK, Canada, Singapore, Japan, and the broader network of AI safety institutes advocated for regulation and safety research, each from a slightly different angle.
+What stood out to me was India’s role as a leader in AI adoption in the Global South. India made a strong case for why inclusivity and accessibility of technology are key to maximizing social and economic impact. I also participated in many sessions where leaders from the EU, UK, Canada, Singapore, Japan, and the broader network of AI safety institutes advocated for regulation and safety research, each from a slightly different angle.
 
-While the main sessions were interesting, they offered limited space for interpersonal interactions due to the large crowd. However, the conference was complemented by many invite-only side events, which provided the perfect environment for exchanging ideas and having focused conversations. For me, the dinner organized by Adaption, the Safety Connect Day organized by the AI Safety Connect Institute, and the breakfast organized by Humane Intelligence stood out for the abundance of brilliance in the room. I also spent a delightful night at the high commission of Canada in India, where I got the chance to talk to many Canadian leaders in the AI space.
+While the main sessions were interesting, they offered limited space for interpersonal interactions due to the large crowd. However, the conference was complemented by many invite-only side events, which provided the perfect environment for exchanging ideas and having focused conversations. For me, the dinner organized by Adaption, the Safety Connect Day organized by the AI Safety Connect Institute, and the breakfast organized by Humane Intelligence stood out for the abundance of brilliance in the room. I also spent a delightful night at the High Commission of Canada in India, where I got the chance to talk to many Canadian leaders in the AI space.
 
-At the end I enjoyed one day of sightseeing in magnificent Delhi and found Indians to be very kind and hospitable.
+At the end, I enjoyed one day of sightseeing in magnificent Delhi and found the Indians to be very kind and hospitable.
 
 {: .amaranth-deep-purple}
 ### December 2025 - Panellist

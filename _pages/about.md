@@ -33,7 +33,7 @@ My colleagues Yvan Gauthier, Dan Lowcay, Chantal Barton, and I presented at the 
 {: .amaranth-deep-purple}
 ### May 2026 - CIFAR AI Safety Postdoctoral Fellows Retreat
 
-I was invited to speak at the [CIFAR AI Safety Postdoctoral Fellows Spring Retreat](https://events.cifar.ca/website/94681/agenda/). At this event, which took place in Montreal, I talked about my (nonlinear) career journey and my  current roles as a researcher at the NRC. Other career talks were given by Philip Beadoin, from Lawzero, representing industry and Duncan Cass-Beggs from Global Risk Initiative (CIGI) representing civil society. The program continued with outstanding lighting talks by the postdoctoral fellows and closing remarks by Elissa Strome, the executive director of the pan-Canadian AI strategy, at CIFAR. 
+I was invited to speak at the [CIFAR AI Safety Postdoctoral Fellows Spring Retreat](https://events.cifar.ca/website/94681/agenda/). At this event, which took place in Montreal, I talked about my (nonlinear) career journey and my current roles as a researcher at the NRC. Other career talks were given by Philip Beadoin, from Lawzero, representing industry and Duncan Cass-Beggs from Global Risk Initiative (CIGI) representing civil society. The program started with a thought-provoking talk about Canada's AI ecosystem by Jake Hirsch-Allan, Director of Partnerships, at The Dais, continued with outstanding lighting talks by the postdoctoral fellows and closed with remarks by Elissa Strome, the executive director of the pan-Canadian AI strategy, at CIFAR. 
 
 ### April 2026 - Completing Course OSS2010 at the School of Information Technology at Carleton University
 

@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Senior Research Scientist at the [National Research Council Canada](https://nrc.canada.ca/en) and an Adjunct Professor at the [University of Ottawa](https://www.uottawa.ca/faculty-engineering/school-electrical-engineering-computer-science). My research focuses on leveraging AI-enabled technologies to address societal challenges, with a strong commitment to integrating ethical considerations into technological advancements.
+I am a Team Leader and a Senior Research Scientist at the [National Research Council Canada](https://nrc.canada.ca/en). I am also an Adjunct Professor at the School of Electrical Engineering and Computer Science at the [University of Ottawa](https://www.uottawa.ca/faculty-engineering/school-electrical-engineering-computer-science). At the NRC, I lead the Natural Language Processing and Text Analytics Team. Also, my research focuses on leveraging AI-enabled technologies to address societal challenges, with a strong commitment to integrating ethical and safety considerations into technological advancements.
 
 I am currently working with the Canadian AI Safety Institute (CAISI) on several projects related to the evaluation and mitigation of safety risks in AI applications. I am also part of the research group that represents Canada in the Joint Testing of LLMs and agentic AI, conducted by the network of international AI Safety Institutes.
 
@@ -23,6 +23,17 @@ Email: <isar.nejadgholi@nrc-cnrc.gc.ca>
 
 
 # Latest News
+
+{: .amaranth-deep-purple}
+### May 2026 - Canada School of Public Service AI Learning Week
+
+My colleagues Yvan Gauthier, Dan Lowcay, Chantal Barton, and I presented at the learning event [Large Language Models Explained](https://catalogue.csps-efpc.gc.ca/product?catalog=DDN1-E25&cm_locale=en&pk_vid=bd1ea50e29b3272017773813745fad48). This event was open to all public servants at all levels, and we discussed how LLMs are built, used and sometimes misused and what all of that means for adopters of this technology at different levels. The event was attended by thousands of employees of the GoC, and we had a very engaging Q&A session after the presentations.  
+
+
+{: .amaranth-deep-purple}
+### May 2026 - CIFAR AI Safety Postdoctoral Fellows Retreat
+
+I was invited to speak at a [career development session for the postdoctoral awardees of the CIFAR AI safety program](https://events.cifar.ca/website/94681/agenda/). At this event, which took place in Montreal, I talked about my (nonlinear) career journey and my  current roles as a researcher at the NRC. Other career talks were given by Philip Beadoin, from Lawzero, representing industry and Duncan Cass-Beggs from Global Risk Initiative (CIGI) representing civil society. The program continued with outstanding lighting talks by the postdoctoral fellows and closing remarks by Elissa Strome, the executive director of the pan-Canadian AI strategy, at CIFAR. 
 
 {: .amaranth-deep-purple}
 ### February 2026 - AI Impact Summit

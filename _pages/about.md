@@ -25,7 +25,7 @@ Email: <isar.nejadgholi@nrc-cnrc.gc.ca>
 # Latest News
 
 {: .amaranth-deep-purple}
-### May 2026 - Canada School of Public Service AI Learning Week
+### May 2026 - AI Learning Week organized by the Canada School of Public Service 
 
 My colleagues Yvan Gauthier, Dan Lowcay, Chantal Barton, and I presented at the learning event [Large Language Models Explained](https://catalogue.csps-efpc.gc.ca/product?catalog=DDN1-E25&cm_locale=en&pk_vid=bd1ea50e29b3272017773813745fad48). This event was open to all public servants at all levels, and we discussed how LLMs are built, used and sometimes misused and what all of that means for adopters of this technology at different levels. The event was attended by thousands of employees of the GoC, and we had a very engaging Q&A session after the presentations.  
 

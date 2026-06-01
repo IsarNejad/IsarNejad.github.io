@@ -33,7 +33,17 @@ My colleagues Yvan Gauthier, Dan Lowcay, Chantal Barton, and I presented at the 
 {: .amaranth-deep-purple}
 ### May 2026 - CIFAR AI Safety Postdoctoral Fellows Retreat
 
-I was invited to speak at a [career development session for the postdoctoral awardees of the CIFAR AI safety program](https://events.cifar.ca/website/94681/agenda/). At this event, which took place in Montreal, I talked about my (nonlinear) career journey and my  current roles as a researcher at the NRC. Other career talks were given by Philip Beadoin, from Lawzero, representing industry and Duncan Cass-Beggs from Global Risk Initiative (CIGI) representing civil society. The program continued with outstanding lighting talks by the postdoctoral fellows and closing remarks by Elissa Strome, the executive director of the pan-Canadian AI strategy, at CIFAR. 
+I was invited to speak at the [CIFAR AI Safety Postdoctoral Fellows Spring Retreat](https://events.cifar.ca/website/94681/agenda/). At this event, which took place in Montreal, I talked about my (nonlinear) career journey and my  current roles as a researcher at the NRC. Other career talks were given by Philip Beadoin, from Lawzero, representing industry and Duncan Cass-Beggs from Global Risk Initiative (CIGI) representing civil society. The program continued with outstanding lighting talks by the postdoctoral fellows and closing remarks by Elissa Strome, the executive director of the pan-Canadian AI strategy, at CIFAR. 
+
+### April 2026 - Completing Course OSS2010 at the School of Information Technology at Carleton University
+
+In the winter 2026 semester, I taught signals and systems to a cohort of students at the School of Information Technology at Carleton University. This was an amazing experience for me, and I truly enjoyed connecting with students over super mathy content, which I miss in my daily activities :)  
+
+{: .amaranth-deep-purple}
+### March 2026 - My first PhD student successfully defended her thesis. 
+
+I am deeply happy to see that Dr. Hamideh Ghanadian successfully defended her PhD thesis, Suicide Ideation Detection from Social Media Using Language Models: Data Augmentation and Interpretability, at the University of Ottawa. It was an honour to co-supervise her work alongside Professor Hussein Al Osman. Hamideh did a great job, and I cannot wait to see what comes next for her. 
+
 
 {: .amaranth-deep-purple}
 ### February 2026 - AI Impact Summit

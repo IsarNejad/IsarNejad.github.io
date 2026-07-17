@@ -59,7 +59,7 @@ A Dataset and Taxonomy on Aporophobia, Accepted at the findings of NAACL 2025.
 {: .gray}
 ### Responsible AI for Immigration Settlement in Canada:
 
-- Isar Nejadgholi, Maryam Molamohammadi, Samir Bakhtawar, (2024), Risks of General-Purpose LLMs for Settling Newcomers in Canada, Accepted as a book chapter to be published at Women in Engineering and Science Springer Book Series: AI and Sustainability Volume, [[Read the chapter](https://isarnejad.github.io/files/AI-in-Settlement.pdf){:target="_blank"}].
+- Isar Nejadgholi, Maryam Molamohammadi, Samir Bakhtawar, (2024), Risks of General-Purpose LLMs for Settling Newcomers in Canada, Women in Engineering and Science Springer Book Series: AI and Sustainability Volume, [[Read the chapter](https://isarnejad.github.io/files/AI-in-Settlement.pdf){:target="_blank"}]. [[book chapter](https://link.springer.com/chapter/10.1007/978-3-031-95890-8_11){:target="_blank"}]  
 - Isar Nejadgholi, Maryam Molamohammadi, Kimiya Missaghi, Samir Bakhtawar (2024) Human-Centered AI Applications for Canada’s Immigration Settlement Sector, AAAI/ACM Conference on AI, Ethics and Society, San Jose, USA. [[Paper](https://ojs.aaai.org/index.php/AIES/article/view/31701)]
 - Isar Nejadgholi, Maryam Molamohammadi, Samir Bakhtawar, (2024), Risks of General-Purpose LLMs for Settling Newcomers in Canada, ACM Conference on Fairness, Accountability and Transparency (FAccT). [[Tutorial](https://facctconference.org/2024/acceptedtutorials)] 
 - Anna Jahn, Isar Nejadgholi and Maryam Molamohammadi, (2023). Responsible AI in Settlement Services: Challenges, Social Context, and Ethical AI Solutions. Pathway to Prosperity National Conference. [[workshop page](https://site.pheedloop.com/event/EVEHAYZSFXPTO/schedule/SES0UFO405SMXA1ZG)].

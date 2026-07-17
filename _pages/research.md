@@ -8,7 +8,9 @@ author_profile: true
 {: .amaranth-deep-purple}
 ## AI for Social Impact
   - [**Detecting and Countering Toxic Language on Social Media:**](#Det-Count-Stereo) This project uses NLP techniques to detect and counter toxic language on social media that can lead to material and psychological harm.
-  - [**Responsible AI for Immigration Settlement in Canada:**](#Immigration) This project focuses on adopting human-centred AI tools to make immigration settlement in Canada more efficient. 
+  - [**Responsible AI for Immigration Settlement in Canada:**](#Immigration) This project focuses on adopting human-centred AI tools to make immigration settlement in Canada more efficient.
+  - [**Multimodal Social Media Analysis for Wildfire Response:**](#MultiModal-Disaster) This project leverages social media to inform wildfire response in Canada. The project is funded by the New Beginning Initiative Program and is in collaboration with Carleton University.
+  - [**Social Media Analysis for Early Detection of Suicide Ideation:**](#suicide) This project is in collaboration with the University of Ottawa and focuses on developing tools for the early detection of suicidal ideation on social media.
     
 {: .amaranth-deep-purple}
 ## Responsible AI: 
@@ -24,8 +26,6 @@ author_profile: true
          
 {: .amaranth-deep-purple}
 ## Machine Learning Applications
-   - [**Multimodal Social Media Analysis for Wildfire Response:**](#MultiModal-Disaster) This project leverages social media to inform wildfire response in Canada. The project is funded by the New Beginning Initiative Program and is in collaboration with Carleton University.
-   - [**Social Media Analysis for Early Detection of Suicide Ideation:**](#suicide) This project is in collaboration with the University of Ottawa and focuses on developing tools for the early detection of suicidal ideation on social media.
   - [**Medical Data Analysis**](#biomedical): This line of work analyzed different forms of biomedical data to increase the efficiency and accuracy of diagnosis and treatment in medical applications. 
   - [**Audio and Speech Processing**](#Speech): This research  developed neural network models for improving Farsi speech recognition. 
   - [**Facial Recognition**](#PhD): This work developed neural network models for facial expression detection and facial image generation. 
@@ -75,14 +75,6 @@ A Dataset and Taxonomy on Aporophobia, Accepted at the findings of NAACL 2025.
 - Braeden Sherritt, Isar Nejadgholi, Efstratios Aivaliotis, Khaled Mslmani, and Marzieh Amini. (2025) WildFireCan-MMD: A Multimodal Dataset for Classification of User-Generated Content During Wildfires in Canada. In Findings of the Association for Computational Linguistics: IJCNLP-AACL 2025, pp. 884-902. [[paper](https://aclanthology.org/2025.findings-ijcnlp.53/)] [[pdf](https://arxiv.org/pdf/2504.13231.pdf)]
 - - Braeden Sherritt, Isar Nejadgholi, and Marzieh Amini. (2025) Analysis of Canadian Wildfire Tweets Over Seven Years. In Proceedings of the Canadian Conference on Artificial Intelligence (Canadian AI 2025). [[paper](https://caiac.pubpub.org/pub/nzt63ve8)]
 
-<a id="other"></a>
-
-{: .gray}
-### Other projects
-
-- Rongchen Guo, Vincent Francoeur, Isar Nejadgholi, Sylvain Gagnon, and Miodrag Bolic. (2025) Semantic Differentiation in Speech Emotion Recognition: Insights from Descriptive and Expressive Speech Roles. In Proceedings of the 14th Joint Conference on Lexical and Computational Semantics (*SEM 2025), Suzhou, China, pp. 70-82. [[paper](https://aclanthology.org/2025.starsem-1.6/)] [[pdf](https://arxiv.org/pdf/2510.03060.pdf)]
-- Sina Ahmadi, Rico Sennrich, et al. (incl. Isar Nejadgholi). (2025) PARME: Parallel Corpora for Low-Resourced Middle Eastern Languages. In Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pp. 30032-30053. [[paper](https://aclanthology.org/2025.acl-long.1451/)]
-
 <a id="safety"></a>
 
 {: .gray}
@@ -125,6 +117,7 @@ A Dataset and Taxonomy on Aporophobia, Accepted at the findings of NAACL 2025.
 {: .gray}
 ### Ethical Challenges in NLP Applications:
 
+- Rongchen Guo, Vincent Francoeur, Isar Nejadgholi, Sylvain Gagnon, and Miodrag Bolic. (2025) Semantic Differentiation in Speech Emotion Recognition: Insights from Descriptive and Expressive Speech Roles. In Proceedings of the 14th Joint Conference on Lexical and Computational Semantics (*SEM 2025), Suzhou, China, pp. 70-82. [[paper](https://aclanthology.org/2025.starsem-1.6/)] [[pdf](https://arxiv.org/pdf/2510.03060.pdf)]
 - Hillary Dawkins, Isar Nejadgholi, and Chi-kiu Lo. (2025) Gender-Neutral Machine Translation Strategies in Practice. arXiv preprint. [[pdf](https://arxiv.org/pdf/2506.15676.pdf)]
 - Hillary, Dawkins, Isar Nejadgholi, Chi-Kiu Lo (2024) WMT24 Test Suite: Gender Resolution in Speaker-Listener Dialogue Roles. In Proceedings of the Ninth Conference on Machine Translation (pp. 307-326). [[pdf](https://aclanthology.org/2024.wmt-1.25/)]
 - Svetlana Kiritchenko, Isar Nejadgholi, and Kathleen C. Fraser (2021) Confronting Abusive Language Online: A Survey from the Ethical and Human Rights Perspective. Journal of Artificial Intelligence Research, 71: 431-478, July 2021. [[pdf](https://jair.org/index.php/jair/article/view/12590/26695)] [[Extended Abstract](https://www.svkir.com/papers/Kiritchenko-et-al-ExtendedAbstract-IJCAI-2022.pdf)]

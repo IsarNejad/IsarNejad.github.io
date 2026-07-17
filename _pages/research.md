@@ -73,7 +73,7 @@ A Dataset and Taxonomy on Aporophobia, Accepted at the findings of NAACL 2025.
 ### Wildfire Monitoring on Social Media 
 
 - Braeden Sherritt, Isar Nejadgholi, Efstratios Aivaliotis, Khaled Mslmani, and Marzieh Amini. (2025) WildFireCan-MMD: A Multimodal Dataset for Classification of User-Generated Content During Wildfires in Canada. In Findings of the Association for Computational Linguistics: IJCNLP-AACL 2025, pp. 884-902. [[paper](https://aclanthology.org/2025.findings-ijcnlp.53/)] [[pdf](https://arxiv.org/pdf/2504.13231.pdf)]
-- - Braeden Sherritt, Isar Nejadgholi, and Marzieh Amini. (2025) Analysis of Canadian Wildfire Tweets Over Seven Years. In Proceedings of the Canadian Conference on Artificial Intelligence (Canadian AI 2025). [[paper](https://caiac.pubpub.org/pub/nzt63ve8)]
+- Braeden Sherritt, Isar Nejadgholi, and Marzieh Amini. (2025) Analysis of Canadian Wildfire Tweets Over Seven Years. In Proceedings of the Canadian Conference on Artificial Intelligence (Canadian AI 2025). [[paper](https://caiac.pubpub.org/pub/nzt63ve8)]
 
 <a id="safety"></a>
 
@@ -152,6 +152,8 @@ A Dataset and Taxonomy on Aporophobia, Accepted at the findings of NAACL 2025.
 ### Social Media Analysis for Early Detection of Suicide Ideation:
 
 - Hamideh Ghanadian, Isar Nejadgholi, and Hussein Al Osman. (2026) Beyond Accuracy: Interpreting Topic Representation in Suicide Ideation Detection Models. arXiv preprint. [[pdf](https://arxiv.org/pdf/2606.07714.pdf)]
+
+- Hamideh Ghanadian, Isar Nejadgholi, and Hussein Al Osman. (2025) Improving Suicidal Ideation Detection in Social Media Posts: Topic Modeling and Synthetic Data Augmentation Approach. JMIR Formative Research, 9:e63272. [[paper](https://formative.jmir.org/2025/1/e63272)] [[doi](https://doi.org/10.2196/63272)]
   
 - Hamideh Ghanadian, Isar Nejadgholi, Hussein Al Osman (2024). Socially Aware Synthetic Data Generation for Suicidal Ideation Detection Using Large Language Models. IEEE Access.[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10413447)]
 

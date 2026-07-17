@@ -12,6 +12,7 @@ author_profile: true
     
 {: .amaranth-deep-purple}
 ## Responsible AI: 
+  - [**AI Safety:**](#safety) This is a set of projects in collaboration with the Canadian AI Safety Institute. 
   - [**Explainability:**](#explain) This project uses natural language and concept-based explanations to analyze a model and understand its safety, generalizability, fairness and robustness flaws. 
   - [**Bias in Language Models:**](#Bias) This line of research analyzes the model's output to uncover biases learned by text classifiers and generative models.
   - [**Ethical Challenges in NLP Applications:**](#JAIR) This line of work investigates ethical considerations at different stages of developing an NLP system for various tasks, including abusive language detection and machine translation.
@@ -65,11 +66,43 @@ A Dataset and Taxonomy on Aporophobia, Accepted at the findings of NAACL 2025.
 - Anna Jahn, Isar Nejadgholi and Maryam Molamohammadi, (2023). Responsible AI in Settlement Services: Challenges, Social Context, and Ethical AI Solutions. Pathway to Prosperity National Conference. [[workshop page](https://site.pheedloop.com/event/EVEHAYZSFXPTO/schedule/SES0UFO405SMXA1ZG)].
 - Isar Nejadgholi, Renaud Bougueng, and Samuel Witherspoon (2017). A Semi-Supervised Training Method for Semantic Search of Legal Facts in Canadian Immigration Cases. In Legal Knowledge and Information Systems (pp. 125-134). IOS Press. [[Paper](https://orbilu.uni.lu/bitstream/10993/33777/1/9781614998389.pdf#page=135)]
 
+
+<a id="MultiModal-Disaster"></a>
+
+{: .gray}
+### Wildfire Monitoring on Social Media 
+
+- Braeden Sherritt, Isar Nejadgholi, Efstratios Aivaliotis, Khaled Mslmani, and Marzieh Amini. (2025) WildFireCan-MMD: A Multimodal Dataset for Classification of User-Generated Content During Wildfires in Canada. In Findings of the Association for Computational Linguistics: IJCNLP-AACL 2025, pp. 884-902. [[paper](https://aclanthology.org/2025.findings-ijcnlp.53/)] [[pdf](https://arxiv.org/pdf/2504.13231.pdf)]
+- - Braeden Sherritt, Isar Nejadgholi, and Marzieh Amini. (2025) Analysis of Canadian Wildfire Tweets Over Seven Years. In Proceedings of the Canadian Conference on Artificial Intelligence (Canadian AI 2025). [[paper](https://caiac.pubpub.org/pub/nzt63ve8)]
+
+<a id="other"></a>
+
+{: .gray}
+### Other projects
+
+- Rongchen Guo, Vincent Francoeur, Isar Nejadgholi, Sylvain Gagnon, and Miodrag Bolic. (2025) Semantic Differentiation in Speech Emotion Recognition: Insights from Descriptive and Expressive Speech Roles. In Proceedings of the 14th Joint Conference on Lexical and Computational Semantics (*SEM 2025), Suzhou, China, pp. 70-82. [[paper](https://aclanthology.org/2025.starsem-1.6/)] [[pdf](https://arxiv.org/pdf/2510.03060.pdf)]
+- Sina Ahmadi, Rico Sennrich, et al. (incl. Isar Nejadgholi). (2025) PARME: Parallel Corpora for Low-Resourced Middle Eastern Languages. In Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pp. 30032-30053. [[paper](https://aclanthology.org/2025.acl-long.1451/)]
+
+<a id="safety"></a>
+
+{: .gray}
+### AI Safety 
+
+- Ee Wei Seah, Yongsen Zheng, et al. (incl. Isar Nejadgholi; multi-institution AI Safety Institute network report). (2026) Improving Methodologies for Agentic Evaluations Across Domains: Leakage of Sensitive Information, Fraud and Cybersecurity Threats. arXiv preprint. [[pdf](https://arxiv.org/pdf/2601.15679.pdf)]
+- Akriti Vij, Benjamin Chua, et al. (incl. Isar Nejadgholi; multi-institution AI Safety Institute network report). (2026) Improving Methodologies for LLM Evaluations Across Global Languages. arXiv preprint. [[pdf](https://arxiv.org/pdf/2601.15706.pdf)]
+- Reva Schwartz, Carina Westling, Morgan Briggs, Marzieh Fadaee, Isar Nejadgholi, Matthew Holmes, Fariza Rashid, Maya Carlyle, Afaf Taïk, Kyra Wilson, Peter Douglas, Theodora Skeadas, Gabriella Waters, Rumman Chowdhury, and Thiago Lacerda. (2026) CIRCLE: A Framework for Evaluating AI from a Real-World Lens. arXiv preprint. [[pdf](https://arxiv.org/pdf/2602.24055.pdf)]
+- Isar Nejadgholi, Masoud Kianpour, Krishnapriya Vishnubhotla, and Maryam Molamohamadi. (2026) Defining Cultural Capabilities for AI Evaluation: A Taxonomy Grounded in Intercultural Communication Theory. arXiv preprint. [[pdf](https://arxiv.org/pdf/2605.15990.pdf)]
+- Krishnapriya Vishnubhotla, Sowmya Vajjala, Akriti Vij, and Isar Nejadgholi. (2026) LLM Judges Inconsistently Disagree Across Safety Criteria and Harm Categories. arXiv preprint. [[pdf](https://arxiv.org/pdf/2605.31381.pdf)]
+- Krishnapriya Vishnubhotla, Hillary Dawkins, Isar Nejadgholi, and Svetlana Kiritchenko. (2026) Safety Measurements for Fine-tuned LLMs Should be Grounded in Capability. arXiv preprint. [[pdf](https://arxiv.org/pdf/2606.03648.pdf)]
+- Isar Nejadgholi, Mona Omidyeganeh, Marc-Antoine Drouin, and Jonathan Boisvert. (2025) A Taxonomy for Design and Evaluation of Prompt-Based Natural Language Explanations. arXiv preprint. [[pdf](https://arxiv.org/pdf/2507.10585.pdf)]
+- Kathleen C. Fraser, Hillary Dawkins, Isar Nejadgholi, and Svetlana Kiritchenko. (2025) Fine-Tuning Lowers Safety and Disrupts Evaluation Consistency. arXiv preprint. [[pdf](https://arxiv.org/pdf/2506.17209.pdf)]
+
 <a id="explain"></a>
 
 {: .gray}
 ### Explainability:
 
+- Laurent Cheret, Vincent Létourneau, Isar Nejadgholi, Chris Drummond, Hussein Al Osman, and Maia Fraser. (2026) Manifold-Matching Autoencoders. arXiv preprint. [[pdf](https://arxiv.org/pdf/2603.16568.pdf)]
 - Rongchen Guo, Isar Nejadgholi, Hillary Dawkins, Kathleen C. Fraser, and Svetlana Kiritchenko. (2024) Adaptable Moral Stances of Large Language Models on Sexist Content: Implications for Society and Gender Discourse. In Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing, pp. 19548-19564.[[Pdf](https://aclanthology.org/2024.emnlp-main.1090/)]
 - Isar Nejadgholi, Svetlana Kiritchenko, Kathleen C. Fraser, and Esma Balkir. (2023) Concept-Based Explanations to Test for False Causal Relationships Learned by Abusive Language Classifiers. In Proceedings of the 7th Workshop on Online Abuse and Harms (WOAH), Toronto, ON, Canada, July 2023. [[pdf](https://arxiv.org/pdf/2307.01900.pdf)] [[code](https://github.com/IsarNejad/Global-Sufficiency)]
 - Isar Nejadgholi, Esma Balkir, Kathleen C. Fraser, and Svetlana Kiritchenko. (2022) Towards Procedural Fairness: Uncovering Biases in How a Toxic Language Classifier Uses Sentiment Information. In Proceedings of the Workshop on Analyzing and Interpreting Neural Networks for NLP (BlackboxNLP), Abu Dhabi, United Arab Emirates, Dec. 2022. [[pdf](https://arxiv.org/pdf/2210.10689.pdf)] [[code](https://github.com/IsarNejad/Procedural-Fairness-Sentiment)]
@@ -92,6 +125,7 @@ A Dataset and Taxonomy on Aporophobia, Accepted at the findings of NAACL 2025.
 {: .gray}
 ### Ethical Challenges in NLP Applications:
 
+- Hillary Dawkins, Isar Nejadgholi, and Chi-kiu Lo. (2025) Gender-Neutral Machine Translation Strategies in Practice. arXiv preprint. [[pdf](https://arxiv.org/pdf/2506.15676.pdf)]
 - Hillary, Dawkins, Isar Nejadgholi, Chi-Kiu Lo (2024) WMT24 Test Suite: Gender Resolution in Speaker-Listener Dialogue Roles. In Proceedings of the Ninth Conference on Machine Translation (pp. 307-326). [[pdf](https://aclanthology.org/2024.wmt-1.25/)]
 - Svetlana Kiritchenko, Isar Nejadgholi, and Kathleen C. Fraser (2021) Confronting Abusive Language Online: A Survey from the Ethical and Human Rights Perspective. Journal of Artificial Intelligence Research, 71: 431-478, July 2021. [[pdf](https://jair.org/index.php/jair/article/view/12590/26695)] [[Extended Abstract](https://www.svkir.com/papers/Kiritchenko-et-al-ExtendedAbstract-IJCAI-2022.pdf)]
 - Isar Nejadgholi and Svetlana Kiritchenko (2020). On Cross-Dataset Generalization in Automatic Detection of Online Abuse. In Proceedings of the 4th Workshop on Online Abuse and Harms at EMNLP-2020. [[pdf](https://aclanthology.org/2020.alw-1.20/)]
@@ -110,6 +144,8 @@ A Dataset and Taxonomy on Aporophobia, Accepted at the findings of NAACL 2025.
 {: .gray}
 ### Uncovering and Combating Stereotypes:
 
+- Svetlana Kiritchenko, Anna Kerkhof, Isar Nejadgholi, and Kathleen C. Fraser. (2025) From Perceived Effectiveness to Measured Impact: Identity-Aware Evaluation of Automated Counter-Stereotypes. In Proceedings of the IAAI/ALA Workshop @ ECAI 2025. [[pdf](https://ceur-ws.org/Vol-4136/iaai4.pdf)]
+- Georgina Curto, Svetlana Kiritchenko, Muhammad Hammad Fahim Siddiqui, Isar Nejadgholi, and Kathleen C. Fraser. (2025) Tackling Social Bias against the Poor: A Dataset and a Taxonomy on Aporophobia. In Findings of the Association for Computational Linguistics: NAACL 2025, pp. 6995-7016. [[paper](https://aclanthology.org/2025.findings-naacl.388/)] [[pdf](https://arxiv.org/pdf/2504.13085.pdf)]
 - Kathleen C. Fraser, Svetlana Kiritchenko, Isar Nejadgholi (2024). How Does Stereotype Content Differ Across Data Sources? Proceedings of the 13th Joint Conference on Lexical and Computational Semantics (* SEM 2024). [[pdf](https://aclanthology.org/2024.starsem-1.2.pdf)]
 - Isar Nejadgholi, Kathleen C. Fraser, Anna Kerkhof, and Svetlana Kiritchenko (2024). Challenging Negative Gender Stereotypes: A Study on the Effectiveness of Automated Counter-Stereotypes. In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024) (pp. 3005-3015). [[pdf](https://aclanthology.org/2024.lrec-main.268/)]
 - Kathleen C. Fraser, Svetlana Kiritchenko, Isar Nejadgholi, and Anna Kerkhof (2023) What Makes a Good Counter-Stereotype? Evaluating Strategies for Automated Responses to Stereotypical Text. In Proceedings of the First Workshop on Social Influence in Conversations (SICon), Toronto, ON, Canada, July 2023. [[pdf](https://www.svkir.com/papers/Fraser-et-al-CounterStereotypes-SICon-2023.pdf)]
@@ -122,7 +158,8 @@ A Dataset and Taxonomy on Aporophobia, Accepted at the findings of NAACL 2025.
 {: .gray}
 ### Social Media Analysis for Early Detection of Suicide Ideation:
 
-
+- Hamideh Ghanadian, Isar Nejadgholi, and Hussein Al Osman. (2026) Beyond Accuracy: Interpreting Topic Representation in Suicide Ideation Detection Models. arXiv preprint. [[pdf](https://arxiv.org/pdf/2606.07714.pdf)]
+  
 - Hamideh Ghanadian, Isar Nejadgholi, Hussein Al Osman (2024). Socially Aware Synthetic Data Generation for Suicidal Ideation Detection Using Large Language Models. IEEE Access.[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10413447)]
 
 - Hamideh Ghanadian, Isar Nejadgholi, Hussein Al Osman (2023). ChatGPT for Suicide Risk Assessment on Social Media: Quantitative Evaluation of Model Performance, Potentials and Limitations. 13th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis (WASSA at ACL 2023), Toronto, Canada. [[Paper](https://arxiv.org/abs/2306.09390)]

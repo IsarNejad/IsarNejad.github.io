@@ -23,6 +23,17 @@ Email: <isar.nejadgholi@nrc-cnrc.gc.ca>
 
 
 # Latest News
+{: .amaranth-deep-purple}
+### November 2026 - AI Safety Week
+In AI safety week, November 9th to 13th, I was in Toronto and attended several meetings and events. The week started with [Women in AI Safety Symposium](https://womeninaisafety.toronto.acm.org/). During the week I listened to [Hinton Lectures](https://aisfoundation.ai/hinton-lectures?gad_source=1&gad_campaignid=24466770627&gbraid=0AAAABEta2OOqNJ24_XgY0-O6BaQw2MUFG&gclid=Cj0KCQiAiJXYBhD_ARIsAAx2AHkDXlU_wE3Q17y72fxCC0ssD1TGQyoo9oEUjQ6jBjMpl8oqhgoQZtUaAu4kEALw_wcB) and other eye-opening talks and conversations. I was also invited by [Azadeh Yadollahi](https://www.uhnresearch.ca/researcher/azadeh-yadollahi) to give a talk about AI safety for a bright audience from the [KIT institute](https://kite-uhn.com/). The week ended with [a fantastic workshops held by CIFAR](https://lnkd.in/p/gAkpTUfH). 
+
+{: .amaranth-deep-purple}
+### October 2026 - CIFAR workshop on Evaluation of Dialect Bias in LLMs
+Brought together by CIFAR, experts from York University, Brock University, Mila - Quebec Artificial Intelligence Institute, Cohere Labs, National Research Council Canada and others are collaborating to build fairer benchmarks, open-source mitigation toolkits and scalable safety solutions. This was a great event where this group met and discussed technical details of such projects. [Read more here.](https://www.linkedin.com/feed/update/urn:li:ugcPost:7518666840806612992/)
+
+{: .amaranth-deep-purple}
+### July 2026 - ICML and Safety-Focused Events Organized by AISIs
+I participated in ICML and specifically attended several workshops and events organized by the network of AISIs at its sidelines. 
 
 {: .amaranth-deep-purple}
 ### May 2026 - AI Learning Week Organized by the Canada School of Public Service 
